@@ -1,0 +1,547 @@
+learner_email,course_id,course_title,completed_on
+amelie.devos@norvane.example,C-001,Opleiding SCADA,2025-06-01
+amelie.devos@norvane.example,C-037,Opleiding BA5,2024-08-23
+amelie.devos@norvane.example,C-101,Opleiding vorm- en plaatstoleranties,2025-05-15
+amelie.devos@norvane.example,C-103,Opleiding SQL,2026-03-22
+amelie.laurent@norvane.example,C-267,Introduction to ANSYS,2023-07-17
+amelie.pauwels@norvane.example,C-195,preventive maintenance for practitioners,2026-01-05
+anna.fischer@norvane.example,C-081,Introduction to battery systems,2024-08-28
+anna.fischer@norvane.example,C-105,Introduction to embedded software,2024-05-24
+anna.fischer@norvane.example,C-221,Advanced GD&T,2025-01-20
+anna.mueller@keldorf.example,C-239,Advanced Lean manufacturing,2026-03-16
+anna.mueller@keldorf.example,C-291,negotiation for practitioners,2025-01-02
+anna.neumann@keldorf.example,C-319,Grundlagen Stakeholder-Management,2023-10-26
+anna.neumann@keldorf.example,C-319,Grundlagen Stakeholder-Management,2023-11-26
+anna.neumann@keldorf.example,C-319,Grundlagen Stakeholder-Management,2025-07-04
+anna.neumann@keldorf.example,C-321,Grundlagen Git,2025-03-29
+anouk.dubois@norvane.example,C-213,k8s for practitioners,2023-11-22
+anouk.lambert@norvane.example,C-161,PRINCE2 for practitioners,2024-02-15
+anouk.lambert@norvane.example,C-163,Advanced C++,2024-05-04
+anouk.lambert@norvane.example,C-165,Advanced financial reporting,2024-01-06
+anouk.mertens@norvane.example,C-007,coachen voor beginners,2025-03-15
+anouk.mertens@norvane.example,C-085,Opleiding datapipelines,2025-01-13
+anouk.mertens@norvane.example,C-123,projectmanagement voor beginners,2026-03-22
+anouk.mertens@norvane.example,C-211,verandermanagement voor beginners,2026-01-05
+anouk.wouters@norvane.example,C-179,Opleiding C++,2025-01-03
+anouk.wouters@norvane.example,C-179,Opleiding C++,2025-03-16
+arne.bogaert@norvane.example,C-137,TIG-lassen voor beginners,2025-07-22
+arne.claes@norvane.example,C-033,Initiation à Power BI,2023-08-25
+arne.claes@norvane.example,C-089,Initiation à maintenance préventive,2024-11-29
+arne.claes@norvane.example,C-235,Formation IFRS,2025-09-29
+arne.goossens@norvane.example,C-057,Initiation à Microsoft Azure,2024-02-11
+arne.goossens@norvane.example,C-097,Initiation à CI/CD,2024-08-14
+arne.goossens@norvane.example,C-099,Formation variateurs de fréquence,2024-07-18
+arne.janssens@norvane.example,C-005,people management voor beginners,2025-07-20
+arne.janssens@norvane.example,C-007,coachen voor beginners,2024-10-05
+arne.janssens@norvane.example,C-007,coachen voor beginners,2026-06-24
+arne.leroy@norvane.example,C-017,Advanced technical writing,2024-02-08
+arne.leroy@norvane.example,C-017,Advanced technical writing,2025-11-04
+arne.leroy@norvane.example,C-019,inventory management for practitioners,2024-02-17
+arne.leroy@norvane.example,C-021,Introduction to EV charging,2024-05-04
+arne.peeters@norvane.example,C-105,Introduction to embedded software,2026-07-07
+arne.peeters@norvane.example,C-107,Advanced industrial robots,2025-09-01
+arne.peeters@norvane.example,C-107,Advanced industrial robots,2025-12-11
+arne.vandamme@norvane.example,C-011,Git voor beginners,2025-12-07
+arne.vandamme@norvane.example,C-091,Opleiding VCA,2024-09-20
+arne.vandamme@norvane.example,C-091,Opleiding VCA,2026-04-27
+arne.verbeke@norvane.example,C-055,Initiation à rédaction technique,2024-10-23
+arne.verbeke@norvane.example,C-111,Initiation à robotique,2025-07-25
+arne.verbeke@norvane.example,C-113,Initiation à Git,2026-02-21
+arne.verbeke@norvane.example,C-131,Initiation à gestion des parties prenantes,2024-09-07
+arne.willems@norvane.example,C-173,Initiation à SolidWorks,2026-08-28
+arne.willems@norvane.example,C-241,Initiation à planification de la chaîne logistique,2026-07-30
+arne.willems@norvane.example,C-243,Initiation à négociation,2024-09-19
+bjoern.fischer@keldorf.example,C-019,inventory management for practitioners,2025-05-15
+bjoern.klein@keldorf.example,C-359,Grundlagen Kundenservice,2026-04-13
+bjoern.mueller@keldorf.example,C-351,Produktionsplanung für Fortgeschrittene,2026-03-23
+bjoern.mueller@keldorf.example,C-363,Grundlagen Gefährdungsbeurteilung,2026-04-27
+bjoern.mueller@keldorf.example,C-365,Microsoft Azure für Fortgeschrittene,2026-06-28
+bjoern.neumann@norvane.example,C-287,Grundlagen Datenpipelines,2024-04-29
+bjoern.neumann@norvane.example,C-307,Grundlagen SQL,2024-12-05
+bjoern.neumann@norvane.example,C-337,Python für Fortgeschrittene,2024-02-09
+bjoern.wagner@keldorf.example,C-321,Grundlagen Git,2025-01-27
+bjoern.wagner@keldorf.example,C-325,Grundlagen SCADA,2024-10-31
+bjoern.wagner@keldorf.example,C-379,Grundlagen Beschaffung,2024-12-17
+bram.hermans@norvane.example,C-179,Opleiding C++,2024-10-13
+bram.hermans@norvane.example,C-179,Opleiding C++,2026-02-02
+bram.hermans@norvane.example,C-251,Opleiding PLC programmeren,2026-01-13
+bram.hermans@norvane.example,C-253,statistische procescontrole voor beginners,2024-12-31
+bram.janssens@norvane.example,C-125,embedded software voor beginners,2026-05-09
+bram.leroy@norvane.example,C-013,Java voor beginners,2025-01-04
+bram.leroy@norvane.example,C-067,Opleiding Python,2023-07-07
+bram.leroy@norvane.example,C-135,Opleiding maandafsluiting,2024-04-06
+bram.maes@norvane.example,C-081,Introduction to battery systems,2024-11-15
+bram.maes@norvane.example,C-083,Advanced DAX,2023-10-25
+bram.michiels@norvane.example,C-103,Opleiding SQL,2023-10-12
+bram.pauwels@norvane.example,C-177,Formation apprentissage automatique,2024-05-05
+bram.pauwels@norvane.example,C-233,Initiation à Spring Boot,2026-05-18
+bram.pauwels@norvane.example,C-233,Initiation à Spring Boot,2026-06-21
+bram.pauwels@norvane.example,C-255,Formation SAP MM,2025-08-13
+bram.peeters@norvane.example,C-113,Initiation à Git,2025-05-18
+bram.peeters@norvane.example,C-131,Initiation à gestion des parties prenantes,2025-03-04
+bram.peeters@norvane.example,C-131,Initiation à gestion des parties prenantes,2026-03-11
+bram.peeters@norvane.example,C-181,Formation système de management de la qualité,2025-11-10
+chloe.devos@norvane.example,C-133,Opleiding kwaliteitszorgsysteem,2025-10-29
+chloe.maes@norvane.example,C-041,productieplanning voor beginners,2023-11-22
+chloe.maes@norvane.example,C-167,Power BI voor beginners,2026-09-08
+chloe.maes@norvane.example,C-217,Opleiding Microsoft Azure,2024-02-27
+chloe.maes@norvane.example,C-217,Opleiding Microsoft Azure,2024-11-07
+chloe.renard@norvane.example,C-019,inventory management for practitioners,2023-08-22
+chloe.renard@norvane.example,C-019,inventory management for practitioners,2025-07-12
+chloe.renard@norvane.example,C-139,ETL for practitioners,2026-05-07
+chloe.vandamme@norvane.example,C-043,frequentieregelaars voor beginners,2025-03-31
+chloe.vandamme@norvane.example,C-067,Opleiding Python,2026-03-07
+chloe.vandamme@norvane.example,C-067,Opleiding Python,2026-05-04
+chloe.vandamme@norvane.example,C-103,Opleiding SQL,2025-08-18
+chloe.wouters@norvane.example,C-033,Initiation à Power BI,2024-04-19
+chloe.wouters@norvane.example,C-033,Initiation à Power BI,2025-06-08
+chloe.wouters@norvane.example,C-059,Formation SCADA,2026-04-01
+eline.coppens@norvane.example,C-015,technische verkoop voor beginners,2026-03-26
+eline.coppens@norvane.example,C-207,Opleiding Microsoft Excel,2023-12-17
+eline.coppens@norvane.example,C-207,Opleiding Microsoft Excel,2024-07-06
+eline.maes@norvane.example,C-113,Initiation à Git,2024-05-02
+eline.maes@norvane.example,C-183,Formation gestion des stocks,2023-12-24
+eline.maes@norvane.example,C-209,Initiation à habilitation électrique,2023-10-28
+eline.martens@norvane.example,C-129,Initiation à Microsoft Excel,2023-12-30
+eline.martens@norvane.example,C-245,Initiation à reporting financier,2023-12-13
+eline.martens@norvane.example,C-245,Initiation à reporting financier,2024-07-14
+eline.renard@norvane.example,C-007,coachen voor beginners,2026-02-09
+eline.renard@norvane.example,C-011,Git voor beginners,2025-07-29
+eline.renard@norvane.example,C-085,Opleiding datapipelines,2026-01-03
+eline.renard@norvane.example,C-085,Opleiding datapipelines,2026-09-09
+emma.claes@norvane.example,C-037,Opleiding BA5,2025-03-07
+emma.claes@norvane.example,C-049,Opleiding stakeholdermanagement,2024-03-24
+emma.desmet@norvane.example,C-151,data analysis for practitioners,2023-08-28
+emma.elamrani@norvane.example,C-069,Machine learning voor beginners,2024-11-29
+emma.elamrani@norvane.example,C-091,Opleiding VCA,2024-07-06
+emma.elamrani@norvane.example,C-095,Opleiding batterijsystemen,2024-10-03
+emma.elamrani@norvane.example,C-223,Opleiding vraagplanning,2024-03-11
+emma.lambert@norvane.example,C-181,Formation système de management de la qualité,2023-09-14
+emma.lambert@norvane.example,C-183,Formation gestion des stocks,2025-04-10
+emma.lambert@norvane.example,C-185,Initiation à Java,2024-11-01
+emma.lambert@norvane.example,C-187,Formation AMDEC,2025-07-02
+emma.laurent@norvane.example,C-191,Formation santé et sécurité,2025-12-19
+emma.laurent@norvane.example,C-193,Initiation à analyse des causes,2026-01-11
+emma.vandamme@norvane.example,C-033,Initiation à Power BI,2024-05-30
+emma.vandamme@norvane.example,C-077,Formation ordonnancement,2023-10-03
+emma.vandamme@norvane.example,C-079,Formation Lean manufacturing,2024-08-24
+emma.wouters@norvane.example,C-013,Java voor beginners,2025-10-09
+emma.wouters@norvane.example,C-179,Opleiding C++,2024-04-29
+emma.wouters@norvane.example,C-253,statistische procescontrole voor beginners,2026-07-22
+fatima.bogaert@norvane.example,C-201,SCADA for practitioners,2026-01-20
+fatima.bogaert@norvane.example,C-239,Advanced Lean manufacturing,2025-07-23
+fatima.bogaert@norvane.example,C-239,Advanced Lean manufacturing,2026-01-09
+fatima.elamrani@norvane.example,C-001,Opleiding SCADA,2024-05-07
+fatima.elamrani@norvane.example,C-001,Opleiding SCADA,2025-03-16
+fatima.elamrani@norvane.example,C-003,Opleiding CI/CD,2024-02-28
+fatima.elamrani@norvane.example,C-003,Opleiding CI/CD,2024-06-10
+fatima.laurent@norvane.example,C-075,hoogspanningsinstallaties voor beginners,2024-02-07
+fatima.laurent@norvane.example,C-117,vermogenselektronica voor beginners,2024-11-23
+fatima.laurent@norvane.example,C-205,klantendienst voor beginners,2023-07-22
+fatima.leroy@norvane.example,C-069,Machine learning voor beginners,2024-10-20
+fatima.smets@norvane.example,C-179,Opleiding C++,2024-05-31
+fatima.smets@norvane.example,C-179,Opleiding C++,2026-07-10
+fatima.willems@norvane.example,C-113,Initiation à Git,2025-04-20
+fatima.wouters@norvane.example,C-051,Opleiding contractonderhandeling,2025-04-30
+fatima.wouters@norvane.example,C-053,budgetbeheer voor beginners,2026-07-22
+felix.becker@keldorf.example,C-021,Introduction to EV charging,2025-08-24
+felix.becker@keldorf.example,C-239,Advanced Lean manufacturing,2023-10-22
+felix.becker@keldorf.example,C-239,Advanced Lean manufacturing,2026-06-15
+felix.klein@keldorf.example,C-281,Grundlagen Kubernetes,2025-01-26
+felix.klein@keldorf.example,C-325,Grundlagen SCADA,2026-05-09
+felix.neumann@keldorf.example,C-285,statistische Prozessregelung für Fortgeschrittene,2023-11-06
+felix.neumann@keldorf.example,C-323,Lean manufacturing für Fortgeschrittene,2023-10-12
+felix.neumann@keldorf.example,C-325,Grundlagen SCADA,2024-02-21
+felix.neumann@keldorf.example,C-325,Grundlagen SCADA,2024-05-30
+femke.cools@norvane.example,C-073,hydrauliek voor beginners,2025-09-11
+femke.cools@norvane.example,C-085,Opleiding datapipelines,2026-09-21
+femke.cools@norvane.example,C-271,Opleiding SolidWorks,2023-07-10
+femke.cools@norvane.example,C-271,Opleiding SolidWorks,2026-04-16
+femke.desmet@norvane.example,C-197,Introduction to variable frequency drives,2023-10-04
+femke.desmet@norvane.example,C-197,Introduction to variable frequency drives,2026-03-26
+femke.desmet@norvane.example,C-197,Introduction to variable frequency drives,2026-08-18
+femke.desmet@norvane.example,C-199,Advanced change management,2024-04-08
+femke.hermans@norvane.example,C-087,Initiation à éléments finis,2025-02-22
+femke.hermans@norvane.example,C-089,Initiation à maintenance préventive,2024-04-02
+femke.mertens@norvane.example,C-151,data analysis for practitioners,2023-08-05
+femke.mertens@norvane.example,C-155,Advanced Spring Boot,2025-09-04
+femke.mertens@norvane.example,C-201,SCADA for practitioners,2026-07-24
+femke.mertens@norvane.example,C-203,Advanced ISO 9001,2024-01-01
+femke.peeters@norvane.example,C-135,Opleiding maandafsluiting,2023-09-06
+femke.peeters@norvane.example,C-251,Opleiding PLC programmeren,2025-08-22
+femke.peeters@norvane.example,C-253,statistische procescontrole voor beginners,2026-02-25
+femke.vandamme@norvane.example,C-003,Opleiding CI/CD,2024-08-10
+femke.vandamme@norvane.example,C-039,REST APIs voor beginners,2026-02-22
+femke.vandamme@norvane.example,C-101,Opleiding vorm- en plaatstoleranties,2025-02-23
+femke.vandamme@norvane.example,C-137,TIG-lassen voor beginners,2025-07-19
+florian.schneider@keldorf.example,C-313,Grundlagen Cybersicherheit,2024-02-13
+florian.schneider@keldorf.example,C-335,Grundlagen Vertragsverhandlung,2025-04-04
+florian.schneider@keldorf.example,C-335,Grundlagen Vertragsverhandlung,2025-11-22
+hannah.klein@keldorf.example,C-347,Grundlagen Schweißen,2026-04-12
+hannah.klein@keldorf.example,C-349,Coaching für Fortgeschrittene,2025-12-08
+hannah.klein@keldorf.example,C-351,Produktionsplanung für Fortgeschrittene,2025-10-27
+hannah.klein@keldorf.example,C-353,Grundlagen FMEA,2024-09-21
+hannah.neumann@norvane.example,C-329,Grundlagen Container,2024-05-19
+hannah.schmidt@norvane.example,C-297,SAP MM für Fortgeschrittene,2024-01-13
+hannah.schmidt@norvane.example,C-309,Budgetverantwortung für Fortgeschrittene,2024-09-14
+hannah.schmidt@norvane.example,C-311,Grundlagen Hochspannung,2024-09-28
+hannah.schmidt@norvane.example,C-313,Grundlagen Cybersicherheit,2023-09-19
+hannah.schneider@norvane.example,C-383,Grundlagen Java,2024-10-14
+hanne.desmet@norvane.example,C-049,Opleiding stakeholdermanagement,2024-04-17
+hanne.desmet@norvane.example,C-051,Opleiding contractonderhandeling,2023-11-12
+hanne.desmet@norvane.example,C-051,Opleiding contractonderhandeling,2024-06-01
+hanne.desmet@norvane.example,C-119,Opleiding onderhoudsplanning,2025-03-04
+hanne.elamrani@norvane.example,C-103,Opleiding SQL,2026-04-01
+hanne.elamrani@norvane.example,C-123,projectmanagement voor beginners,2026-04-10
+hanne.elamrani@norvane.example,C-125,embedded software voor beginners,2025-08-30
+hanne.elamrani@norvane.example,C-127,cyberbeveiliging voor beginners,2026-05-21
+hanne.martens@norvane.example,C-045,Introduction to FMEA,2023-07-24
+hanne.martens@norvane.example,C-045,Introduction to FMEA,2023-08-05
+hanne.martens@norvane.example,C-045,Introduction to FMEA,2024-07-25
+hanne.martens@norvane.example,C-261,Advanced mentoring,2023-12-05
+hanne.wouters@norvane.example,C-041,productieplanning voor beginners,2024-05-01
+hanne.wouters@norvane.example,C-041,productieplanning voor beginners,2025-05-10
+hanne.wouters@norvane.example,C-043,frequentieregelaars voor beginners,2024-08-25
+ines.claes@norvane.example,C-143,eindige-elementenanalyse voor beginners,2026-06-20
+ines.coppens@norvane.example,C-189,Initiation à GD&T,2026-04-11
+ines.dubois@norvane.example,C-127,cyberbeveiliging voor beginners,2023-12-28
+ines.dubois@norvane.example,C-127,cyberbeveiliging voor beginners,2025-09-25
+ines.elamrani@norvane.example,C-011,Git voor beginners,2026-03-24
+ines.pauwels@norvane.example,C-089,Initiation à maintenance préventive,2023-06-19
+ines.pauwels@norvane.example,C-175,Initiation à automates programmables,2025-09-10
+jana.wagner@keldorf.example,C-019,inventory management for practitioners,2026-07-25
+jana.wagner@keldorf.example,C-203,Advanced ISO 9001,2023-06-28
+jana.wagner@keldorf.example,C-225,Docker for practitioners,2024-01-21
+jonas.jacobs@norvane.example,C-067,Opleiding Python,2026-05-16
+jonas.peeters@norvane.example,C-179,Opleiding C++,2025-12-06
+jonas.richter@keldorf.example,C-017,Advanced technical writing,2024-02-09
+jonas.richter@keldorf.example,C-197,Introduction to variable frequency drives,2026-08-28
+jonas.richter@keldorf.example,C-283,Microsoft Azure for practitioners,2023-11-17
+joris.cools@norvane.example,C-067,Opleiding Python,2025-07-10
+joris.cools@norvane.example,C-069,Machine learning voor beginners,2023-09-30
+joris.dubois@norvane.example,C-127,cyberbeveiliging voor beginners,2023-11-17
+joris.lambert@norvane.example,C-145,Docker voor beginners,2025-06-11
+joris.lambert@norvane.example,C-217,Opleiding Microsoft Azure,2025-01-18
+joris.lambert@norvane.example,C-217,Opleiding Microsoft Azure,2026-05-25
+joris.pauwels@norvane.example,C-091,Opleiding VCA,2024-08-21
+joris.pauwels@norvane.example,C-091,Opleiding VCA,2025-12-06
+joris.pauwels@norvane.example,C-179,Opleiding C++,2025-12-27
+juergen.fischer@keldorf.example,C-281,Grundlagen Kubernetes,2023-08-20
+juergen.wagner@keldorf.example,C-023,Introduction to IEC 62443,2024-03-22
+juergen.wagner@keldorf.example,C-023,Introduction to IEC 62443,2026-07-05
+juergen.wagner@keldorf.example,C-105,Introduction to embedded software,2025-07-16
+julia.becker@norvane.example,C-281,Grundlagen Kubernetes,2024-09-04
+julia.becker@norvane.example,C-375,technischer Vertrieb für Fortgeschrittene,2023-08-18
+karim.leroy@norvane.example,C-097,Initiation à CI/CD,2024-11-01
+karim.leroy@norvane.example,C-229,Formation accompagnement,2025-12-10
+karim.leroy@norvane.example,C-231,Formation conduite du changement,2023-08-28
+karim.leroy@norvane.example,C-233,Initiation à Spring Boot,2025-03-06
+karim.verbeke@norvane.example,C-001,Opleiding SCADA,2024-12-24
+karim.verbeke@norvane.example,C-005,people management voor beginners,2023-06-27
+karim.verbeke@norvane.example,C-005,people management voor beginners,2023-10-03
+karim.verbeke@norvane.example,C-093,Opleiding heftruck,2024-07-18
+karim.wouters@norvane.example,C-275,Opleiding data-analyse,2023-09-16
+katrin.klein@keldorf.example,C-283,Microsoft Azure for practitioners,2026-01-29
+katrin.klein@keldorf.example,C-367,OpenAPI for practitioners,2023-09-13
+katrin.klein@keldorf.example,C-369,root cause analysis for practitioners,2025-12-21
+katrin.schwarz@norvane.example,C-313,Grundlagen Cybersicherheit,2024-04-17
+katrin.wagner@keldorf.example,C-289,customer service for practitioners,2023-11-02
+katrin.wagner@keldorf.example,C-389,hydraulic systems for practitioners,2024-02-22
+koen.elamrani@norvane.example,C-083,Advanced DAX,2025-04-05
+koen.elamrani@norvane.example,C-169,Introduction to PLC programming,2023-08-30
+koen.elamrani@norvane.example,C-169,Introduction to PLC programming,2025-03-04
+koen.elamrani@norvane.example,C-171,statistical process control for practitioners,2026-08-23
+koen.michiels@norvane.example,C-103,Opleiding SQL,2024-12-25
+koen.michiels@norvane.example,C-217,Opleiding Microsoft Azure,2023-12-06
+laura.braun@keldorf.example,C-379,Grundlagen Beschaffung,2023-06-25
+laura.meyer@keldorf.example,C-315,Grundlagen SolidWorks,2024-01-16
+laura.meyer@keldorf.example,C-357,Wartungsplanung für Fortgeschrittene,2024-12-07
+laura.schmidt@keldorf.example,C-285,statistische Prozessregelung für Fortgeschrittene,2025-05-07
+laura.schneider@keldorf.example,C-161,PRINCE2 for practitioners,2023-11-04
+laura.schroeder@norvane.example,C-159,Introduction to technical sales,2024-08-12
+laura.weiss@keldorf.example,C-295,Grundlagen Antriebstechnik,2025-12-06
+laura.weiss@keldorf.example,C-303,Veränderungsmanagement für Fortgeschrittene,2026-05-26
+laura.weiss@keldorf.example,C-341,Elektrosicherheit für Fortgeschrittene,2023-10-10
+lena.braun@keldorf.example,C-107,Advanced industrial robots,2024-11-28
+lena.braun@keldorf.example,C-283,Microsoft Azure for practitioners,2026-01-28
+lena.hartmann@keldorf.example,C-295,Grundlagen Antriebstechnik,2025-08-12
+lena.hartmann@keldorf.example,C-317,Grundlagen EPLAN,2024-06-21
+lena.koch@norvane.example,C-153,Advanced Java 21,2023-07-25
+lena.neumann@keldorf.example,C-281,Grundlagen Kubernetes,2024-09-07
+lena.neumann@keldorf.example,C-295,Grundlagen Antriebstechnik,2025-02-27
+lena.neumann@keldorf.example,C-295,Grundlagen Antriebstechnik,2025-05-26
+lena.neumann@keldorf.example,C-295,Grundlagen Antriebstechnik,2025-08-30
+lena.schwarz@keldorf.example,C-107,Advanced industrial robots,2024-06-29
+lena.schwarz@keldorf.example,C-355,Advanced Solidworks,2023-08-12
+lena.zimmermann@keldorf.example,C-387,reach truck for practitioners,2025-10-09
+lies.coppens@norvane.example,C-029,Formation pipelines de données,2023-11-27
+lies.coppens@norvane.example,C-245,Initiation à reporting financier,2026-07-20
+lies.elamrani@norvane.example,C-027,Introduction to people management,2026-07-03
+lies.goossens@norvane.example,C-049,Opleiding stakeholdermanagement,2023-08-14
+lies.goossens@norvane.example,C-075,hoogspanningsinstallaties voor beginners,2026-06-22
+lies.lambert@norvane.example,C-005,people management voor beginners,2023-08-28
+lies.lambert@norvane.example,C-005,people management voor beginners,2025-02-01
+lies.lambert@norvane.example,C-237,Kubernetes voor beginners,2024-08-10
+lies.michiels@norvane.example,C-001,Opleiding SCADA,2025-05-31
+lies.michiels@norvane.example,C-149,Opleiding robotica,2024-02-23
+lies.vandamme@norvane.example,C-173,Initiation à SolidWorks,2024-05-18
+lies.vandamme@norvane.example,C-175,Initiation à automates programmables,2023-09-16
+lotte.dubois@norvane.example,C-267,Introduction to ANSYS,2025-03-16
+lotte.goossens@norvane.example,C-007,coachen voor beginners,2023-12-28
+lotte.goossens@norvane.example,C-101,Opleiding vorm- en plaatstoleranties,2025-11-23
+lotte.goossens@norvane.example,C-143,eindige-elementenanalyse voor beginners,2024-09-05
+lotte.goossens@norvane.example,C-143,eindige-elementenanalyse voor beginners,2026-04-20
+lotte.jacobs@norvane.example,C-031,Initiation à SQL,2026-01-16
+lotte.jacobs@norvane.example,C-185,Initiation à Java,2023-07-12
+lotte.jacobs@norvane.example,C-187,Formation AMDEC,2025-02-09
+lotte.jacobs@norvane.example,C-231,Formation conduite du changement,2025-05-18
+lotte.lambert@norvane.example,C-109,Formation management d'équipe,2026-03-22
+lotte.vandamme@norvane.example,C-215,Formation Python,2023-10-11
+lotte.verbeke@norvane.example,C-053,budgetbeheer voor beginners,2025-08-23
+lucas.vandamme@norvane.example,C-057,Initiation à Microsoft Azure,2025-10-14
+lucas.vandamme@norvane.example,C-109,Formation management d'équipe,2024-09-11
+lukas.neumann@keldorf.example,C-019,inventory management for practitioners,2026-02-19
+lukas.neumann@keldorf.example,C-289,customer service for practitioners,2024-09-14
+lukas.neumann@keldorf.example,C-345,Advanced sourcing,2026-03-18
+lukas.zimmermann@keldorf.example,C-021,Introduction to EV charging,2026-06-13
+lukas.zimmermann@keldorf.example,C-203,Advanced ISO 9001,2025-01-16
+lukas.zimmermann@keldorf.example,C-381,Introduction to HSE,2025-05-18
+marie.coppens@norvane.example,C-189,Initiation à GD&T,2024-02-28
+marie.desmet@norvane.example,C-011,Git voor beginners,2023-10-01
+marie.desmet@norvane.example,C-041,productieplanning voor beginners,2025-03-26
+marie.elamrani@norvane.example,C-105,Introduction to embedded software,2025-12-22
+marie.elamrani@norvane.example,C-153,Advanced Java 21,2024-12-27
+marie.elamrani@norvane.example,C-155,Advanced Spring Boot,2025-07-08
+marie.elamrani@norvane.example,C-157,Advanced IFRS,2024-11-05
+marie.jacobs@norvane.example,C-159,Introduction to technical sales,2024-12-23
+marie.jacobs@norvane.example,C-259,Advanced stakeholder management,2025-01-16
+marie.jacobs@norvane.example,C-259,Advanced stakeholder management,2025-12-30
+marie.janssens@norvane.example,C-069,Machine learning voor beginners,2025-11-19
+marie.janssens@norvane.example,C-085,Opleiding datapipelines,2025-06-16
+marie.janssens@norvane.example,C-085,Opleiding datapipelines,2026-07-18
+marie.klein@keldorf.example,C-227,Advanced machine learning,2026-05-25
+marie.klein@keldorf.example,C-391,Microsoft Excel for practitioners,2026-04-15
+marie.lambert@norvane.example,C-147,SAP MM voor beginners,2023-08-28
+marie.mertens@norvane.example,C-025,Introduction to production planning,2026-07-19
+marie.mertens@norvane.example,C-045,Introduction to FMEA,2024-04-16
+marie.mertens@norvane.example,C-047,NEN 3140 for practitioners,2023-11-27
+marie.pauwels@norvane.example,C-207,Opleiding Microsoft Excel,2023-07-01
+marie.verbeke@norvane.example,C-011,Git voor beginners,2023-07-17
+marie.verbeke@norvane.example,C-205,klantendienst voor beginners,2023-10-05
+marie.verbeke@norvane.example,C-205,klantendienst voor beginners,2025-12-02
+marie.verbeke@norvane.example,C-211,verandermanagement voor beginners,2026-01-04
+matthias.becker@keldorf.example,C-331,Grundlagen Mitarbeiterführung,2024-06-19
+matthias.hartmann@keldorf.example,C-285,statistische Prozessregelung für Fortgeschrittene,2025-05-07
+matthias.hartmann@keldorf.example,C-347,Grundlagen Schweißen,2026-04-26
+matthias.hartmann@keldorf.example,C-363,Grundlagen Gefährdungsbeurteilung,2023-09-01
+matthias.krueger@keldorf.example,C-285,statistische Prozessregelung für Fortgeschrittene,2024-10-23
+matthias.mueller@keldorf.example,C-047,NEN 3140 for practitioners,2025-10-30
+matthias.mueller@keldorf.example,C-047,NEN 3140 for practitioners,2026-06-15
+matthias.neumann@norvane.example,C-247,Advanced GitHub,2024-10-27
+matthias.weber@keldorf.example,C-289,customer service for practitioners,2024-05-28
+mehdi.aerts@norvane.example,C-109,Formation management d'équipe,2026-04-27
+mehdi.aerts@norvane.example,C-209,Initiation à habilitation électrique,2024-03-28
+mehdi.aerts@norvane.example,C-277,Initiation à logiciel embarqué,2025-06-29
+mehdi.goossens@norvane.example,C-183,Formation gestion des stocks,2024-10-15
+mehdi.goossens@norvane.example,C-183,Formation gestion des stocks,2024-11-12
+mehdi.goossens@norvane.example,C-229,Formation accompagnement,2023-07-26
+mehdi.goossens@norvane.example,C-229,Formation accompagnement,2023-07-26
+mehdi.laurent@norvane.example,C-051,Opleiding contractonderhandeling,2025-06-24
+mehdi.laurent@norvane.example,C-075,hoogspanningsinstallaties voor beginners,2024-06-03
+mehdi.laurent@norvane.example,C-125,embedded software voor beginners,2024-10-29
+mehdi.laurent@norvane.example,C-145,Docker voor beginners,2025-12-14
+mehdi.martens@norvane.example,C-139,ETL for practitioners,2025-04-13
+mehdi.martens@norvane.example,C-141,T-SQL for practitioners,2025-09-22
+michael.fischer@keldorf.example,C-201,SCADA for practitioners,2024-09-26
+michael.fischer@keldorf.example,C-227,Advanced machine learning,2025-04-01
+michael.fischer@keldorf.example,C-227,Advanced machine learning,2025-07-12
+michael.fischer@keldorf.example,C-367,OpenAPI for practitioners,2024-09-22
+michael.mueller@keldorf.example,C-325,Grundlagen SCADA,2026-06-25
+michael.mueller@keldorf.example,C-363,Grundlagen Gefährdungsbeurteilung,2024-04-02
+michael.mueller@keldorf.example,C-377,Grundlagen Power BI,2025-06-22
+michael.schneider@keldorf.example,C-323,Lean manufacturing für Fortgeschrittene,2026-04-19
+michael.schneider@keldorf.example,C-343,ISO 9001 für Fortgeschrittene,2023-09-04
+michael.schneider@keldorf.example,C-343,ISO 9001 für Fortgeschrittene,2026-01-07
+michael.schneider@keldorf.example,C-343,ISO 9001 für Fortgeschrittene,2026-03-25
+michael.schulz@keldorf.example,C-285,statistische Prozessregelung für Fortgeschrittene,2024-04-22
+michael.wolf@keldorf.example,C-371,Lagerverwaltung für Fortgeschrittene,2024-01-15
+miriam.mueller@keldorf.example,C-295,Grundlagen Antriebstechnik,2024-03-17
+miriam.mueller@keldorf.example,C-327,Grundlagen Embedded-Software,2026-06-29
+miriam.mueller@keldorf.example,C-353,Grundlagen FMEA,2026-03-13
+miriam.mueller@keldorf.example,C-385,Staplerschein für Fortgeschrittene,2024-04-04
+miriam.schneider@keldorf.example,C-025,Introduction to production planning,2025-10-28
+miriam.schneider@keldorf.example,C-027,Introduction to people management,2024-10-30
+miriam.schneider@keldorf.example,C-027,Introduction to people management,2025-03-08
+nina.jacobs@norvane.example,C-145,Docker voor beginners,2026-01-29
+nina.jacobs@norvane.example,C-223,Opleiding vraagplanning,2024-06-28
+nina.martens@norvane.example,C-001,Opleiding SCADA,2024-05-06
+nina.peeters@norvane.example,C-045,Introduction to FMEA,2023-10-22
+nina.peeters@norvane.example,C-141,T-SQL for practitioners,2025-10-14
+nina.peeters@norvane.example,C-225,Docker for practitioners,2023-09-17
+nina.peeters@norvane.example,C-227,Advanced machine learning,2023-06-20
+nina.vermeulen@norvane.example,C-011,Git voor beginners,2025-12-26
+nina.vermeulen@norvane.example,C-103,Opleiding SQL,2025-09-21
+nina.vermeulen@norvane.example,C-207,Opleiding Microsoft Excel,2024-11-19
+nina.vermeulen@norvane.example,C-207,Opleiding Microsoft Excel,2025-03-06
+oezlem.fischer@norvane.example,C-287,Grundlagen Datenpipelines,2023-11-07
+oezlem.lange@keldorf.example,C-293,C++ für Fortgeschrittene,2025-04-17
+oezlem.lange@keldorf.example,C-303,Veränderungsmanagement für Fortgeschrittene,2024-06-25
+oezlem.lange@keldorf.example,C-305,Ladesäulen für Fortgeschrittene,2026-03-22
+oezlem.schmidt@norvane.example,C-317,Grundlagen EPLAN,2024-06-22
+oezlem.schmidt@norvane.example,C-361,Form- und Lagetolerierung für Fortgeschrittene,2025-04-25
+oezlem.schneider@norvane.example,C-335,Grundlagen Vertragsverhandlung,2024-02-21
+oezlem.schneider@norvane.example,C-377,Grundlagen Power BI,2025-08-17
+oezlem.schneider@norvane.example,C-377,Grundlagen Power BI,2026-05-11
+oezlem.schulz@keldorf.example,C-083,Advanced DAX,2026-04-15
+oezlem.schulz@keldorf.example,C-157,Advanced IFRS,2026-09-18
+oezlem.schulz@keldorf.example,C-373,Introduction to MIG welding,2024-04-29
+oezlem.schulz@keldorf.example,C-373,Introduction to MIG welding,2025-03-20
+oezlem.weiss@keldorf.example,C-107,Advanced industrial robots,2025-12-21
+olivier.aerts@norvane.example,C-103,Opleiding SQL,2025-01-21
+olivier.claes@norvane.example,C-029,Formation pipelines de données,2026-07-18
+olivier.claes@norvane.example,C-031,Initiation à SQL,2025-11-07
+olivier.claes@norvane.example,C-033,Initiation à Power BI,2026-01-17
+olivier.claes@norvane.example,C-035,Formation haute tension,2023-07-08
+olivier.hermans@norvane.example,C-063,Formation REST APIs,2024-08-18
+olivier.hermans@norvane.example,C-065,Initiation à analyse de données,2026-08-17
+olivier.hermans@norvane.example,C-177,Formation apprentissage automatique,2024-08-24
+olivier.janssens@norvane.example,C-071,Opleiding oorzakenanalyse,2025-03-23
+olivier.janssens@norvane.example,C-073,hydrauliek voor beginners,2026-01-27
+olivier.janssens@norvane.example,C-075,hoogspanningsinstallaties voor beginners,2025-04-24
+olivier.mertens@norvane.example,C-091,Opleiding VCA,2024-07-26
+olivier.mertens@norvane.example,C-093,Opleiding heftruck,2024-02-12
+olivier.mertens@norvane.example,C-093,Opleiding heftruck,2024-02-23
+olivier.mertens@norvane.example,C-095,Opleiding batterijsystemen,2026-01-26
+olivier.peeters@norvane.example,C-009,Opleiding laadpalen,2023-07-19
+pieter.janssens@norvane.example,C-135,Opleiding maandafsluiting,2026-08-02
+pieter.janssens@norvane.example,C-145,Docker voor beginners,2026-05-30
+pieter.smets@norvane.example,C-007,coachen voor beginners,2026-04-02
+pieter.smets@norvane.example,C-037,Opleiding BA5,2023-08-08
+pieter.smets@norvane.example,C-167,Power BI voor beginners,2026-08-08
+pieter.vandamme@norvane.example,C-201,SCADA for practitioners,2024-05-21
+pieter.vandamme@norvane.example,C-219,build pipelines for practitioners,2026-05-18
+pieter.vandamme@norvane.example,C-221,Advanced GD&T,2024-07-16
+pieter.verbeke@norvane.example,C-077,Formation ordonnancement,2025-10-31
+pieter.verbeke@norvane.example,C-111,Initiation à robotique,2026-09-02
+pieter.vermeulen@norvane.example,C-005,people management voor beginners,2023-11-19
+pieter.vermeulen@norvane.example,C-091,Opleiding VCA,2024-06-02
+pieter.vermeulen@norvane.example,C-133,Opleiding kwaliteitszorgsysteem,2025-08-16
+pieter.vermeulen@norvane.example,C-135,Opleiding maandafsluiting,2023-08-16
+pieter.willems@norvane.example,C-247,Advanced GitHub,2024-01-05
+pieter.willems@norvane.example,C-247,Advanced GitHub,2024-04-28
+pieter.willems@norvane.example,C-249,Advanced EPLAN Electric P8,2024-02-10
+ruben.devos@norvane.example,C-029,Formation pipelines de données,2024-01-20
+ruben.devos@norvane.example,C-055,Initiation à rédaction technique,2024-01-20
+ruben.devos@norvane.example,C-055,Initiation à rédaction technique,2026-08-14
+ruben.devos@norvane.example,C-057,Initiation à Microsoft Azure,2026-01-01
+ruben.peeters@norvane.example,C-007,coachen voor beginners,2023-10-06
+ruben.peeters@norvane.example,C-041,productieplanning voor beginners,2026-06-17
+ruben.peeters@norvane.example,C-051,Opleiding contractonderhandeling,2025-12-10
+ruben.verbeke@norvane.example,C-025,Introduction to production planning,2025-05-30
+ruben.verbeke@norvane.example,C-139,ETL for practitioners,2024-04-16
+ruben.verbeke@norvane.example,C-163,Advanced C++,2024-04-16
+ruben.wouters@norvane.example,C-231,Formation conduite du changement,2023-08-24
+sabine.braun@norvane.example,C-307,Grundlagen SQL,2023-09-23
+sabine.braun@norvane.example,C-315,Grundlagen SolidWorks,2025-08-05
+sabine.weiss@norvane.example,C-303,Veränderungsmanagement für Fortgeschrittene,2024-03-09
+sabine.weiss@norvane.example,C-333,8D-Report für Fortgeschrittene,2024-07-31
+sabine.weiss@norvane.example,C-335,Grundlagen Vertragsverhandlung,2025-01-26
+sara.coppens@norvane.example,C-071,Opleiding oorzakenanalyse,2023-08-01
+sara.mertens@norvane.example,C-167,Power BI voor beginners,2023-10-23
+sara.mertens@norvane.example,C-205,klantendienst voor beginners,2023-06-23
+sara.mertens@norvane.example,C-207,Opleiding Microsoft Excel,2024-08-28
+sara.wouters@norvane.example,C-063,Formation REST APIs,2024-06-22
+sara.wouters@norvane.example,C-173,Initiation à SolidWorks,2025-08-02
+sara.wouters@norvane.example,C-257,Formation maîtrise statistique des procédés,2024-01-01
+sebastian.hoffmann@norvane.example,C-281,Grundlagen Kubernetes,2024-04-24
+sebastian.hoffmann@norvane.example,C-297,SAP MM für Fortgeschrittene,2025-07-05
+sebastian.hoffmann@norvane.example,C-339,Microsoft Excel für Fortgeschrittene,2023-10-16
+sebastian.hoffmann@norvane.example,C-341,Elektrosicherheit für Fortgeschrittene,2025-02-07
+sebastian.neumann@keldorf.example,C-213,k8s for practitioners,2026-09-03
+sebastian.neumann@keldorf.example,C-373,Introduction to MIG welding,2023-11-05
+sebastian.wagner@norvane.example,C-297,SAP MM für Fortgeschrittene,2024-01-27
+sebastian.wagner@norvane.example,C-297,SAP MM für Fortgeschrittene,2025-06-23
+sebastian.wagner@norvane.example,C-299,Hydraulik für Fortgeschrittene,2025-10-05
+sebastian.wagner@norvane.example,C-301,Leistungselektronik für Fortgeschrittene,2024-01-20
+sophie.schulz@keldorf.example,C-155,Advanced Spring Boot,2024-01-03
+stefan.schroeder@norvane.example,C-371,Lagerverwaltung für Fortgeschrittene,2024-06-06
+stefan.weber@keldorf.example,C-301,Leistungselektronik für Fortgeschrittene,2024-02-09
+stefan.weber@keldorf.example,C-357,Wartungsplanung für Fortgeschrittene,2024-02-08
+stefan.wolf@norvane.example,C-281,Grundlagen Kubernetes,2024-05-10
+stefan.wolf@norvane.example,C-281,Grundlagen Kubernetes,2025-07-20
+stefan.wolf@norvane.example,C-327,Grundlagen Embedded-Software,2024-10-19
+stefan.wolf@norvane.example,C-329,Grundlagen Container,2024-12-25
+stijn.bogaert@norvane.example,C-023,Introduction to IEC 62443,2023-07-08
+stijn.bogaert@norvane.example,C-025,Introduction to production planning,2024-08-12
+stijn.bogaert@norvane.example,C-027,Introduction to people management,2024-12-01
+stijn.claes@norvane.example,C-085,Opleiding datapipelines,2024-01-23
+stijn.claes@norvane.example,C-167,Power BI voor beginners,2026-06-05
+stijn.leroy@norvane.example,C-091,Opleiding VCA,2023-11-19
+stijn.leroy@norvane.example,C-237,Kubernetes voor beginners,2024-08-20
+stijn.leroy@norvane.example,C-271,Opleiding SolidWorks,2025-03-28
+stijn.martens@norvane.example,C-133,Opleiding kwaliteitszorgsysteem,2023-11-14
+stijn.martens@norvane.example,C-205,klantendienst voor beginners,2026-08-27
+thibault.coppens@norvane.example,C-269,Opleiding FMEA,2025-09-10
+thibault.jacobs@norvane.example,C-039,REST APIs voor beginners,2023-09-24
+thibault.jacobs@norvane.example,C-071,Opleiding oorzakenanalyse,2023-06-22
+thibault.jacobs@norvane.example,C-103,Opleiding SQL,2023-12-09
+thibault.jacobs@norvane.example,C-133,Opleiding kwaliteitszorgsysteem,2025-11-13
+thibault.laurent@norvane.example,C-095,Opleiding batterijsystemen,2023-12-04
+thibault.laurent@norvane.example,C-117,vermogenselektronica voor beginners,2024-02-22
+thibault.leroy@norvane.example,C-157,Advanced IFRS,2024-01-12
+thibault.leroy@norvane.example,C-157,Advanced IFRS,2025-03-26
+thibault.leroy@norvane.example,C-263,power electronics for practitioners,2024-04-12
+thibault.leroy@norvane.example,C-265,budget control for practitioners,2025-12-31
+thibault.wouters@norvane.example,C-115,Opleiding EPLAN,2025-08-12
+thibault.wouters@norvane.example,C-117,vermogenselektronica voor beginners,2026-06-11
+thibault.wouters@norvane.example,C-119,Opleiding onderhoudsplanning,2026-06-13
+thibault.wouters@norvane.example,C-121,Opleiding voorraadbeheer,2025-10-16
+thomas.wagner@norvane.example,C-307,Grundlagen SQL,2026-02-08
+tobias.neumann@keldorf.example,C-313,Grundlagen Cybersicherheit,2023-08-02
+tobias.neumann@keldorf.example,C-313,Grundlagen Cybersicherheit,2025-01-23
+tobias.weber@keldorf.example,C-293,C++ für Fortgeschrittene,2024-09-09
+tom.claes@norvane.example,C-013,Java voor beginners,2025-07-27
+tom.claes@norvane.example,C-013,Java voor beginners,2025-11-23
+tom.claes@norvane.example,C-043,frequentieregelaars voor beginners,2023-11-25
+tom.claes@norvane.example,C-049,Opleiding stakeholdermanagement,2025-10-02
+tom.cools@norvane.example,C-129,Initiation à Microsoft Excel,2023-10-08
+tom.cools@norvane.example,C-129,Initiation à Microsoft Excel,2024-10-21
+tom.cools@norvane.example,C-131,Initiation à gestion des parties prenantes,2025-07-27
+tom.cools@norvane.example,C-131,Initiation à gestion des parties prenantes,2026-04-01
+tom.desmet@norvane.example,C-009,Opleiding laadpalen,2025-03-24
+tom.desmet@norvane.example,C-051,Opleiding contractonderhandeling,2023-12-14
+tom.desmet@norvane.example,C-073,hydrauliek voor beginners,2026-02-12
+tom.desmet@norvane.example,C-085,Opleiding datapipelines,2025-12-24
+tom.desmet@norvane.example,C-125,embedded software voor beginners,2025-04-14
+tom.janssens@norvane.example,C-011,Git voor beginners,2024-10-17
+tom.janssens@norvane.example,C-013,Java voor beginners,2026-04-07
+tom.janssens@norvane.example,C-015,technische verkoop voor beginners,2024-09-05
+tom.renard@norvane.example,C-159,Introduction to technical sales,2023-12-02
+wout.claes@norvane.example,C-077,Formation ordonnancement,2026-08-23
+wout.claes@norvane.example,C-255,Formation SAP MM,2023-07-06
+wout.claes@norvane.example,C-257,Formation maîtrise statistique des procédés,2026-01-22
+wout.goossens@norvane.example,C-049,Opleiding stakeholdermanagement,2026-02-08
+wout.goossens@norvane.example,C-069,Machine learning voor beginners,2024-12-28
+wout.goossens@norvane.example,C-069,Machine learning voor beginners,2025-11-15
+wout.hermans@norvane.example,C-035,Formation haute tension,2026-04-12
+wout.hermans@norvane.example,C-087,Initiation à éléments finis,2026-04-25
+wout.hermans@norvane.example,C-273,Initiation à électronique de puissance,2024-06-03
+wout.leroy@norvane.example,C-001,Opleiding SCADA,2026-06-08
+wout.leroy@norvane.example,C-037,Opleiding BA5,2026-08-15
+wout.leroy@norvane.example,C-039,REST APIs voor beginners,2026-03-23
+wout.martens@norvane.example,C-087,Initiation à éléments finis,2024-06-20
+wout.martens@norvane.example,C-113,Initiation à Git,2025-08-06
+wout.martens@norvane.example,C-181,Formation système de management de la qualité,2026-02-23
+wout.martens@norvane.example,C-279,Initiation à cybersécurité,2025-02-26
+wout.mertens@norvane.example,C-151,data analysis for practitioners,2024-01-09
+wout.mertens@norvane.example,C-213,k8s for practitioners,2026-01-25
+wout.smets@norvane.example,C-079,Formation Lean manufacturing,2024-04-03
+wout.smets@norvane.example,C-079,Formation Lean manufacturing,2025-07-31
+wout.verbeke@norvane.example,C-059,Formation SCADA,2024-07-24
+wout.verbeke@norvane.example,C-061,Formation systèmes de batteries,2024-08-22
+wout.verbeke@norvane.example,C-063,Formation REST APIs,2026-05-16
+wout.verbeke@norvane.example,C-065,Initiation à analyse de données,2024-05-02
+yasmine.vandamme@norvane.example,C-003,Opleiding CI/CD,2025-06-07
+yasmine.vandamme@norvane.example,C-051,Opleiding contractonderhandeling,2024-11-14
+yasmine.vandamme@norvane.example,C-091,Opleiding VCA,2026-07-29
+yasmine.vandamme@norvane.example,C-095,Opleiding batterijsystemen,2024-03-14

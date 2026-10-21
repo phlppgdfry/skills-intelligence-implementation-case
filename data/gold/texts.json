@@ -1,0 +1,10680 @@
+{
+ "JP-100": {
+  "lang": "nl",
+  "kind": "job",
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-008",
+   "SK-058"
+  ]
+ },
+ "JP-101": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-003",
+   "SK-020"
+  ]
+ },
+ "JP-102": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-004",
+   "SK-005",
+   "SK-007",
+   "SK-056",
+   "SK-057"
+  ]
+ },
+ "JP-103": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-009",
+   "SK-010",
+   "SK-013"
+  ]
+ },
+ "JP-104": {
+  "lang": "nl",
+  "kind": "job",
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-041"
+  ]
+ },
+ "JP-105": {
+  "lang": "nl",
+  "kind": "job",
+  "skills": [
+   "SK-012",
+   "SK-013",
+   "SK-041"
+  ]
+ },
+ "JP-106": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-022"
+  ]
+ },
+ "JP-107": {
+  "lang": "en",
+  "kind": "job",
+  "skills": []
+ },
+ "JP-108": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-022",
+   "SK-023",
+   "SK-024",
+   "SK-026",
+   "SK-056"
+  ]
+ },
+ "JP-109": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-015",
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-029"
+  ]
+ },
+ "JP-110": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-015",
+   "SK-018",
+   "SK-028"
+  ]
+ },
+ "JP-111": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-031",
+   "SK-033",
+   "SK-035"
+  ]
+ },
+ "JP-112": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-032",
+   "SK-034",
+   "SK-035",
+   "SK-040"
+  ]
+ },
+ "JP-113": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-030",
+   "SK-038",
+   "SK-039"
+  ]
+ },
+ "JP-114": {
+  "lang": "nl",
+  "kind": "job",
+  "skills": [
+   "SK-030",
+   "SK-037",
+   "SK-045"
+  ]
+ },
+ "JP-115": {
+  "lang": "nl",
+  "kind": "job",
+  "skills": [
+   "SK-039",
+   "SK-042"
+  ]
+ },
+ "JP-116": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-043",
+   "SK-046",
+   "SK-051"
+  ]
+ },
+ "JP-117": {
+  "lang": "nl",
+  "kind": "job",
+  "skills": [
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-049",
+   "SK-050"
+  ]
+ },
+ "JP-118": {
+  "lang": "en",
+  "kind": "job",
+  "skills": []
+ },
+ "JP-119": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-044",
+   "SK-045",
+   "SK-052"
+  ]
+ },
+ "JP-120": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-030",
+   "SK-052"
+  ]
+ },
+ "JP-121": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-044",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ]
+ },
+ "JP-122": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-021",
+   "SK-054"
+  ]
+ },
+ "JP-123": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-025",
+   "SK-056"
+  ]
+ },
+ "JP-224": {
+  "lang": "fr",
+  "kind": "job",
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-014",
+   "SK-041"
+  ]
+ },
+ "JP-225": {
+  "lang": "fr",
+  "kind": "job",
+  "skills": [
+   "SK-039",
+   "SK-041"
+  ]
+ },
+ "JP-226": {
+  "lang": "fr",
+  "kind": "job",
+  "skills": [
+   "SK-030",
+   "SK-052"
+  ]
+ },
+ "JP-227": {
+  "lang": "fr",
+  "kind": "job",
+  "skills": [
+   "SK-032",
+   "SK-033",
+   "SK-035"
+  ]
+ },
+ "JP-906": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-022"
+  ]
+ },
+ "JP-916": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-043",
+   "SK-046",
+   "SK-051"
+  ]
+ },
+ "KD-2000": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-008"
+  ]
+ },
+ "KD-2007": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-010",
+   "SK-020"
+  ]
+ },
+ "KD-2014": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-004",
+   "SK-005",
+   "SK-007",
+   "SK-056",
+   "SK-057"
+  ]
+ },
+ "KD-2028": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-041"
+  ]
+ },
+ "KD-2035": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-012",
+   "SK-013",
+   "SK-041"
+  ]
+ },
+ "KD-2042": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-022",
+   "SK-025"
+  ]
+ },
+ "KD-2056": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-022",
+   "SK-023",
+   "SK-026",
+   "SK-056"
+  ]
+ },
+ "KD-2063": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-015",
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-029"
+  ]
+ },
+ "KD-2070": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-018",
+   "SK-028",
+   "SK-055"
+  ]
+ },
+ "KD-2084": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-032",
+   "SK-034",
+   "SK-035",
+   "SK-040"
+  ]
+ },
+ "KD-2091": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-030",
+   "SK-038",
+   "SK-039"
+  ]
+ },
+ "KD-2098": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-037",
+   "SK-038",
+   "SK-045"
+  ]
+ },
+ "KD-2112": {
+  "lang": "en",
+  "kind": "job",
+  "skills": [
+   "SK-043",
+   "SK-044",
+   "SK-051"
+  ]
+ },
+ "KD-2119": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-049",
+   "SK-050"
+  ]
+ },
+ "KD-2126": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-046",
+   "SK-047",
+   "SK-048"
+  ]
+ },
+ "KD-2140": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-030",
+   "SK-052"
+  ]
+ },
+ "KD-2147": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-044",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ]
+ },
+ "KD-2154": {
+  "lang": "de",
+  "kind": "job",
+  "skills": [
+   "SK-021",
+   "SK-054"
+  ]
+ },
+ "about:kdfisjue10": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-030",
+   "SK-039"
+  ]
+ },
+ "about:kdbecfe12": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-028",
+   "SK-034"
+  ]
+ },
+ "about:kdfisoez14": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-003",
+   "SK-020"
+  ]
+ },
+ "about:kdwolmi16": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-025",
+   "SK-046"
+  ]
+ },
+ "about:kdwebto18": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-004",
+   "SK-019"
+  ]
+ },
+ "about:kdneule20": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "about:kdlanoez22": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-032",
+   "SK-051",
+   "SK-058"
+  ]
+ },
+ "about:kdweioez24": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-010",
+   "SK-025"
+  ]
+ },
+ "about:kdschla26": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-015",
+   "SK-041"
+  ]
+ },
+ "about:kdschha28": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-047",
+   "SK-048"
+  ]
+ },
+ "about:kdwagjue30": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-026",
+   "SK-028",
+   "SK-049"
+  ]
+ },
+ "about:kdkrueha32": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-032",
+   "SK-034"
+  ]
+ },
+ "about:kdweble34": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-021",
+   "SK-037"
+  ]
+ },
+ "about:kdlanmi36": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-030",
+   "SK-054"
+  ]
+ },
+ "about:kdweban38": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-001",
+   "SK-020"
+  ]
+ },
+ "about:kdharle40": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-045",
+   "SK-055"
+  ]
+ },
+ "about:kdneufe42": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "about:kdbecma44": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-035",
+   "SK-040",
+   "SK-049"
+  ]
+ },
+ "about:kdschla46": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-016",
+   "SK-032"
+  ]
+ },
+ "about:kdneubj48": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-015",
+   "SK-041"
+  ]
+ },
+ "about:kdschma50": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "about:kdbecoez52": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-047",
+   "SK-056"
+  ]
+ },
+ "about:kdschmi54": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "about:kdschla56": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "about:kdbraja58": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-030",
+   "SK-052"
+  ]
+ },
+ "about:kdkleha60": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-012",
+   "SK-041"
+  ]
+ },
+ "about:kdweima62": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "about:kdneuha64": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "about:kdwebst66": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-011",
+   "SK-013",
+   "SK-041"
+  ]
+ },
+ "about:kdklebj68": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-023",
+   "SK-056"
+  ]
+ },
+ "about:kdschoez70": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-012",
+   "SK-013",
+   "SK-041"
+  ]
+ },
+ "about:kdmuelbj72": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "about:kdschst74": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-004",
+   "SK-050",
+   "SK-051"
+  ]
+ },
+ "about:kdschka76": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-024",
+   "SK-054"
+  ]
+ },
+ "about:kdneuto78": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-001",
+   "SK-006"
+  ]
+ },
+ "about:kdklefe80": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-012",
+   "SK-038"
+  ]
+ },
+ "about:kdfismi82": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-028",
+   "SK-054"
+  ]
+ },
+ "about:kdweife84": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "about:kdkocle86": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-021",
+   "SK-022"
+  ]
+ },
+ "about:kdwagbj88": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-024",
+   "SK-026",
+   "SK-037"
+  ]
+ },
+ "about:kdzimjo90": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "about:kdschha92": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-018",
+   "SK-021"
+  ]
+ },
+ "about:kdwagja94": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "about:kdneuma96": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "about:kdzimle98": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "about:kdneuse100": {
+  "lang": "en",
+  "kind": "about",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "about:kdwagka102": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-018",
+   "SK-026"
+  ]
+ },
+ "about:kdklema104": {
+  "lang": "de",
+  "kind": "about",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1001": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1002": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1003": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1004": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1005": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1006": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1007": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1008": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1009": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1010": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1011": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1012": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1013": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1014": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1015": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1016": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1017": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1018": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1019": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1020": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1021": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1022": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1023": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1024": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1025": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1026": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1027": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1028": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1029": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1030": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1031": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1032": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1033": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1034": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1035": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1036": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1037": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1038": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1039": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1040": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1041": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1042": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1043": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1044": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1045": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-038"
+  ]
+ },
+ "ELEC-1046": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1047": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1048": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1049": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1050": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1051": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1052": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1053": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1054": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1055": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1056": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1057": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1058": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1059": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1060": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1061": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1062": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1063": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1064": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1065": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1066": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1067": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1068": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1069": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1070": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1071": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1072": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1073": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1074": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1075": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1076": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1077": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1078": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1079": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1080": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1081": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1082": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1083": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1084": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1085": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1086": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1087": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1088": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1089": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1090": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1091": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1092": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1093": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1094": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1095": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-045"
+  ]
+ },
+ "ELEC-1096": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1097": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1098": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1099": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1100": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1101": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1102": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1103": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1104": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1105": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1106": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1107": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1108": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1109": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1110": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1111": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1112": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1113": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1114": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1115": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1116": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1117": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1118": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1119": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1120": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1121": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1122": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1123": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1124": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1125": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1126": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1127": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1128": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1129": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1130": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1131": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1132": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1133": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1134": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1135": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1136": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1137": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1138": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1139": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1140": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1141": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1142": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1143": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1144": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1145": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1146": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1147": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "ELEC-1148": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1149": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1150": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1151": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1152": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1153": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1154": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1155": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1156": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1157": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1158": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1159": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1160": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1161": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1162": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1163": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1164": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1165": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1166": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1167": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1168": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1169": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1170": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1171": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1172": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1173": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1174": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1175": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1176": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1177": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1178": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1179": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1180": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1181": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1182": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1183": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1184": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1185": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1186": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1187": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1188": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1189": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1190": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1191": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1192": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1193": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1194": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1195": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1196": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1197": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1198": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1199": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1200": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1201": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1202": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1203": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1204": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1205": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1206": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1207": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1208": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1209": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1210": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1211": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1212": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1213": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1214": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1215": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1216": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1217": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1218": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1219": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1220": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1221": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1222": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1223": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1224": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1225": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1226": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1227": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1228": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1229": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1230": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1231": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1232": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1233": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1234": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1235": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1236": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1237": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1238": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1239": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1240": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1241": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1242": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1243": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1244": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1245": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1246": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1247": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1248": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1249": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1250": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1251": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1252": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1253": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1254": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1255": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1256": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1257": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1258": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1259": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1260": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1261": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1262": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-037"
+  ]
+ },
+ "ELEC-1263": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1264": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1265": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1266": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1267": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1268": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1269": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1270": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1271": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1272": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1273": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1274": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1275": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1276": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1277": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-1278": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1279": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1280": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1281": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1282": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1283": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1284": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1285": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1286": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1287": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1288": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1289": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1290": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1291": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-1292": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1293": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1294": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1295": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1296": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1297": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1298": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1299": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1300": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1301": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1302": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1303": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1304": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1305": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1306": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1307": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1308": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1309": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1310": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1311": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1312": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1313": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1314": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1315": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1316": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1317": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1318": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1319": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1320": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1321": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1322": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1323": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1324": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1325": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1326": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1327": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1328": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1329": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1330": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1331": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1332": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1333": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1334": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1335": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1336": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1337": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1338": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1339": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1340": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "ELEC-1341": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1342": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1343": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1344": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1345": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1346": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1347": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1348": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1349": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1350": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1351": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1352": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1353": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1354": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1355": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1356": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1357": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1358": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1359": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1360": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1361": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1362": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1363": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1364": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1365": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1366": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1367": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1368": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1369": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1370": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1371": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1372": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1373": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1374": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1375": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1376": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1377": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1378": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1379": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1380": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1381": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1382": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1383": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1384": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "ELEC-1385": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1386": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1387": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1388": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1389": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1390": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1391": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1392": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1393": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1394": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1395": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1396": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1397": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1398": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1399": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1400": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1401": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1402": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1403": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1404": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1405": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1406": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1407": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1408": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1409": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1410": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1411": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1412": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1413": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1414": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1415": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1416": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1417": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1418": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1419": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1420": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1421": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1422": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1423": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1424": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1425": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1426": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1427": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1428": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1429": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1430": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1431": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1432": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1433": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1434": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1435": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1436": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1437": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1438": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1439": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1440": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1441": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1442": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1443": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1444": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1445": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1446": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1447": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1448": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1449": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1450": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1451": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1452": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1453": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1454": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1455": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1456": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1457": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1458": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1459": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1460": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1461": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1462": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1463": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1464": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1465": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1466": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1467": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1468": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1469": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1470": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1471": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1472": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1473": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1474": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1475": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1476": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1477": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-1478": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1479": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1480": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1481": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1482": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1483": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1484": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1485": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1486": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1487": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1488": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1489": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1490": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1491": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1492": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1493": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1494": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1495": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1496": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1497": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1498": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1499": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1500": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1501": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1502": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1503": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1504": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1505": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1506": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1507": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1508": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1509": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1510": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1511": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1512": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1513": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1514": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1515": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1516": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1517": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1518": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1519": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1520": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1521": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1522": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1523": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1524": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1525": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1526": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1527": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1528": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1529": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1530": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1531": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1532": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1533": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1534": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1535": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1536": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1537": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1538": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1539": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1540": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1541": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1542": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1543": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1544": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1545": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1546": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1547": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1548": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1549": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1550": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1551": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1552": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1553": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1554": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1555": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1556": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1557": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1558": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1559": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1560": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1561": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1562": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1563": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1564": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1565": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1566": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1567": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1568": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1569": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1570": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1571": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1572": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1573": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1574": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1575": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1576": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1577": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1578": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1579": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1580": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1581": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1582": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1583": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1584": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1585": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1586": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1587": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1588": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1589": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1590": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1591": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1592": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1593": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1594": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1595": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1596": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1597": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1598": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1599": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1600": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1601": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1602": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1603": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1604": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1605": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1606": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1607": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1608": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1609": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1610": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1611": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1612": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1613": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1614": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1615": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1616": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1617": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1618": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1619": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1620": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1621": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1622": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1623": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1624": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1625": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1626": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1627": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1628": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-1629": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1630": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1631": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1632": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1633": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1634": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1635": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1636": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1637": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1638": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1639": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1640": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1641": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1642": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1643": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1644": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1645": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1646": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1647": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1648": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1649": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1650": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1651": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1652": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1653": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1654": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1655": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1656": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1657": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1658": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1659": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1660": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1661": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1662": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1663": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1664": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1665": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1666": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1667": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1668": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1669": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1670": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1671": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1672": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1673": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1674": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1675": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1676": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-1677": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1678": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1679": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1680": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1681": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1682": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1683": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1684": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1685": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1686": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1687": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1688": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1689": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1690": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1691": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1692": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1693": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1694": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1695": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1696": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1697": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1698": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1699": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1700": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1701": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1702": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1703": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1704": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1705": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1706": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1707": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1708": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1709": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1710": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1711": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1712": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1713": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1714": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1715": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1716": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1717": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1718": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1719": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1720": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1721": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1722": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1723": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1724": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1725": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1726": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1727": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1728": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1729": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1730": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1731": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1732": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1733": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1734": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1735": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1736": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1737": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1738": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1739": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1740": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1741": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1742": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1743": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "ELEC-1744": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1745": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1746": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1747": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1748": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1749": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1750": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1751": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1752": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1753": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1754": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1755": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1756": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1757": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1758": {
+  "lang": "nl",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1759": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1760": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1761": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1762": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1763": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1764": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1765": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-1766": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1767": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1768": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1769": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1770": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1771": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1772": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1773": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1774": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1775": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1776": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1777": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1778": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1779": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1780": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1781": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1782": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "ELEC-1783": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1784": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1785": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1786": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1787": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1788": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1789": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-1790": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-1791": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1792": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1793": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-038"
+  ]
+ },
+ "ELEC-1794": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1795": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1796": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1797": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1798": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1799": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1800": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1801": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1802": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1803": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1804": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1805": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1806": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1807": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-1808": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1809": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1810": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1811": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1812": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1813": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1814": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1815": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1816": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1817": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1818": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1819": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1820": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1821": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-1822": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-1823": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1824": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-1825": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1826": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1827": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1828": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1829": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1830": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1831": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1832": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1833": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-1834": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1835": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-1836": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1837": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-1838": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1839": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1840": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1841": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1842": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1843": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1844": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1845": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1846": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1847": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-030"
+  ]
+ },
+ "ELEC-1848": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1849": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1850": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1851": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1852": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1853": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1854": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1855": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1856": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1857": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1858": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1859": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1860": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1861": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1862": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-1863": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1864": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-1865": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1866": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-1867": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-1868": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1869": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1870": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1871": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1872": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1873": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1874": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1875": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1876": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1877": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1878": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-1879": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1880": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-1881": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1882": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1883": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1884": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1885": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1886": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1887": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1888": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1889": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1890": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1891": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1892": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1893": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1894": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1895": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-1896": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-1897": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "ELEC-1898": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1899": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1900": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1901": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1902": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1903": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1904": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1905": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1906": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1907": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1908": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-1909": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1910": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1911": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1912": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1913": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1914": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1915": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1916": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-1917": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1918": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1919": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-1920": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-1921": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1922": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-1923": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1924": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1925": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1926": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1927": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1928": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-1929": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1930": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1931": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1932": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-1933": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1934": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1935": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-1936": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1937": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-1938": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-1939": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-1940": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1941": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1942": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1943": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1944": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-1945": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1946": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-1947": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1948": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1949": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-1950": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1951": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1952": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1953": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1954": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1955": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1956": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1957": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1958": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1959": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-1960": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-1961": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1962": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1963": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1964": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-1965": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-1966": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-1967": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1968": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "ELEC-1969": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-1970": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "ELEC-1971": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1972": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1973": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-1974": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1975": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-1976": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1977": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-1978": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-1979": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1980": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1981": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1982": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1983": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-1984": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1985": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "ELEC-1986": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1987": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1988": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-1989": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-1990": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-1991": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-1992": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1993": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-1994": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1995": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-1996": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "ELEC-1997": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-1998": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-1999": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-2000": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-2001": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2002": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-2003": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2004": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2005": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-2006": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-2007": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2008": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-2009": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2010": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-2011": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2012": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2013": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-2014": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2015": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2016": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2017": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-2018": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-2019": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-2020": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-2021": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-2022": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-2023": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "ELEC-2024": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-2025": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2026": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-2027": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-2028": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-2029": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2030": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-2031": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-2032": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-2033": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "ELEC-2034": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2035": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "ELEC-2036": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2037": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-2038": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2039": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "ELEC-2040": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2041": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "ELEC-2042": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-2043": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "ELEC-2044": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-2045": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-2046": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2047": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "ELEC-2048": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2049": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-2050": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2051": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2052": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2053": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2054": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2055": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2056": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-2057": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2058": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2059": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2060": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2061": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "ELEC-2062": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2063": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2064": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2065": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2066": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2067": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2068": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2069": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2070": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2071": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2072": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2073": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2074": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2075": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2076": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2077": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2078": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2079": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2080": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2081": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "ELEC-2082": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2083": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2084": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2085": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2086": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2087": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2088": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2089": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2090": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2091": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2092": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2093": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2094": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2095": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "ELEC-2096": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-2097": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-2098": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-2099": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-2100": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "ELEC-2101": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2102": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2103": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2104": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "ELEC-2105": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "ELEC-2106": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2107": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2108": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2109": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2110": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-2111": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2112": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-2113": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "ELEC-2114": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2115": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-2116": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-2117": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-2118": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "ELEC-2119": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-037"
+  ]
+ },
+ "ELEC-2120": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2121": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "ELEC-2122": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "ELEC-2123": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-2124": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2125": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2126": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-2127": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2128": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2129": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2130": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2131": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2132": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2133": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2134": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2135": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2136": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-2137": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2138": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2139": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "ELEC-2140": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-2141": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2142": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2143": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2144": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "ELEC-2145": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2146": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2147": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-2148": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-2149": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-2150": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "ELEC-2151": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2152": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-2153": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "ELEC-2154": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-2155": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2156": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2157": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2158": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "ELEC-2159": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2160": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "ELEC-2161": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-2162": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-2163": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-2164": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2165": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "ELEC-2166": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "ELEC-2167": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "ELEC-2168": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-2169": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "ELEC-2170": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2171": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2172": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2173": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2174": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "ELEC-2175": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "ELEC-2176": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-2177": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-2178": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "ELEC-2179": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-2180": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-2181": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "ELEC-2182": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "ELEC-2183": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-2184": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-2185": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "ELEC-2186": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-2187": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "ELEC-2188": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "ELEC-2189": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "ELEC-2190": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "ELEC-2191": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "ELEC-2192": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "ELEC-2193": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "ELEC-2194": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "ELEC-2195": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "ELEC-2196": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-2197": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2198": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "ELEC-2199": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2200": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-2201": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "ELEC-2202": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2203": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2204": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-2205": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "ELEC-2206": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "ELEC-2207": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "ELEC-2208": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2209": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "ELEC-2210": {
+  "lang": "en",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "ELEC-2211": {
+  "lang": "de",
+  "kind": "ticket",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "course:C-001": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "course:C-003": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "course:C-005": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "course:C-007": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "course:C-009": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "course:C-011": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "course:C-013": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "course:C-015": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "course:C-017": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "course:C-019": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "course:C-021": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "course:C-023": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "course:C-025": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "course:C-027": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "course:C-029": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "course:C-031": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "course:C-033": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "course:C-035": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "course:C-037": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "course:C-039": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "course:C-041": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "course:C-043": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "course:C-045": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "course:C-047": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "course:C-049": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "course:C-051": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-045"
+  ]
+ },
+ "course:C-053": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "course:C-055": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-054"
+  ]
+ },
+ "course:C-057": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "course:C-059": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "course:C-061": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "course:C-063": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "course:C-065": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "course:C-067": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "course:C-069": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "course:C-071": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "course:C-073": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "course:C-075": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "course:C-077": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "course:C-079": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "course:C-081": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "course:C-083": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "course:C-085": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "course:C-087": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "course:C-089": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "course:C-091": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "course:C-093": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "course:C-095": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-003"
+  ]
+ },
+ "course:C-097": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "course:C-099": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "course:C-101": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "course:C-103": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "course:C-105": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "course:C-107": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "course:C-109": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "course:C-111": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "course:C-113": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "course:C-115": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "course:C-117": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "course:C-119": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "course:C-121": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "course:C-123": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "course:C-125": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "course:C-127": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "course:C-129": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-030"
+  ]
+ },
+ "course:C-131": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "course:C-133": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "course:C-135": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "course:C-137": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "course:C-139": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "course:C-141": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "course:C-143": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "course:C-145": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "course:C-147": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-038"
+  ]
+ },
+ "course:C-149": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-057"
+  ]
+ },
+ "course:C-151": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "course:C-153": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "course:C-155": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "course:C-157": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "course:C-159": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "course:C-161": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-043"
+  ]
+ },
+ "course:C-163": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "course:C-165": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "course:C-167": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "course:C-169": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "course:C-171": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "course:C-173": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "course:C-175": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "course:C-177": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "course:C-179": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "course:C-181": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "course:C-183": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "course:C-185": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "course:C-187": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "course:C-189": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "course:C-191": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "course:C-193": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "course:C-195": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "course:C-197": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "course:C-199": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "course:C-201": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "course:C-203": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "course:C-205": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "course:C-207": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-030"
+  ]
+ },
+ "course:C-209": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "course:C-211": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "course:C-213": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "course:C-215": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "course:C-217": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "course:C-219": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-022"
+  ]
+ },
+ "course:C-221": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "course:C-223": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "course:C-225": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "course:C-227": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-028"
+  ]
+ },
+ "course:C-229": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "course:C-231": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "course:C-233": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-017"
+  ]
+ },
+ "course:C-235": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-048"
+  ]
+ },
+ "course:C-237": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "course:C-239": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "course:C-241": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-036"
+  ]
+ },
+ "course:C-243": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-045"
+  ]
+ },
+ "course:C-245": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-047"
+  ]
+ },
+ "course:C-247": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "course:C-249": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "course:C-251": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-004"
+  ]
+ },
+ "course:C-253": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "course:C-255": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-038"
+  ]
+ },
+ "course:C-257": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "course:C-259": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "course:C-261": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "course:C-263": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "course:C-265": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "course:C-267": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-010"
+  ]
+ },
+ "course:C-269": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "course:C-271": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "course:C-273": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "course:C-275": {
+  "lang": "nl",
+  "kind": "course",
+  "skills": [
+   "SK-055"
+  ]
+ },
+ "course:C-277": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "course:C-279": {
+  "lang": "fr",
+  "kind": "course",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "course:C-281": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-024"
+  ]
+ },
+ "course:C-283": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "course:C-285": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-035"
+  ]
+ },
+ "course:C-287": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-027"
+  ]
+ },
+ "course:C-289": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "course:C-291": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-045"
+  ]
+ },
+ "course:C-293": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-019"
+  ]
+ },
+ "course:C-295": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-007"
+  ]
+ },
+ "course:C-297": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-038"
+  ]
+ },
+ "course:C-299": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "course:C-301": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-002"
+  ]
+ },
+ "course:C-303": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-051"
+  ]
+ },
+ "course:C-305": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-058"
+  ]
+ },
+ "course:C-307": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-018"
+  ]
+ },
+ "course:C-309": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-046"
+  ]
+ },
+ "course:C-311": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-001"
+  ]
+ },
+ "course:C-313": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-056"
+  ]
+ },
+ "course:C-315": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "course:C-317": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-008"
+  ]
+ },
+ "course:C-319": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-044"
+  ]
+ },
+ "course:C-321": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-021"
+  ]
+ },
+ "course:C-323": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-034"
+  ]
+ },
+ "course:C-325": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-005"
+  ]
+ },
+ "course:C-327": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-020"
+  ]
+ },
+ "course:C-329": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-023"
+  ]
+ },
+ "course:C-331": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-049"
+  ]
+ },
+ "course:C-333": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "course:C-335": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-045"
+  ]
+ },
+ "course:C-337": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-015"
+  ]
+ },
+ "course:C-339": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-030"
+  ]
+ },
+ "course:C-341": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-006"
+  ]
+ },
+ "course:C-343": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-031"
+  ]
+ },
+ "course:C-345": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-037"
+  ]
+ },
+ "course:C-347": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "course:C-349": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-050"
+  ]
+ },
+ "course:C-351": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-040"
+  ]
+ },
+ "course:C-353": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-033"
+  ]
+ },
+ "course:C-355": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-009"
+  ]
+ },
+ "course:C-357": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-014"
+  ]
+ },
+ "course:C-359": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-052"
+  ]
+ },
+ "course:C-361": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-013"
+  ]
+ },
+ "course:C-363": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "course:C-365": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-026"
+  ]
+ },
+ "course:C-367": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-025"
+  ]
+ },
+ "course:C-369": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-032"
+  ]
+ },
+ "course:C-371": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-039"
+  ]
+ },
+ "course:C-373": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-012"
+  ]
+ },
+ "course:C-375": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-053"
+  ]
+ },
+ "course:C-377": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-029"
+  ]
+ },
+ "course:C-379": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-037"
+  ]
+ },
+ "course:C-381": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-041"
+  ]
+ },
+ "course:C-383": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-016"
+  ]
+ },
+ "course:C-385": {
+  "lang": "de",
+  "kind": "course",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "course:C-387": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-042"
+  ]
+ },
+ "course:C-389": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-011"
+  ]
+ },
+ "course:C-391": {
+  "lang": "en",
+  "kind": "course",
+  "skills": [
+   "SK-030"
+  ]
+ }
+}

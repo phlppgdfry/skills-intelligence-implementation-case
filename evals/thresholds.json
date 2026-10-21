@@ -1,0 +1,62 @@
+{
+ "connectors.complete": {
+  "equals": true
+ },
+ "connectors.duplicates": {
+  "equals": 0
+ },
+ "connectors.delta_exact": {
+  "equals": true
+ },
+ "connectors.jira_fields_minimal": {
+  "equals": true
+ },
+ "connectors.auth_error_not_retried": {
+  "equals": true
+ },
+ "identity.rules.false_merges": {
+  "max": 0
+ },
+ "identity.rules.recall": {
+  "min": 0.85
+ },
+ "identity.after_steward.recall": {
+  "min": 1.0
+ },
+ "readiness.recall": {
+  "min": 1.0
+ },
+ "readiness.false_alarm_count": {
+  "max": 0
+ },
+ "extraction.C.all.precision": {
+  "min": 0.95
+ },
+ "extraction.C.all.recall": {
+  "min": 0.93
+ },
+ "extraction.C.language_recall_gap": {
+  "max": 0.06
+ },
+ "profiles.policies.corroborated.validated.precision": {
+  "min": 0.95
+ },
+ "profiles.policies.corroborated.wrong_asks_per_person": {
+  "max": 0.5
+ },
+ "crosswalk.auto_precision": {
+  "min": 0.98
+ },
+ "writeback.second_run_ops": {
+  "equals": 0
+ },
+ "writeback.replayed_batch_applied": {
+  "equals": 0
+ },
+ "writeback.employee_skills_untouched": {
+  "equals": true
+ },
+ "governance.ablation.all controls.total": {
+  "equals": 0
+ }
+}

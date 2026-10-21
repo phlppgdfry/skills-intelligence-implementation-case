@@ -1,0 +1,3448 @@
+{
+ "P0001": {
+  "skills": [
+   "SK-005",
+   "SK-022",
+   "SK-025",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "security-engineer",
+  "workday": "W30003",
+  "successfactors": null
+ },
+ "P0002": {
+  "skills": [
+   "SK-004",
+   "SK-040",
+   "SK-041",
+   "SK-042",
+   "SK-049",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30006",
+  "successfactors": null
+ },
+ "P0003": {
+  "skills": [
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-020",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30009",
+  "successfactors": null
+ },
+ "P0004": {
+  "skills": [
+   "SK-016",
+   "SK-017",
+   "SK-021",
+   "SK-022",
+   "SK-041",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30012",
+  "successfactors": null
+ },
+ "P0005": {
+  "skills": [
+   "SK-002",
+   "SK-006",
+   "SK-021",
+   "SK-044",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30015",
+  "successfactors": null
+ },
+ "P0006": {
+  "skills": [
+   "SK-039",
+   "SK-043",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30018",
+  "successfactors": null
+ },
+ "P0007": {
+  "skills": [
+   "SK-013",
+   "SK-020",
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-049",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30021",
+  "successfactors": null
+ },
+ "P0008": {
+  "skills": [
+   "SK-001",
+   "SK-014",
+   "SK-015",
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30024",
+  "successfactors": null
+ },
+ "P0009": {
+  "skills": [
+   "SK-005",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30027",
+  "successfactors": null
+ },
+ "P0010": {
+  "skills": [
+   "SK-001",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-038",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30030",
+  "successfactors": null
+ },
+ "P0011": {
+  "skills": [
+   "SK-018",
+   "SK-031",
+   "SK-032",
+   "SK-033",
+   "SK-035",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "quality-engineer",
+  "workday": "W30033",
+  "successfactors": null
+ },
+ "P0012": {
+  "skills": [
+   "SK-007",
+   "SK-016",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30036",
+  "successfactors": null
+ },
+ "P0013": {
+  "skills": [
+   "SK-031",
+   "SK-041",
+   "SK-046",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30039",
+  "successfactors": null
+ },
+ "P0014": {
+  "skills": [
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-041",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30042",
+  "successfactors": null
+ },
+ "P0015": {
+  "skills": [
+   "SK-001",
+   "SK-003",
+   "SK-020",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30045",
+  "successfactors": null
+ },
+ "P0016": {
+  "skills": [
+   "SK-015",
+   "SK-019",
+   "SK-020",
+   "SK-021",
+   "SK-023",
+   "SK-032"
+  ],
+  "company": "norvane",
+  "role": "embedded-engineer",
+  "workday": "W30048",
+  "successfactors": null
+ },
+ "P0017": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-013",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30051",
+  "successfactors": null
+ },
+ "P0018": {
+  "skills": [
+   "SK-010",
+   "SK-011",
+   "SK-013",
+   "SK-032",
+   "SK-044",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30054",
+  "successfactors": null
+ },
+ "P0019": {
+  "skills": [
+   "SK-027",
+   "SK-030",
+   "SK-038",
+   "SK-040",
+   "SK-045",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30057",
+  "successfactors": null
+ },
+ "P0020": {
+  "skills": [
+   "SK-010",
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-049",
+   "SK-050",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30060",
+  "successfactors": null
+ },
+ "P0021": {
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-040",
+   "SK-041",
+   "SK-043",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "maintenance-technician",
+  "workday": "W30063",
+  "successfactors": null
+ },
+ "P0022": {
+  "skills": [
+   "SK-017",
+   "SK-020",
+   "SK-021",
+   "SK-022",
+   "SK-025",
+   "SK-030",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30066",
+  "successfactors": null
+ },
+ "P0023": {
+  "skills": [
+   "SK-003",
+   "SK-020",
+   "SK-021",
+   "SK-029",
+   "SK-033",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "embedded-engineer",
+  "workday": "W30069",
+  "successfactors": null
+ },
+ "P0024": {
+  "skills": [
+   "SK-006",
+   "SK-030",
+   "SK-046"
+  ],
+  "company": "norvane",
+  "role": "controller",
+  "workday": "W30072",
+  "successfactors": null
+ },
+ "P0025": {
+  "skills": [
+   "SK-015",
+   "SK-017",
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-042"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30075",
+  "successfactors": null
+ },
+ "P0026": {
+  "skills": [
+   "SK-007",
+   "SK-012",
+   "SK-030",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30078",
+  "successfactors": null
+ },
+ "P0027": {
+  "skills": [
+   "SK-013",
+   "SK-039",
+   "SK-041",
+   "SK-042"
+  ],
+  "company": "norvane",
+  "role": "warehouse-operator",
+  "workday": "W30081",
+  "successfactors": null
+ },
+ "P0028": {
+  "skills": [
+   "SK-012",
+   "SK-013",
+   "SK-026",
+   "SK-055",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30084",
+  "successfactors": null
+ },
+ "P0029": {
+  "skills": [
+   "SK-013",
+   "SK-030",
+   "SK-031",
+   "SK-038",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "controller",
+  "workday": "W30087",
+  "successfactors": null
+ },
+ "P0030": {
+  "skills": [
+   "SK-035",
+   "SK-037",
+   "SK-040",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "process-engineer",
+  "workday": "W30090",
+  "successfactors": null
+ },
+ "P0031": {
+  "skills": [
+   "SK-030",
+   "SK-038",
+   "SK-048",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30093",
+  "successfactors": null
+ },
+ "P0032": {
+  "skills": [
+   "SK-003",
+   "SK-022",
+   "SK-030",
+   "SK-043"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30096",
+  "successfactors": null
+ },
+ "P0033": {
+  "skills": [
+   "SK-018",
+   "SK-028",
+   "SK-030",
+   "SK-037",
+   "SK-038",
+   "SK-041",
+   "SK-045"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30099",
+  "successfactors": null
+ },
+ "P0034": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-010",
+   "SK-026",
+   "SK-049"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30102",
+  "successfactors": null
+ },
+ "P0035": {
+  "skills": [
+   "SK-010",
+   "SK-030",
+   "SK-038",
+   "SK-039",
+   "SK-045",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30105",
+  "successfactors": null
+ },
+ "P0036": {
+  "skills": [
+   "SK-041",
+   "SK-042",
+   "SK-046"
+  ],
+  "company": "norvane",
+  "role": "warehouse-operator",
+  "workday": "W30108",
+  "successfactors": null
+ },
+ "P0037": {
+  "skills": [
+   "SK-030",
+   "SK-036",
+   "SK-042",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30111",
+  "successfactors": null
+ },
+ "P0038": {
+  "skills": [
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-014",
+   "SK-048",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30114",
+  "successfactors": null
+ },
+ "P0039": {
+  "skills": [
+   "SK-015",
+   "SK-016",
+   "SK-018",
+   "SK-028"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30117",
+  "successfactors": null
+ },
+ "P0040": {
+  "skills": [
+   "SK-002",
+   "SK-004",
+   "SK-006",
+   "SK-011",
+   "SK-037",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "maintenance-technician",
+  "workday": "W30120",
+  "successfactors": null
+ },
+ "P0041": {
+  "skills": [
+   "SK-009",
+   "SK-030",
+   "SK-044",
+   "SK-046",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30123",
+  "successfactors": null
+ },
+ "P0042": {
+  "skills": [
+   "SK-031",
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-042",
+   "SK-047",
+   "SK-049",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30126",
+  "successfactors": null
+ },
+ "P0043": {
+  "skills": [
+   "SK-012",
+   "SK-013",
+   "SK-025",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30129",
+  "successfactors": null
+ },
+ "P0044": {
+  "skills": [
+   "SK-009",
+   "SK-011",
+   "SK-022"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30132",
+  "successfactors": null
+ },
+ "P0045": {
+  "skills": [
+   "SK-008",
+   "SK-019",
+   "SK-030",
+   "SK-046",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "controller",
+  "workday": "W30135",
+  "successfactors": null
+ },
+ "P0046": {
+  "skills": [
+   "SK-029",
+   "SK-046",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30138",
+  "successfactors": null
+ },
+ "P0047": {
+  "skills": [
+   "SK-010",
+   "SK-013",
+   "SK-031",
+   "SK-042",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30141",
+  "successfactors": null
+ },
+ "P0048": {
+  "skills": [
+   "SK-017",
+   "SK-030",
+   "SK-038",
+   "SK-041",
+   "SK-042",
+   "SK-045"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30144",
+  "successfactors": null
+ },
+ "P0049": {
+  "skills": [
+   "SK-018",
+   "SK-028",
+   "SK-047",
+   "SK-050",
+   "SK-054",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30147",
+  "successfactors": null
+ },
+ "P0050": {
+  "skills": [
+   "SK-003",
+   "SK-012",
+   "SK-041",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "maintenance-technician",
+  "workday": "W30150",
+  "successfactors": null
+ },
+ "P0051": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-008",
+   "SK-025",
+   "SK-038"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30153",
+  "successfactors": null
+ },
+ "P0052": {
+  "skills": [
+   "SK-031",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30156",
+  "successfactors": null
+ },
+ "P0053": {
+  "skills": [
+   "SK-005",
+   "SK-041",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30159",
+  "successfactors": null
+ },
+ "P0054": {
+  "skills": [
+   "SK-009",
+   "SK-011",
+   "SK-039",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30162",
+  "successfactors": null
+ },
+ "P0055": {
+  "skills": [
+   "SK-017",
+   "SK-021",
+   "SK-024",
+   "SK-036",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30165",
+  "successfactors": null
+ },
+ "P0056": {
+  "skills": [
+   "SK-036",
+   "SK-038",
+   "SK-039",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30168",
+  "successfactors": null
+ },
+ "P0057": {
+  "skills": [
+   "SK-023",
+   "SK-030",
+   "SK-046",
+   "SK-047",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "controller",
+  "workday": "W30171",
+  "successfactors": null
+ },
+ "P0058": {
+  "skills": [
+   "SK-015",
+   "SK-023",
+   "SK-026",
+   "SK-029",
+   "SK-040"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30174",
+  "successfactors": null
+ },
+ "P0059": {
+  "skills": [
+   "SK-004",
+   "SK-031",
+   "SK-033",
+   "SK-035"
+  ],
+  "company": "norvane",
+  "role": "quality-engineer",
+  "workday": "W30177",
+  "successfactors": null
+ },
+ "P0060": {
+  "skills": [
+   "SK-004",
+   "SK-009",
+   "SK-010",
+   "SK-011",
+   "SK-013",
+   "SK-023"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30180",
+  "successfactors": null
+ },
+ "P0061": {
+  "skills": [
+   "SK-012",
+   "SK-037"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30183",
+  "successfactors": null
+ },
+ "P0062": {
+  "skills": [
+   "SK-008",
+   "SK-028",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30186",
+  "successfactors": null
+ },
+ "P0063": {
+  "skills": [
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30189",
+  "successfactors": null
+ },
+ "P0064": {
+  "skills": [
+   "SK-010",
+   "SK-030",
+   "SK-031",
+   "SK-032",
+   "SK-033",
+   "SK-035",
+   "SK-039"
+  ],
+  "company": "norvane",
+  "role": "quality-engineer",
+  "workday": "W30192",
+  "successfactors": null
+ },
+ "P0065": {
+  "skills": [
+   "SK-015",
+   "SK-018",
+   "SK-028",
+   "SK-055",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30195",
+  "successfactors": null
+ },
+ "P0066": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-027",
+   "SK-032",
+   "SK-035",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "electrical-engineer",
+  "workday": "W30198",
+  "successfactors": null
+ },
+ "P0067": {
+  "skills": [
+   "SK-032",
+   "SK-034",
+   "SK-040",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30201",
+  "successfactors": null
+ },
+ "P0068": {
+  "skills": [
+   "SK-023",
+   "SK-031",
+   "SK-032",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "security-engineer",
+  "workday": "W30204",
+  "successfactors": null
+ },
+ "P0069": {
+  "skills": [
+   "SK-006",
+   "SK-012",
+   "SK-014",
+   "SK-022",
+   "SK-023",
+   "SK-036",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "maintenance-technician",
+  "workday": "W30207",
+  "successfactors": null
+ },
+ "P0070": {
+  "skills": [
+   "SK-001",
+   "SK-015",
+   "SK-018",
+   "SK-028",
+   "SK-031",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30210",
+  "successfactors": null
+ },
+ "P0071": {
+  "skills": [
+   "SK-012",
+   "SK-021",
+   "SK-030",
+   "SK-040",
+   "SK-052"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30213",
+  "successfactors": null
+ },
+ "P0072": {
+  "skills": [
+   "SK-004",
+   "SK-005",
+   "SK-007",
+   "SK-011",
+   "SK-033",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "automation-engineer",
+  "workday": "W30216",
+  "successfactors": null
+ },
+ "P0073": {
+  "skills": [
+   "SK-007",
+   "SK-012",
+   "SK-023",
+   "SK-041",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30219",
+  "successfactors": null
+ },
+ "P0074": {
+  "skills": [
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-025",
+   "SK-041",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30222",
+  "successfactors": null
+ },
+ "P0075": {
+  "skills": [
+   "SK-030",
+   "SK-031",
+   "SK-046",
+   "SK-052",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30225",
+  "successfactors": null
+ },
+ "P0076": {
+  "skills": [
+   "SK-024",
+   "SK-035",
+   "SK-043",
+   "SK-044",
+   "SK-051",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30228",
+  "successfactors": null
+ },
+ "P0077": {
+  "skills": [
+   "SK-001",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30231",
+  "successfactors": null
+ },
+ "P0078": {
+  "skills": [
+   "SK-009",
+   "SK-011",
+   "SK-013",
+   "SK-016",
+   "SK-030",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30234",
+  "successfactors": null
+ },
+ "P0079": {
+  "skills": [
+   "SK-021",
+   "SK-039",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30237",
+  "successfactors": null
+ },
+ "P0080": {
+  "skills": [
+   "SK-001",
+   "SK-015",
+   "SK-044",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30240",
+  "successfactors": null
+ },
+ "P0081": {
+  "skills": [
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-032",
+   "SK-047",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30243",
+  "successfactors": null
+ },
+ "P0082": {
+  "skills": [
+   "SK-020",
+   "SK-023",
+   "SK-024",
+   "SK-038",
+   "SK-045"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30246",
+  "successfactors": null
+ },
+ "P0083": {
+  "skills": [
+   "SK-014",
+   "SK-018",
+   "SK-022",
+   "SK-026",
+   "SK-029",
+   "SK-040"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30249",
+  "successfactors": null
+ },
+ "P0084": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-003",
+   "SK-007",
+   "SK-010",
+   "SK-011"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30252",
+  "successfactors": null
+ },
+ "P0085": {
+  "skills": [
+   "SK-017",
+   "SK-021",
+   "SK-022",
+   "SK-026",
+   "SK-031",
+   "SK-049"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30255",
+  "successfactors": null
+ },
+ "P0086": {
+  "skills": [
+   "SK-001",
+   "SK-016",
+   "SK-018",
+   "SK-021",
+   "SK-027"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30258",
+  "successfactors": null
+ },
+ "P0087": {
+  "skills": [
+   "SK-009",
+   "SK-011",
+   "SK-013",
+   "SK-024",
+   "SK-030"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30261",
+  "successfactors": null
+ },
+ "P0088": {
+  "skills": [
+   "SK-013",
+   "SK-017",
+   "SK-018",
+   "SK-022",
+   "SK-025",
+   "SK-031",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30264",
+  "successfactors": null
+ },
+ "P0089": {
+  "skills": [
+   "SK-023",
+   "SK-038",
+   "SK-052"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30267",
+  "successfactors": null
+ },
+ "P0090": {
+  "skills": [
+   "SK-005",
+   "SK-044",
+   "SK-045",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30270",
+  "successfactors": null
+ },
+ "P0091": {
+  "skills": [
+   "SK-018",
+   "SK-035",
+   "SK-041",
+   "SK-042"
+  ],
+  "company": "norvane",
+  "role": "warehouse-operator",
+  "workday": "W30273",
+  "successfactors": null
+ },
+ "P0092": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-003",
+   "SK-020",
+   "SK-029",
+   "SK-030"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30276",
+  "successfactors": null
+ },
+ "P0093": {
+  "skills": [
+   "SK-006",
+   "SK-029",
+   "SK-044",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30279",
+  "successfactors": null
+ },
+ "P0094": {
+  "skills": [
+   "SK-035",
+   "SK-045",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30282",
+  "successfactors": null
+ },
+ "P0095": {
+  "skills": [
+   "SK-028",
+   "SK-039",
+   "SK-043",
+   "SK-044",
+   "SK-049",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30285",
+  "successfactors": null
+ },
+ "P0096": {
+  "skills": [
+   "SK-019",
+   "SK-020",
+   "SK-022",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "embedded-engineer",
+  "workday": "W30288",
+  "successfactors": null
+ },
+ "P0097": {
+  "skills": [
+   "SK-003",
+   "SK-008",
+   "SK-019",
+   "SK-020",
+   "SK-021",
+   "SK-031",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "embedded-engineer",
+  "workday": "W30291",
+  "successfactors": null
+ },
+ "P0098": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-003",
+   "SK-011",
+   "SK-020",
+   "SK-048",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30294",
+  "successfactors": null
+ },
+ "P0099": {
+  "skills": [
+   "SK-005",
+   "SK-006",
+   "SK-012",
+   "SK-013",
+   "SK-041",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30297",
+  "successfactors": null
+ },
+ "P0100": {
+  "skills": [
+   "SK-012",
+   "SK-013",
+   "SK-016",
+   "SK-021",
+   "SK-041",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30300",
+  "successfactors": null
+ },
+ "P0101": {
+  "skills": [
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-039"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30303",
+  "successfactors": null
+ },
+ "P0102": {
+  "skills": [
+   "SK-002",
+   "SK-003",
+   "SK-010",
+   "SK-020",
+   "SK-027",
+   "SK-035",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30306",
+  "successfactors": null
+ },
+ "P0103": {
+  "skills": [
+   "SK-004",
+   "SK-011",
+   "SK-018",
+   "SK-028",
+   "SK-034",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30309",
+  "successfactors": null
+ },
+ "P0104": {
+  "skills": [
+   "SK-036",
+   "SK-044",
+   "SK-045"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30312",
+  "successfactors": null
+ },
+ "P0105": {
+  "skills": [
+   "SK-017",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30315",
+  "successfactors": null
+ },
+ "P0106": {
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-017",
+   "SK-036",
+   "SK-041",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "maintenance-technician",
+  "workday": "W30318",
+  "successfactors": null
+ },
+ "P0107": {
+  "skills": [
+   "SK-022",
+   "SK-023",
+   "SK-024",
+   "SK-026",
+   "SK-052",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "platform-engineer",
+  "workday": "W30321",
+  "successfactors": null
+ },
+ "P0108": {
+  "skills": [
+   "SK-021",
+   "SK-022",
+   "SK-030"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30324",
+  "successfactors": null
+ },
+ "P0109": {
+  "skills": [
+   "SK-039",
+   "SK-050",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30327",
+  "successfactors": null
+ },
+ "P0110": {
+  "skills": [
+   "SK-028",
+   "SK-036",
+   "SK-043",
+   "SK-049"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30330",
+  "successfactors": null
+ },
+ "P0111": {
+  "skills": [
+   "SK-051",
+   "SK-052",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30333",
+  "successfactors": null
+ },
+ "P0112": {
+  "skills": [
+   "SK-005",
+   "SK-010",
+   "SK-021",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30336",
+  "successfactors": null
+ },
+ "P0113": {
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-041",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "maintenance-technician",
+  "workday": "W30339",
+  "successfactors": null
+ },
+ "P0114": {
+  "skills": [
+   "SK-005",
+   "SK-009"
+  ],
+  "company": "norvane",
+  "role": "security-engineer",
+  "workday": "W30342",
+  "successfactors": null
+ },
+ "P0115": {
+  "skills": [
+   "SK-009",
+   "SK-022",
+   "SK-024",
+   "SK-026",
+   "SK-036",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "platform-engineer",
+  "workday": "W30345",
+  "successfactors": null
+ },
+ "P0116": {
+  "skills": [
+   "SK-032",
+   "SK-034",
+   "SK-041",
+   "SK-049",
+   "SK-050",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30348",
+  "successfactors": null
+ },
+ "P0117": {
+  "skills": [
+   "SK-007",
+   "SK-018",
+   "SK-040",
+   "SK-041",
+   "SK-043",
+   "SK-049",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30351",
+  "successfactors": null
+ },
+ "P0118": {
+  "skills": [
+   "SK-013",
+   "SK-014",
+   "SK-020",
+   "SK-034",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30354",
+  "successfactors": null
+ },
+ "P0119": {
+  "skills": [
+   "SK-030",
+   "SK-033",
+   "SK-036",
+   "SK-038",
+   "SK-039",
+   "SK-048",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30357",
+  "successfactors": null
+ },
+ "P0120": {
+  "skills": [
+   "SK-030",
+   "SK-047"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30360",
+  "successfactors": null
+ },
+ "P0121": {
+  "skills": [
+   "SK-003",
+   "SK-008",
+   "SK-019",
+   "SK-020",
+   "SK-021",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "embedded-engineer",
+  "workday": "W30363",
+  "successfactors": null
+ },
+ "P0122": {
+  "skills": [
+   "SK-002",
+   "SK-015",
+   "SK-042",
+   "SK-044",
+   "SK-046",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30366",
+  "successfactors": null
+ },
+ "P0123": {
+  "skills": [
+   "SK-019",
+   "SK-031",
+   "SK-033",
+   "SK-035"
+  ],
+  "company": "norvane",
+  "role": "quality-engineer",
+  "workday": "W30369",
+  "successfactors": null
+ },
+ "P0124": {
+  "skills": [
+   "SK-037",
+   "SK-038",
+   "SK-040"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30372",
+  "successfactors": null
+ },
+ "P0125": {
+  "skills": [
+   "SK-017",
+   "SK-028",
+   "SK-030",
+   "SK-036",
+   "SK-038"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30375",
+  "successfactors": null
+ },
+ "P0126": {
+  "skills": [
+   "SK-007",
+   "SK-018",
+   "SK-025",
+   "SK-046",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "automation-engineer",
+  "workday": "W30378",
+  "successfactors": null
+ },
+ "P0127": {
+  "skills": [
+   "SK-018",
+   "SK-044",
+   "SK-045",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30381",
+  "successfactors": null
+ },
+ "P0128": {
+  "skills": [
+   "SK-008",
+   "SK-011",
+   "SK-016",
+   "SK-046"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30384",
+  "successfactors": null
+ },
+ "P0129": {
+  "skills": [
+   "SK-009",
+   "SK-018",
+   "SK-040",
+   "SK-041",
+   "SK-049",
+   "SK-050",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30387",
+  "successfactors": null
+ },
+ "P0130": {
+  "skills": [
+   "SK-001",
+   "SK-003",
+   "SK-005",
+   "SK-010",
+   "SK-020",
+   "SK-028",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30390",
+  "successfactors": null
+ },
+ "P0131": {
+  "skills": [
+   "SK-033"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30393",
+  "successfactors": null
+ },
+ "P0132": {
+  "skills": [
+   "SK-010",
+   "SK-031",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30396",
+  "successfactors": null
+ },
+ "P0133": {
+  "skills": [
+   "SK-021",
+   "SK-023",
+   "SK-054"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30399",
+  "successfactors": null
+ },
+ "P0134": {
+  "skills": [
+   "SK-002",
+   "SK-046",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "controller",
+  "workday": "W30402",
+  "successfactors": null
+ },
+ "P0135": {
+  "skills": [
+   "SK-033",
+   "SK-034",
+   "SK-036",
+   "SK-040",
+   "SK-041",
+   "SK-048",
+   "SK-049"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30405",
+  "successfactors": null
+ },
+ "P0136": {
+  "skills": [
+   "SK-019",
+   "SK-039",
+   "SK-045"
+  ],
+  "company": "norvane",
+  "role": "warehouse-operator",
+  "workday": "W30408",
+  "successfactors": null
+ },
+ "P0137": {
+  "skills": [
+   "SK-013",
+   "SK-034"
+  ],
+  "company": "norvane",
+  "role": "welder",
+  "workday": "W30411",
+  "successfactors": null
+ },
+ "P0138": {
+  "skills": [
+   "SK-021",
+   "SK-030",
+   "SK-032",
+   "SK-052"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30414",
+  "successfactors": null
+ },
+ "P0139": {
+  "skills": [
+   "SK-011",
+   "SK-027",
+   "SK-039",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "security-engineer",
+  "workday": "W30417",
+  "successfactors": null
+ },
+ "P0140": {
+  "skills": [
+   "SK-009",
+   "SK-039",
+   "SK-041",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "warehouse-operator",
+  "workday": "W30420",
+  "successfactors": null
+ },
+ "P0141": {
+  "skills": [
+   "SK-020",
+   "SK-034",
+   "SK-044",
+   "SK-045",
+   "SK-049",
+   "SK-052",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30423",
+  "successfactors": null
+ },
+ "P0142": {
+  "skills": [
+   "SK-016",
+   "SK-044",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30426",
+  "successfactors": null
+ },
+ "P0143": {
+  "skills": [
+   "SK-003",
+   "SK-024",
+   "SK-029",
+   "SK-030",
+   "SK-047",
+   "SK-048"
+  ],
+  "company": "norvane",
+  "role": "controller",
+  "workday": "W30429",
+  "successfactors": null
+ },
+ "P0144": {
+  "skills": [
+   "SK-033",
+   "SK-044",
+   "SK-045",
+   "SK-052",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30432",
+  "successfactors": null
+ },
+ "P0145": {
+  "skills": [
+   "SK-002",
+   "SK-003",
+   "SK-026"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30435",
+  "successfactors": null
+ },
+ "P0146": {
+  "skills": [
+   "SK-009",
+   "SK-023",
+   "SK-044",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "hr-business-partner",
+  "workday": "W30438",
+  "successfactors": null
+ },
+ "P0147": {
+  "skills": [
+   "SK-029",
+   "SK-030",
+   "SK-052"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30441",
+  "successfactors": null
+ },
+ "P0148": {
+  "skills": [
+   "SK-001",
+   "SK-030",
+   "SK-039"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30444",
+  "successfactors": null
+ },
+ "P0149": {
+  "skills": [
+   "SK-019"
+  ],
+  "company": "norvane",
+  "role": "technical-writer",
+  "workday": "W30447",
+  "successfactors": null
+ },
+ "P0150": {
+  "skills": [
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-042",
+   "SK-049",
+   "SK-050",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "team-lead-production",
+  "workday": "W30450",
+  "successfactors": null
+ },
+ "P0151": {
+  "skills": [
+   "SK-010",
+   "SK-030",
+   "SK-032",
+   "SK-036",
+   "SK-042"
+  ],
+  "company": "norvane",
+  "role": "supply-planner",
+  "workday": "W30453",
+  "successfactors": null
+ },
+ "P0152": {
+  "skills": [
+   "SK-006",
+   "SK-014",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-025",
+   "SK-036"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30456",
+  "successfactors": null
+ },
+ "P0153": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-003",
+   "SK-010",
+   "SK-020",
+   "SK-039"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30459",
+  "successfactors": null
+ },
+ "P0154": {
+  "skills": [
+   "SK-031",
+   "SK-033",
+   "SK-034",
+   "SK-035",
+   "SK-046"
+  ],
+  "company": "norvane",
+  "role": "quality-engineer",
+  "workday": "W30462",
+  "successfactors": null
+ },
+ "P0155": {
+  "skills": [
+   "SK-006",
+   "SK-015",
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-031",
+   "SK-044"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30465",
+  "successfactors": null
+ },
+ "P0156": {
+  "skills": [
+   "SK-015",
+   "SK-018",
+   "SK-026",
+   "SK-029",
+   "SK-038",
+   "SK-039",
+   "SK-041"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30468",
+  "successfactors": null
+ },
+ "P0157": {
+  "skills": [
+   "SK-009",
+   "SK-013",
+   "SK-018",
+   "SK-055"
+  ],
+  "company": "norvane",
+  "role": "data-scientist",
+  "workday": "W30471",
+  "successfactors": null
+ },
+ "P0158": {
+  "skills": [
+   "SK-012",
+   "SK-030",
+   "SK-052",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "service-agent",
+  "workday": "W30474",
+  "successfactors": null
+ },
+ "P0159": {
+  "skills": [
+   "SK-009",
+   "SK-035"
+  ],
+  "company": "norvane",
+  "role": "process-engineer",
+  "workday": "W30477",
+  "successfactors": null
+ },
+ "P0160": {
+  "skills": [
+   "SK-006",
+   "SK-010",
+   "SK-020",
+   "SK-049"
+  ],
+  "company": "norvane",
+  "role": "battery-engineer",
+  "workday": "W30480",
+  "successfactors": null
+ },
+ "P0161": {
+  "skills": [
+   "SK-004",
+   "SK-023",
+   "SK-025",
+   "SK-026",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "platform-engineer",
+  "workday": "W30483",
+  "successfactors": null
+ },
+ "P0162": {
+  "skills": [
+   "SK-003",
+   "SK-019",
+   "SK-020",
+   "SK-021",
+   "SK-034",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "embedded-engineer",
+  "workday": "W30486",
+  "successfactors": null
+ },
+ "P0163": {
+  "skills": [
+   "SK-003",
+   "SK-009",
+   "SK-010",
+   "SK-013",
+   "SK-021",
+   "SK-031"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30489",
+  "successfactors": null
+ },
+ "P0164": {
+  "skills": [
+   "SK-005",
+   "SK-015",
+   "SK-018",
+   "SK-019",
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-058"
+  ],
+  "company": "norvane",
+  "role": "data-engineer",
+  "workday": "W30492",
+  "successfactors": null
+ },
+ "P0165": {
+  "skills": [
+   "SK-001",
+   "SK-042",
+   "SK-044",
+   "SK-045",
+   "SK-052",
+   "SK-053"
+  ],
+  "company": "norvane",
+  "role": "sales-engineer",
+  "workday": "W30495",
+  "successfactors": null
+ },
+ "P0166": {
+  "skills": [
+   "SK-004",
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-022",
+   "SK-025",
+   "SK-033",
+   "SK-056"
+  ],
+  "company": "norvane",
+  "role": "software-engineer",
+  "workday": "W30498",
+  "successfactors": null
+ },
+ "P0167": {
+  "skills": [
+   "SK-012",
+   "SK-030",
+   "SK-037",
+   "SK-038",
+   "SK-045",
+   "SK-050"
+  ],
+  "company": "norvane",
+  "role": "buyer",
+  "workday": "W30501",
+  "successfactors": null
+ },
+ "P0168": {
+  "skills": [
+   "SK-004",
+   "SK-023",
+   "SK-056",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "automation-engineer",
+  "workday": "W30504",
+  "successfactors": null
+ },
+ "P0169": {
+  "skills": [
+   "SK-004",
+   "SK-035",
+   "SK-043",
+   "SK-046",
+   "SK-057"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30507",
+  "successfactors": null
+ },
+ "P0170": {
+  "skills": [
+   "SK-009",
+   "SK-011",
+   "SK-039"
+  ],
+  "company": "norvane",
+  "role": "mechanical-engineer",
+  "workday": "W30510",
+  "successfactors": null
+ },
+ "P0171": {
+  "skills": [
+   "SK-030",
+   "SK-039",
+   "SK-044",
+   "SK-048",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "controller",
+  "workday": null,
+  "successfactors": "kdfisjue10"
+ },
+ "P0172": {
+  "skills": [
+   "SK-004",
+   "SK-007",
+   "SK-021",
+   "SK-023",
+   "SK-054"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdricjo11"
+ },
+ "P0173": {
+  "skills": [
+   "SK-028",
+   "SK-034"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdbecfe12"
+ },
+ "P0174": {
+  "skills": [
+   "SK-030",
+   "SK-037",
+   "SK-038",
+   "SK-040",
+   "SK-044",
+   "SK-045",
+   "SK-046"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": null,
+  "successfactors": "kdschmi13"
+ },
+ "P0175": {
+  "skills": [
+   "SK-001",
+   "SK-003",
+   "SK-020",
+   "SK-031",
+   "SK-034",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "battery-engineer",
+  "workday": "W30513",
+  "successfactors": "kdfisoez14"
+ },
+ "P0176": {
+  "skills": [
+   "SK-031",
+   "SK-037",
+   "SK-046",
+   "SK-048"
+  ],
+  "company": "keldorf",
+  "role": "controller",
+  "workday": null,
+  "successfactors": "kdwebma15"
+ },
+ "P0177": {
+  "skills": [
+   "SK-025",
+   "SK-043",
+   "SK-044",
+   "SK-045",
+   "SK-046"
+  ],
+  "company": "keldorf",
+  "role": "project-manager",
+  "workday": null,
+  "successfactors": "kdwolmi16"
+ },
+ "P0178": {
+  "skills": [
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-045",
+   "SK-049",
+   "SK-050"
+  ],
+  "company": "keldorf",
+  "role": "team-lead-production",
+  "workday": null,
+  "successfactors": "kdmuelan17"
+ },
+ "P0179": {
+  "skills": [
+   "SK-004",
+   "SK-019",
+   "SK-020",
+   "SK-038",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdwebto18"
+ },
+ "P0180": {
+  "skills": [
+   "SK-021",
+   "SK-031",
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-049",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "team-lead-production",
+  "workday": null,
+  "successfactors": "kdschmi19"
+ },
+ "P0181": {
+  "skills": [
+   "SK-007"
+  ],
+  "company": "keldorf",
+  "role": "welder",
+  "workday": null,
+  "successfactors": "kdneule20"
+ },
+ "P0182": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-010",
+   "SK-011",
+   "SK-040",
+   "SK-045"
+  ],
+  "company": "keldorf",
+  "role": "battery-engineer",
+  "workday": "W30516",
+  "successfactors": "kdwagse21"
+ },
+ "P0183": {
+  "skills": [
+   "SK-012",
+   "SK-032",
+   "SK-034",
+   "SK-035",
+   "SK-040",
+   "SK-051",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdlanoez22"
+ },
+ "P0184": {
+  "skills": [
+   "SK-022",
+   "SK-030",
+   "SK-037",
+   "SK-038",
+   "SK-043",
+   "SK-045",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": "W30519",
+  "successfactors": "kdkocfl23"
+ },
+ "P0185": {
+  "skills": [
+   "SK-010",
+   "SK-012",
+   "SK-013",
+   "SK-025",
+   "SK-041",
+   "SK-043"
+  ],
+  "company": "keldorf",
+  "role": "welder",
+  "workday": null,
+  "successfactors": "kdweioez24"
+ },
+ "P0186": {
+  "skills": [
+   "SK-020",
+   "SK-026",
+   "SK-027",
+   "SK-043",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "project-manager",
+  "workday": "W30522",
+  "successfactors": "kdwagth25"
+ },
+ "P0187": {
+  "skills": [
+   "SK-015",
+   "SK-041",
+   "SK-043",
+   "SK-044"
+  ],
+  "company": "keldorf",
+  "role": "project-manager",
+  "workday": null,
+  "successfactors": "kdschla26"
+ },
+ "P0188": {
+  "skills": [
+   "SK-017",
+   "SK-030",
+   "SK-036",
+   "SK-046",
+   "SK-048"
+  ],
+  "company": "keldorf",
+  "role": "controller",
+  "workday": null,
+  "successfactors": "kdschso27"
+ },
+ "P0189": {
+  "skills": [
+   "SK-030",
+   "SK-032",
+   "SK-047",
+   "SK-048"
+  ],
+  "company": "keldorf",
+  "role": "controller",
+  "workday": null,
+  "successfactors": "kdschha28"
+ },
+ "P0190": {
+  "skills": [
+   "SK-001",
+   "SK-029",
+   "SK-037",
+   "SK-038"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": "W30525",
+  "successfactors": "kdschha29"
+ },
+ "P0191": {
+  "skills": [
+   "SK-023",
+   "SK-024",
+   "SK-026",
+   "SK-028",
+   "SK-042",
+   "SK-049",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "platform-engineer",
+  "workday": null,
+  "successfactors": "kdwagjue30"
+ },
+ "P0192": {
+  "skills": [
+   "SK-011",
+   "SK-030",
+   "SK-039",
+   "SK-042",
+   "SK-046"
+  ],
+  "company": "keldorf",
+  "role": "supply-planner",
+  "workday": null,
+  "successfactors": "kdfisbj31"
+ },
+ "P0193": {
+  "skills": [
+   "SK-011",
+   "SK-032",
+   "SK-034",
+   "SK-035",
+   "SK-036"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": "W30528",
+  "successfactors": "kdkrueha32"
+ },
+ "P0194": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-025",
+   "SK-029",
+   "SK-046",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "electrical-engineer",
+  "workday": null,
+  "successfactors": "kdharla33"
+ },
+ "P0195": {
+  "skills": [
+   "SK-021",
+   "SK-030",
+   "SK-036",
+   "SK-037",
+   "SK-038",
+   "SK-039"
+  ],
+  "company": "keldorf",
+  "role": "supply-planner",
+  "workday": null,
+  "successfactors": "kdweble34"
+ },
+ "P0196": {
+  "skills": [
+   "SK-003",
+   "SK-018",
+   "SK-038",
+   "SK-043",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "project-manager",
+  "workday": "W30531",
+  "successfactors": "kdbrasa35"
+ },
+ "P0197": {
+  "skills": [
+   "SK-001",
+   "SK-016",
+   "SK-022",
+   "SK-030",
+   "SK-054"
+  ],
+  "company": "keldorf",
+  "role": "software-engineer",
+  "workday": null,
+  "successfactors": "kdlanmi36"
+ },
+ "P0198": {
+  "skills": [
+   "SK-013",
+   "SK-022",
+   "SK-032",
+   "SK-035",
+   "SK-053"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdkruema37"
+ },
+ "P0199": {
+  "skills": [
+   "SK-001",
+   "SK-003",
+   "SK-020",
+   "SK-041"
+  ],
+  "company": "keldorf",
+  "role": "battery-engineer",
+  "workday": null,
+  "successfactors": "kdweban38"
+ },
+ "P0200": {
+  "skills": [
+   "SK-002",
+   "SK-014",
+   "SK-016",
+   "SK-030",
+   "SK-052"
+  ],
+  "company": "keldorf",
+  "role": "service-agent",
+  "workday": "W30534",
+  "successfactors": "kdwaglu39"
+ },
+ "P0201": {
+  "skills": [
+   "SK-025",
+   "SK-031",
+   "SK-038",
+   "SK-045",
+   "SK-055"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": null,
+  "successfactors": "kdharle40"
+ },
+ "P0202": {
+  "skills": [
+   "SK-044",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "project-manager",
+  "workday": null,
+  "successfactors": "kdneuan41"
+ },
+ "P0203": {
+  "skills": [
+   "SK-003",
+   "SK-005",
+   "SK-034",
+   "SK-035"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdneufe42"
+ },
+ "P0204": {
+  "skills": [
+   "SK-022",
+   "SK-023",
+   "SK-024",
+   "SK-027",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "platform-engineer",
+  "workday": "W30537",
+  "successfactors": "kdwolst43"
+ },
+ "P0205": {
+  "skills": [
+   "SK-014",
+   "SK-032",
+   "SK-034",
+   "SK-035",
+   "SK-040",
+   "SK-049",
+   "SK-055"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdbecma44"
+ },
+ "P0206": {
+  "skills": [
+   "SK-018",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "hr-business-partner",
+  "workday": "W30540",
+  "successfactors": "kdweisa45"
+ },
+ "P0207": {
+  "skills": [
+   "SK-016",
+   "SK-032",
+   "SK-035"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdschla46"
+ },
+ "P0208": {
+  "skills": [
+   "SK-004",
+   "SK-021",
+   "SK-054",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdziman47"
+ },
+ "P0209": {
+  "skills": [
+   "SK-003",
+   "SK-009",
+   "SK-015",
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-041"
+  ],
+  "company": "keldorf",
+  "role": "data-engineer",
+  "workday": "W30543",
+  "successfactors": "kdneubj48"
+ },
+ "P0210": {
+  "skills": [
+   "SK-033",
+   "SK-049"
+  ],
+  "company": "keldorf",
+  "role": "welder",
+  "workday": null,
+  "successfactors": "kdschfl49"
+ },
+ "P0211": {
+  "skills": [
+   "SK-004",
+   "SK-009",
+   "SK-010",
+   "SK-053",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdschma50"
+ },
+ "P0212": {
+  "skills": [
+   "SK-007",
+   "SK-030",
+   "SK-046",
+   "SK-048",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "controller",
+  "workday": "W30546",
+  "successfactors": "kdhofse51"
+ },
+ "P0213": {
+  "skills": [
+   "SK-001",
+   "SK-004",
+   "SK-007",
+   "SK-016",
+   "SK-047",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdbecoez52"
+ },
+ "P0214": {
+  "skills": [
+   "SK-010",
+   "SK-032",
+   "SK-034",
+   "SK-035",
+   "SK-040",
+   "SK-048"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdlanma53"
+ },
+ "P0215": {
+  "skills": [
+   "SK-031",
+   "SK-034",
+   "SK-035",
+   "SK-039",
+   "SK-040"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdschmi54"
+ },
+ "P0216": {
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-029",
+   "SK-033",
+   "SK-041",
+   "SK-047"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": null,
+  "successfactors": "kdneulu55"
+ },
+ "P0217": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-003",
+   "SK-013",
+   "SK-020",
+   "SK-034"
+  ],
+  "company": "keldorf",
+  "role": "battery-engineer",
+  "workday": "W30549",
+  "successfactors": "kdschla56"
+ },
+ "P0218": {
+  "skills": [
+   "SK-021",
+   "SK-023",
+   "SK-026"
+  ],
+  "company": "keldorf",
+  "role": "platform-engineer",
+  "workday": null,
+  "successfactors": "kdschmi57"
+ },
+ "P0219": {
+  "skills": [
+   "SK-030",
+   "SK-033",
+   "SK-052"
+  ],
+  "company": "keldorf",
+  "role": "service-agent",
+  "workday": null,
+  "successfactors": "kdbraja58"
+ },
+ "P0220": {
+  "skills": [
+   "SK-014",
+   "SK-030",
+   "SK-036",
+   "SK-038",
+   "SK-039"
+  ],
+  "company": "keldorf",
+  "role": "supply-planner",
+  "workday": null,
+  "successfactors": "kdhofka59"
+ },
+ "P0221": {
+  "skills": [
+   "SK-012",
+   "SK-034",
+   "SK-040",
+   "SK-041",
+   "SK-050"
+  ],
+  "company": "keldorf",
+  "role": "team-lead-production",
+  "workday": null,
+  "successfactors": "kdkleha60"
+ },
+ "P0222": {
+  "skills": [
+   "SK-015",
+   "SK-016",
+   "SK-018",
+   "SK-025",
+   "SK-045"
+  ],
+  "company": "keldorf",
+  "role": "software-engineer",
+  "workday": null,
+  "successfactors": "kdschle61"
+ },
+ "P0223": {
+  "skills": [
+   "SK-015",
+   "SK-019",
+   "SK-022",
+   "SK-028",
+   "SK-055"
+  ],
+  "company": "keldorf",
+  "role": "data-scientist",
+  "workday": null,
+  "successfactors": "kdweima62"
+ },
+ "P0224": {
+  "skills": [
+   "SK-003",
+   "SK-018",
+   "SK-028",
+   "SK-055"
+  ],
+  "company": "keldorf",
+  "role": "data-scientist",
+  "workday": "W30552",
+  "successfactors": "kdmeyma63"
+ },
+ "P0225": {
+  "skills": [
+   "SK-014",
+   "SK-018"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": "W30555",
+  "successfactors": "kdneuha64"
+ },
+ "P0226": {
+  "skills": [
+   "SK-016",
+   "SK-030",
+   "SK-038",
+   "SK-046"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": "W30558",
+  "successfactors": "kdschbj65"
+ },
+ "P0227": {
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-013",
+   "SK-014",
+   "SK-029",
+   "SK-035",
+   "SK-041"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": null,
+  "successfactors": "kdwebst66"
+ },
+ "P0228": {
+  "skills": [
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-008",
+   "SK-026",
+   "SK-033",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "electrical-engineer",
+  "workday": null,
+  "successfactors": "kdmuelma67"
+ },
+ "P0229": {
+  "skills": [
+   "SK-022",
+   "SK-023",
+   "SK-039",
+   "SK-052",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "platform-engineer",
+  "workday": null,
+  "successfactors": "kdklebj68"
+ },
+ "P0230": {
+  "skills": [
+   "SK-039",
+   "SK-054",
+   "SK-055"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdbrast69"
+ },
+ "P0231": {
+  "skills": [
+   "SK-007",
+   "SK-012",
+   "SK-013",
+   "SK-041"
+  ],
+  "company": "keldorf",
+  "role": "welder",
+  "workday": "W30561",
+  "successfactors": "kdschoez70"
+ },
+ "P0232": {
+  "skills": [
+   "SK-016",
+   "SK-027",
+   "SK-030",
+   "SK-036",
+   "SK-039",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "supply-planner",
+  "workday": null,
+  "successfactors": "kdwolse71"
+ },
+ "P0233": {
+  "skills": [
+   "SK-018",
+   "SK-021",
+   "SK-034"
+  ],
+  "company": "keldorf",
+  "role": "software-engineer",
+  "workday": null,
+  "successfactors": "kdmuelbj72"
+ },
+ "P0234": {
+  "skills": [
+   "SK-025",
+   "SK-026",
+   "SK-032",
+   "SK-034",
+   "SK-040",
+   "SK-047"
+  ],
+  "company": "keldorf",
+  "role": "process-engineer",
+  "workday": null,
+  "successfactors": "kdkleka73"
+ },
+ "P0235": {
+  "skills": [
+   "SK-004",
+   "SK-050",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "hr-business-partner",
+  "workday": "W30564",
+  "successfactors": "kdschst74"
+ },
+ "P0236": {
+  "skills": [
+   "SK-009",
+   "SK-014"
+  ],
+  "company": "keldorf",
+  "role": "service-agent",
+  "workday": null,
+  "successfactors": "kdmeyla75"
+ },
+ "P0237": {
+  "skills": [
+   "SK-022",
+   "SK-024",
+   "SK-054",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "platform-engineer",
+  "workday": "W30567",
+  "successfactors": "kdschka76"
+ },
+ "P0238": {
+  "skills": [
+   "SK-012",
+   "SK-021"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdschoez77"
+ },
+ "P0239": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-056",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "electrical-engineer",
+  "workday": null,
+  "successfactors": "kdneuto78"
+ },
+ "P0240": {
+  "skills": [
+   "SK-005",
+   "SK-043",
+   "SK-053",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": "W30570",
+  "successfactors": "kdbecju79"
+ },
+ "P0241": {
+  "skills": [
+   "SK-005",
+   "SK-012",
+   "SK-030",
+   "SK-036",
+   "SK-038",
+   "SK-044"
+  ],
+  "company": "keldorf",
+  "role": "supply-planner",
+  "workday": null,
+  "successfactors": "kdklefe80"
+ },
+ "P0242": {
+  "skills": [
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-017",
+   "SK-023",
+   "SK-045"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": "W30573",
+  "successfactors": "kdschoez81"
+ },
+ "P0243": {
+  "skills": [
+   "SK-028",
+   "SK-054"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdfismi82"
+ },
+ "P0244": {
+  "skills": [
+   "SK-013",
+   "SK-037",
+   "SK-038",
+   "SK-046"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": null,
+  "successfactors": "kdbrala83"
+ },
+ "P0245": {
+  "skills": [
+   "SK-020"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdweife84"
+ },
+ "P0246": {
+  "skills": [
+   "SK-005",
+   "SK-006",
+   "SK-007",
+   "SK-031",
+   "SK-056",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdweila85"
+ },
+ "P0247": {
+  "skills": [
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-022",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "software-engineer",
+  "workday": "W30576",
+  "successfactors": "kdkocle86"
+ },
+ "P0248": {
+  "skills": [
+   "SK-015",
+   "SK-030",
+   "SK-032",
+   "SK-038",
+   "SK-039"
+  ],
+  "company": "keldorf",
+  "role": "supply-planner",
+  "workday": null,
+  "successfactors": "kdwolmi87"
+ },
+ "P0249": {
+  "skills": [
+   "SK-015",
+   "SK-023",
+   "SK-024",
+   "SK-026",
+   "SK-027",
+   "SK-037",
+   "SK-056"
+  ],
+  "company": "keldorf",
+  "role": "platform-engineer",
+  "workday": null,
+  "successfactors": "kdwagbj88"
+ },
+ "P0250": {
+  "skills": [
+   "SK-013",
+   "SK-027",
+   "SK-041"
+  ],
+  "company": "keldorf",
+  "role": "welder",
+  "workday": null,
+  "successfactors": "kdmuelmi89"
+ },
+ "P0251": {
+  "skills": [
+   "SK-005",
+   "SK-006",
+   "SK-011",
+   "SK-012",
+   "SK-015",
+   "SK-041",
+   "SK-044"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": null,
+  "successfactors": "kdzimjo90"
+ },
+ "P0252": {
+  "skills": [
+   "SK-001"
+  ],
+  "company": "keldorf",
+  "role": "technical-writer",
+  "workday": null,
+  "successfactors": "kdzimlu91"
+ },
+ "P0253": {
+  "skills": [
+   "SK-005",
+   "SK-016",
+   "SK-017",
+   "SK-018",
+   "SK-021",
+   "SK-022",
+   "SK-025"
+  ],
+  "company": "keldorf",
+  "role": "software-engineer",
+  "workday": "W30579",
+  "successfactors": "kdschha92"
+ },
+ "P0254": {
+  "skills": [
+   "SK-012",
+   "SK-019",
+   "SK-053",
+   "SK-056",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdbrale93"
+ },
+ "P0255": {
+  "skills": [
+   "SK-001",
+   "SK-002",
+   "SK-006",
+   "SK-007",
+   "SK-036",
+   "SK-058"
+  ],
+  "company": "keldorf",
+  "role": "electrical-engineer",
+  "workday": null,
+  "successfactors": "kdwagja94"
+ },
+ "P0256": {
+  "skills": [
+   "SK-004",
+   "SK-005",
+   "SK-007",
+   "SK-015",
+   "SK-051",
+   "SK-056",
+   "SK-057"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdmuelmi95"
+ },
+ "P0257": {
+  "skills": [
+   "SK-002",
+   "SK-018",
+   "SK-021",
+   "SK-053",
+   "SK-055"
+  ],
+  "company": "keldorf",
+  "role": "data-scientist",
+  "workday": "W30582",
+  "successfactors": "kdneuma96"
+ },
+ "P0258": {
+  "skills": [
+   "SK-006",
+   "SK-010",
+   "SK-011",
+   "SK-012",
+   "SK-014",
+   "SK-035",
+   "SK-041",
+   "SK-049"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": null,
+  "successfactors": "kdharma97"
+ },
+ "P0259": {
+  "skills": [
+   "SK-011",
+   "SK-014",
+   "SK-026",
+   "SK-041",
+   "SK-042",
+   "SK-048"
+  ],
+  "company": "keldorf",
+  "role": "maintenance-technician",
+  "workday": null,
+  "successfactors": "kdzimle98"
+ },
+ "P0260": {
+  "skills": [
+   "SK-003",
+   "SK-026",
+   "SK-033",
+   "SK-052"
+  ],
+  "company": "keldorf",
+  "role": "service-agent",
+  "workday": "W30585",
+  "successfactors": "kdfisan99"
+ },
+ "P0261": {
+  "skills": [
+   "SK-004",
+   "SK-005",
+   "SK-012",
+   "SK-051"
+  ],
+  "company": "keldorf",
+  "role": "automation-engineer",
+  "workday": null,
+  "successfactors": "kdneuse100"
+ },
+ "P0262": {
+  "skills": [
+   "SK-009",
+   "SK-017",
+   "SK-030"
+  ],
+  "company": "keldorf",
+  "role": "service-agent",
+  "workday": "W30588",
+  "successfactors": "kdwolbj101"
+ },
+ "P0263": {
+  "skills": [
+   "SK-018",
+   "SK-026",
+   "SK-027",
+   "SK-029",
+   "SK-052"
+  ],
+  "company": "keldorf",
+  "role": "data-engineer",
+  "workday": null,
+  "successfactors": "kdwagka102"
+ },
+ "P0264": {
+  "skills": [
+   "SK-009",
+   "SK-030",
+   "SK-033",
+   "SK-037",
+   "SK-038",
+   "SK-045"
+  ],
+  "company": "keldorf",
+  "role": "buyer",
+  "workday": null,
+  "successfactors": "kdschfl103"
+ },
+ "P0265": {
+  "skills": [
+   "SK-028",
+   "SK-030",
+   "SK-039",
+   "SK-047"
+  ],
+  "company": "keldorf",
+  "role": "controller",
+  "workday": null,
+  "successfactors": "kdklema104"
+ },
+ "P0266": {
+  "skills": [
+   "SK-040",
+   "SK-041",
+   "SK-043",
+   "SK-044",
+   "SK-046",
+   "SK-049",
+   "SK-051"
+  ],
+  "company": "norvane",
+  "role": "project-manager",
+  "workday": "W30591",
+  "successfactors": null
+ }
+}

@@ -1,0 +1,90 @@
+[
+ {
+  "check": "duplicate_job_title",
+  "object": "JP-106|JP-906"
+ },
+ {
+  "check": "duplicate_job_title",
+  "object": "JP-116|JP-916"
+ },
+ {
+  "check": "jira_account_unresolved",
+  "object": "712020:23c6f9b90c9191c7"
+ },
+ {
+  "check": "jira_account_unresolved",
+  "object": "712020:5628a66450c02ff6"
+ },
+ {
+  "check": "jira_account_unresolved",
+  "object": "712020:b431d1c74744c20f"
+ },
+ {
+  "check": "job_description_missing",
+  "object": "JP-107"
+ },
+ {
+  "check": "job_description_missing",
+  "object": "JP-118"
+ },
+ {
+  "check": "job_description_stale",
+  "object": "JP-104"
+ },
+ {
+  "check": "job_description_stale",
+  "object": "JP-113"
+ },
+ {
+  "check": "job_description_stale",
+  "object": "JP-122"
+ },
+ {
+  "check": "job_description_stale",
+  "object": "JP-906"
+ },
+ {
+  "check": "job_description_stale",
+  "object": "JP-916"
+ },
+ {
+  "check": "job_without_incumbents",
+  "object": "JP-906"
+ },
+ {
+  "check": "job_without_incumbents",
+  "object": "JP-916"
+ },
+ {
+  "check": "manager_loop",
+  "object": "W30018|W30021"
+ },
+ {
+  "check": "manager_missing",
+  "object": "W30123"
+ },
+ {
+  "check": "sensitive_free_text:health",
+  "object": "kdfisjue10"
+ },
+ {
+  "check": "sensitive_free_text:health",
+  "object": "kdneuha64"
+ },
+ {
+  "check": "sensitive_free_text:national_id",
+  "object": "kdschla46"
+ },
+ {
+  "check": "sensitive_free_text:union",
+  "object": "kdschha28"
+ },
+ {
+  "check": "worker_without_job",
+  "object": "W30234"
+ },
+ {
+  "check": "worker_without_job",
+  "object": "W30426"
+ }
+]

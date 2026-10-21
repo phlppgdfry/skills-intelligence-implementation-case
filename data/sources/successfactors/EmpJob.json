@@ -1,0 +1,1332 @@
+[
+ {
+  "userId": "kdfisjue10",
+  "seqNumber": 1,
+  "startDate": "/Date(1602979200000)/",
+  "endDate": "/Date(1650844800000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdfisjue10",
+  "seqNumber": 2,
+  "startDate": "/Date(1650931200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdricjo11",
+  "seqNumber": 1,
+  "startDate": "/Date(1760572800000)/",
+  "endDate": "/Date(1886716800000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdricjo11",
+  "seqNumber": 2,
+  "startDate": "/Date(1886803200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdbecfe12",
+  "seqNumber": 1,
+  "startDate": "/Date(1263686400000)/",
+  "endDate": "/Date(1381881600000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdbecfe12",
+  "seqNumber": 2,
+  "startDate": "/Date(1381968000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdschmi13",
+  "seqNumber": 1,
+  "startDate": "/Date(1366243200000)/",
+  "endDate": "/Date(1391644800000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdschmi13",
+  "seqNumber": 2,
+  "startDate": "/Date(1391731200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdfisoez14",
+  "seqNumber": 1,
+  "startDate": "/Date(1487030400000)/",
+  "endDate": "/Date(1510358400000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdfisoez14",
+  "seqNumber": 2,
+  "startDate": "/Date(1510444800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdwebma15",
+  "seqNumber": 1,
+  "startDate": "/Date(1487721600000)/",
+  "endDate": "/Date(1514851200000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdwebma15",
+  "seqNumber": 2,
+  "startDate": "/Date(1514937600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdwolmi16",
+  "seqNumber": 1,
+  "startDate": "/Date(1245628800000)/",
+  "endDate": "/Date(1269043200000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdwolmi16",
+  "seqNumber": 2,
+  "startDate": "/Date(1269129600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdmuelan17",
+  "seqNumber": 1,
+  "startDate": "/Date(1487548800000)/",
+  "endDate": "/Date(1597968000000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdmuelan17",
+  "seqNumber": 2,
+  "startDate": "/Date(1598054400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2119"
+ },
+ {
+  "userId": "kdwebto18",
+  "seqNumber": 1,
+  "startDate": "/Date(1564185600000)/",
+  "endDate": "/Date(1656633600000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdwebto18",
+  "seqNumber": 2,
+  "startDate": "/Date(1656720000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdschmi19",
+  "seqNumber": 1,
+  "startDate": "/Date(1464912000000)/",
+  "endDate": "/Date(1528416000000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdschmi19",
+  "seqNumber": 2,
+  "startDate": "/Date(1528502400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2119"
+ },
+ {
+  "userId": "kdneule20",
+  "seqNumber": 1,
+  "startDate": "/Date(1351900800000)/",
+  "endDate": "/Date(1424563200000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdneule20",
+  "seqNumber": 2,
+  "startDate": "/Date(1424649600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdwagse21",
+  "seqNumber": 1,
+  "startDate": "/Date(1206144000000)/",
+  "endDate": "/Date(1283472000000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdwagse21",
+  "seqNumber": 2,
+  "startDate": "/Date(1283558400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdlanoez22",
+  "seqNumber": 1,
+  "startDate": "/Date(1732838400000)/",
+  "endDate": "/Date(1848268800000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdlanoez22",
+  "seqNumber": 2,
+  "startDate": "/Date(1848355200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdkocfl23",
+  "seqNumber": 1,
+  "startDate": "/Date(1535414400000)/",
+  "endDate": "/Date(1646352000000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdkocfl23",
+  "seqNumber": 2,
+  "startDate": "/Date(1646438400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdweioez24",
+  "seqNumber": 1,
+  "startDate": "/Date(1707696000000)/",
+  "endDate": "/Date(1770163200000)/",
+  "jobCode": "KD-2119"
+ },
+ {
+  "userId": "kdweioez24",
+  "seqNumber": 2,
+  "startDate": "/Date(1770249600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdwagth25",
+  "seqNumber": 1,
+  "startDate": "/Date(1236643200000)/",
+  "endDate": "/Date(1286841600000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdwagth25",
+  "seqNumber": 2,
+  "startDate": "/Date(1286928000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdschla26",
+  "seqNumber": 1,
+  "startDate": "/Date(1688947200000)/",
+  "endDate": "/Date(1706140800000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdschla26",
+  "seqNumber": 2,
+  "startDate": "/Date(1706227200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdschso27",
+  "seqNumber": 1,
+  "startDate": "/Date(1328486400000)/",
+  "endDate": "/Date(1456012800000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdschso27",
+  "seqNumber": 2,
+  "startDate": "/Date(1456099200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdschha28",
+  "seqNumber": 1,
+  "startDate": "/Date(1458172800000)/",
+  "endDate": "/Date(1545955200000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdschha28",
+  "seqNumber": 2,
+  "startDate": "/Date(1546041600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdschha29",
+  "seqNumber": 1,
+  "startDate": "/Date(1570492800000)/",
+  "endDate": "/Date(1610323200000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdschha29",
+  "seqNumber": 2,
+  "startDate": "/Date(1610409600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdwagjue30",
+  "seqNumber": 1,
+  "startDate": "/Date(1665964800000)/",
+  "endDate": "/Date(1711843200000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdwagjue30",
+  "seqNumber": 2,
+  "startDate": "/Date(1711929600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdfisbj31",
+  "seqNumber": 1,
+  "startDate": "/Date(1716681600000)/",
+  "endDate": "/Date(1841529600000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdfisbj31",
+  "seqNumber": 2,
+  "startDate": "/Date(1841616000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdkrueha32",
+  "seqNumber": 1,
+  "startDate": "/Date(1591315200000)/",
+  "endDate": "/Date(1719187200000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdkrueha32",
+  "seqNumber": 2,
+  "startDate": "/Date(1719273600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdharla33",
+  "seqNumber": 1,
+  "startDate": "/Date(1444262400000)/",
+  "endDate": "/Date(1510099200000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdharla33",
+  "seqNumber": 2,
+  "startDate": "/Date(1510185600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdweble34",
+  "seqNumber": 1,
+  "startDate": "/Date(1694304000000)/",
+  "endDate": "/Date(1731196800000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdweble34",
+  "seqNumber": 2,
+  "startDate": "/Date(1731283200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdbrasa35",
+  "seqNumber": 1,
+  "startDate": "/Date(1505606400000)/",
+  "endDate": "/Date(1632268800000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdbrasa35",
+  "seqNumber": 2,
+  "startDate": "/Date(1632355200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdlanmi36",
+  "seqNumber": 1,
+  "startDate": "/Date(1376092800000)/",
+  "endDate": "/Date(1453075200000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdlanmi36",
+  "seqNumber": 2,
+  "startDate": "/Date(1453161600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdkruema37",
+  "seqNumber": 1,
+  "startDate": "/Date(1505692800000)/",
+  "endDate": "/Date(1633478400000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdkruema37",
+  "seqNumber": 2,
+  "startDate": "/Date(1633564800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdweban38",
+  "seqNumber": 1,
+  "startDate": "/Date(1455926400000)/",
+  "endDate": "/Date(1515369600000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdweban38",
+  "seqNumber": 2,
+  "startDate": "/Date(1515456000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdwaglu39",
+  "seqNumber": 1,
+  "startDate": "/Date(1226275200000)/",
+  "endDate": "/Date(1277942400000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdwaglu39",
+  "seqNumber": 2,
+  "startDate": "/Date(1278028800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdharle40",
+  "seqNumber": 1,
+  "startDate": "/Date(1506124800000)/",
+  "endDate": "/Date(1546387200000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdharle40",
+  "seqNumber": 2,
+  "startDate": "/Date(1546473600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdneuan41",
+  "seqNumber": 1,
+  "startDate": "/Date(1704067200000)/",
+  "endDate": "/Date(1783728000000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdneuan41",
+  "seqNumber": 2,
+  "startDate": "/Date(1783814400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdneufe42",
+  "seqNumber": 1,
+  "startDate": "/Date(1758672000000)/",
+  "endDate": "/Date(1813968000000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdneufe42",
+  "seqNumber": 2,
+  "startDate": "/Date(1814054400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdwolst43",
+  "seqNumber": 1,
+  "startDate": "/Date(1257552000000)/",
+  "endDate": "/Date(1331424000000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdwolst43",
+  "seqNumber": 2,
+  "startDate": "/Date(1331510400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdbecma44",
+  "seqNumber": 1,
+  "startDate": "/Date(1277251200000)/",
+  "endDate": "/Date(1347840000000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdbecma44",
+  "seqNumber": 2,
+  "startDate": "/Date(1347926400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdweisa45",
+  "seqNumber": 1,
+  "startDate": "/Date(1659916800000)/",
+  "endDate": "/Date(1722470400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdweisa45",
+  "seqNumber": 2,
+  "startDate": "/Date(1722556800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdschla46",
+  "seqNumber": 1,
+  "startDate": "/Date(1643500800000)/",
+  "endDate": "/Date(1731369600000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdschla46",
+  "seqNumber": 2,
+  "startDate": "/Date(1731456000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdziman47",
+  "seqNumber": 1,
+  "startDate": "/Date(1201392000000)/",
+  "endDate": "/Date(1249430400000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdziman47",
+  "seqNumber": 2,
+  "startDate": "/Date(1249516800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdneubj48",
+  "seqNumber": 1,
+  "startDate": "/Date(1287100800000)/",
+  "endDate": "/Date(1347840000000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdneubj48",
+  "seqNumber": 2,
+  "startDate": "/Date(1347926400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdschfl49",
+  "seqNumber": 1,
+  "startDate": "/Date(1535155200000)/",
+  "endDate": "/Date(1560556800000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdschfl49",
+  "seqNumber": 2,
+  "startDate": "/Date(1560643200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdschma50",
+  "seqNumber": 1,
+  "startDate": "/Date(1618358400000)/",
+  "endDate": "/Date(1701129600000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdschma50",
+  "seqNumber": 2,
+  "startDate": "/Date(1701216000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdhofse51",
+  "seqNumber": 1,
+  "startDate": "/Date(1599955200000)/",
+  "endDate": "/Date(1726012800000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdhofse51",
+  "seqNumber": 2,
+  "startDate": "/Date(1726099200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdbecoez52",
+  "seqNumber": 1,
+  "startDate": "/Date(1711152000000)/",
+  "endDate": "/Date(1744156800000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdbecoez52",
+  "seqNumber": 2,
+  "startDate": "/Date(1744243200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdlanma53",
+  "seqNumber": 1,
+  "startDate": "/Date(1367107200000)/",
+  "endDate": "/Date(1419465600000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdlanma53",
+  "seqNumber": 2,
+  "startDate": "/Date(1419552000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdschmi54",
+  "seqNumber": 1,
+  "startDate": "/Date(1243036800000)/",
+  "endDate": "/Date(1321056000000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdschmi54",
+  "seqNumber": 2,
+  "startDate": "/Date(1321142400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdneulu55",
+  "seqNumber": 1,
+  "startDate": "/Date(1411689600000)/",
+  "endDate": "/Date(1431734400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdneulu55",
+  "seqNumber": 2,
+  "startDate": "/Date(1431820800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdschla56",
+  "seqNumber": 1,
+  "startDate": "/Date(1444608000000)/",
+  "endDate": "/Date(1496620800000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdschla56",
+  "seqNumber": 2,
+  "startDate": "/Date(1496707200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdschmi57",
+  "seqNumber": 1,
+  "startDate": "/Date(1593475200000)/",
+  "endDate": "/Date(1614816000000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdschmi57",
+  "seqNumber": 2,
+  "startDate": "/Date(1614902400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdbraja58",
+  "seqNumber": 1,
+  "startDate": "/Date(1235692800000)/",
+  "endDate": "/Date(1264550400000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdbraja58",
+  "seqNumber": 2,
+  "startDate": "/Date(1264636800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdhofka59",
+  "seqNumber": 1,
+  "startDate": "/Date(1389225600000)/",
+  "endDate": "/Date(1458691200000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdhofka59",
+  "seqNumber": 2,
+  "startDate": "/Date(1458777600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdkleha60",
+  "seqNumber": 1,
+  "startDate": "/Date(1286064000000)/",
+  "endDate": "/Date(1383609600000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdkleha60",
+  "seqNumber": 2,
+  "startDate": "/Date(1383696000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2119"
+ },
+ {
+  "userId": "kdschle61",
+  "seqNumber": 1,
+  "startDate": "/Date(1508284800000)/",
+  "endDate": "/Date(1614211200000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdschle61",
+  "seqNumber": 2,
+  "startDate": "/Date(1614297600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdweima62",
+  "seqNumber": 1,
+  "startDate": "/Date(1716595200000)/",
+  "endDate": "/Date(1795737600000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdweima62",
+  "seqNumber": 2,
+  "startDate": "/Date(1795824000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdmeyma63",
+  "seqNumber": 1,
+  "startDate": "/Date(1207785600000)/",
+  "endDate": "/Date(1312675200000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdmeyma63",
+  "seqNumber": 2,
+  "startDate": "/Date(1312761600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdneuha64",
+  "seqNumber": 1,
+  "startDate": "/Date(1744502400000)/",
+  "endDate": "/Date(1826323200000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdneuha64",
+  "seqNumber": 2,
+  "startDate": "/Date(1826409600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdschbj65",
+  "seqNumber": 1,
+  "startDate": "/Date(1330905600000)/",
+  "endDate": "/Date(1356307200000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdschbj65",
+  "seqNumber": 2,
+  "startDate": "/Date(1356393600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdwebst66",
+  "seqNumber": 1,
+  "startDate": "/Date(1512950400000)/",
+  "endDate": "/Date(1612656000000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdwebst66",
+  "seqNumber": 2,
+  "startDate": "/Date(1612742400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdmuelma67",
+  "seqNumber": 1,
+  "startDate": "/Date(1484265600000)/",
+  "endDate": "/Date(1590537600000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdmuelma67",
+  "seqNumber": 2,
+  "startDate": "/Date(1590624000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdklebj68",
+  "seqNumber": 1,
+  "startDate": "/Date(1722211200000)/",
+  "endDate": "/Date(1795132800000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdklebj68",
+  "seqNumber": 2,
+  "startDate": "/Date(1795219200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdbrast69",
+  "seqNumber": 1,
+  "startDate": "/Date(1616544000000)/",
+  "endDate": "/Date(1711238400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdbrast69",
+  "seqNumber": 2,
+  "startDate": "/Date(1711324800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdschoez70",
+  "seqNumber": 1,
+  "startDate": "/Date(1436745600000)/",
+  "endDate": "/Date(1479945600000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdschoez70",
+  "seqNumber": 2,
+  "startDate": "/Date(1480032000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdwolse71",
+  "seqNumber": 1,
+  "startDate": "/Date(1498953600000)/",
+  "endDate": "/Date(1564272000000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdwolse71",
+  "seqNumber": 2,
+  "startDate": "/Date(1564358400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdmuelbj72",
+  "seqNumber": 1,
+  "startDate": "/Date(1381190400000)/",
+  "endDate": "/Date(1423267200000)/",
+  "jobCode": "KD-2119"
+ },
+ {
+  "userId": "kdmuelbj72",
+  "seqNumber": 2,
+  "startDate": "/Date(1423353600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdkleka73",
+  "seqNumber": 1,
+  "startDate": "/Date(1203724800000)/",
+  "endDate": "/Date(1275264000000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdkleka73",
+  "seqNumber": 2,
+  "startDate": "/Date(1275350400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdschst74",
+  "seqNumber": 1,
+  "startDate": "/Date(1619481600000)/",
+  "endDate": "/Date(1666051200000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdschst74",
+  "seqNumber": 2,
+  "startDate": "/Date(1666137600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdmeyla75",
+  "seqNumber": 1,
+  "startDate": "/Date(1530316800000)/",
+  "endDate": "/Date(1575849600000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdmeyla75",
+  "seqNumber": 2,
+  "startDate": "/Date(1575936000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdschka76",
+  "seqNumber": 1,
+  "startDate": "/Date(1627603200000)/",
+  "endDate": "/Date(1725235200000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdschka76",
+  "seqNumber": 2,
+  "startDate": "/Date(1725321600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdschoez77",
+  "seqNumber": 1,
+  "startDate": "/Date(1520294400000)/",
+  "endDate": "/Date(1633651200000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdschoez77",
+  "seqNumber": 2,
+  "startDate": "/Date(1633737600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdneuto78",
+  "seqNumber": 1,
+  "startDate": "/Date(1663632000000)/",
+  "endDate": "/Date(1726358400000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdneuto78",
+  "seqNumber": 2,
+  "startDate": "/Date(1726444800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdbecju79",
+  "seqNumber": 1,
+  "startDate": "/Date(1265500800000)/",
+  "endDate": "/Date(1307059200000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdbecju79",
+  "seqNumber": 2,
+  "startDate": "/Date(1307145600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdklefe80",
+  "seqNumber": 1,
+  "startDate": "/Date(1493510400000)/",
+  "endDate": "/Date(1535673600000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdklefe80",
+  "seqNumber": 2,
+  "startDate": "/Date(1535760000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdschoez81",
+  "seqNumber": 1,
+  "startDate": "/Date(1502928000000)/",
+  "endDate": "/Date(1584144000000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdschoez81",
+  "seqNumber": 2,
+  "startDate": "/Date(1584230400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdfismi82",
+  "seqNumber": 1,
+  "startDate": "/Date(1695081600000)/",
+  "endDate": "/Date(1776297600000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdfismi82",
+  "seqNumber": 2,
+  "startDate": "/Date(1776384000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdbrala83",
+  "seqNumber": 1,
+  "startDate": "/Date(1723766400000)/",
+  "endDate": "/Date(1758844800000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdbrala83",
+  "seqNumber": 2,
+  "startDate": "/Date(1758931200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdweife84",
+  "seqNumber": 1,
+  "startDate": "/Date(1278288000000)/",
+  "endDate": "/Date(1330473600000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdweife84",
+  "seqNumber": 2,
+  "startDate": "/Date(1330560000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdweila85",
+  "seqNumber": 1,
+  "startDate": "/Date(1372636800000)/",
+  "endDate": "/Date(1463011200000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdweila85",
+  "seqNumber": 2,
+  "startDate": "/Date(1463097600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdkocle86",
+  "seqNumber": 1,
+  "startDate": "/Date(1378425600000)/",
+  "endDate": "/Date(1482710400000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdkocle86",
+  "seqNumber": 2,
+  "startDate": "/Date(1482796800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdwolmi87",
+  "seqNumber": 1,
+  "startDate": "/Date(1681776000000)/",
+  "endDate": "/Date(1768953600000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdwolmi87",
+  "seqNumber": 2,
+  "startDate": "/Date(1769040000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2091"
+ },
+ {
+  "userId": "kdwagbj88",
+  "seqNumber": 1,
+  "startDate": "/Date(1745884800000)/",
+  "endDate": "/Date(1777161600000)/",
+  "jobCode": "KD-2084"
+ },
+ {
+  "userId": "kdwagbj88",
+  "seqNumber": 2,
+  "startDate": "/Date(1777248000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdmuelmi89",
+  "seqNumber": 1,
+  "startDate": "/Date(1722384000000)/",
+  "endDate": "/Date(1831507200000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdmuelmi89",
+  "seqNumber": 2,
+  "startDate": "/Date(1831593600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2035"
+ },
+ {
+  "userId": "kdzimjo90",
+  "seqNumber": 1,
+  "startDate": "/Date(1605139200000)/",
+  "endDate": "/Date(1698969600000)/",
+  "jobCode": "KD-2007"
+ },
+ {
+  "userId": "kdzimjo90",
+  "seqNumber": 2,
+  "startDate": "/Date(1699056000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdzimlu91",
+  "seqNumber": 1,
+  "startDate": "/Date(1406246400000)/",
+  "endDate": "/Date(1500940800000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdzimlu91",
+  "seqNumber": 2,
+  "startDate": "/Date(1501027200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdschha92",
+  "seqNumber": 1,
+  "startDate": "/Date(1223942400000)/",
+  "endDate": "/Date(1273449600000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdschha92",
+  "seqNumber": 2,
+  "startDate": "/Date(1273536000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdbrale93",
+  "seqNumber": 1,
+  "startDate": "/Date(1722556800000)/",
+  "endDate": "/Date(1838678400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdbrale93",
+  "seqNumber": 2,
+  "startDate": "/Date(1838764800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdwagja94",
+  "seqNumber": 1,
+  "startDate": "/Date(1250208000000)/",
+  "endDate": "/Date(1345766400000)/",
+  "jobCode": "KD-2154"
+ },
+ {
+  "userId": "kdwagja94",
+  "seqNumber": 2,
+  "startDate": "/Date(1345852800000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdmuelmi95",
+  "seqNumber": 1,
+  "startDate": "/Date(1463184000000)/",
+  "endDate": "/Date(1509667200000)/",
+  "jobCode": "KD-2147"
+ },
+ {
+  "userId": "kdmuelmi95",
+  "seqNumber": 2,
+  "startDate": "/Date(1509753600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdneuma96",
+  "seqNumber": 1,
+  "startDate": "/Date(1708300800000)/",
+  "endDate": "/Date(1752019200000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdneuma96",
+  "seqNumber": 2,
+  "startDate": "/Date(1752105600000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2070"
+ },
+ {
+  "userId": "kdharma97",
+  "seqNumber": 1,
+  "startDate": "/Date(1520726400000)/",
+  "endDate": "/Date(1543536000000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdharma97",
+  "seqNumber": 2,
+  "startDate": "/Date(1543622400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdzimle98",
+  "seqNumber": 1,
+  "startDate": "/Date(1449273600000)/",
+  "endDate": "/Date(1538092800000)/",
+  "jobCode": "KD-2056"
+ },
+ {
+  "userId": "kdzimle98",
+  "seqNumber": 2,
+  "startDate": "/Date(1538179200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2028"
+ },
+ {
+  "userId": "kdfisan99",
+  "seqNumber": 1,
+  "startDate": "/Date(1456531200000)/",
+  "endDate": "/Date(1549324800000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdfisan99",
+  "seqNumber": 2,
+  "startDate": "/Date(1549411200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdneuse100",
+  "seqNumber": 1,
+  "startDate": "/Date(1419379200000)/",
+  "endDate": "/Date(1521244800000)/",
+  "jobCode": "KD-2000"
+ },
+ {
+  "userId": "kdneuse100",
+  "seqNumber": 2,
+  "startDate": "/Date(1521331200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2014"
+ },
+ {
+  "userId": "kdwolbj101",
+  "seqNumber": 1,
+  "startDate": "/Date(1726876800000)/",
+  "endDate": "/Date(1792713600000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdwolbj101",
+  "seqNumber": 2,
+  "startDate": "/Date(1792800000000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2140"
+ },
+ {
+  "userId": "kdwagka102",
+  "seqNumber": 1,
+  "startDate": "/Date(1400371200000)/",
+  "endDate": "/Date(1473120000000)/",
+  "jobCode": "KD-2112"
+ },
+ {
+  "userId": "kdwagka102",
+  "seqNumber": 2,
+  "startDate": "/Date(1473206400000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2063"
+ },
+ {
+  "userId": "kdschfl103",
+  "seqNumber": 1,
+  "startDate": "/Date(1669334400000)/",
+  "endDate": "/Date(1737244800000)/",
+  "jobCode": "KD-2042"
+ },
+ {
+  "userId": "kdschfl103",
+  "seqNumber": 2,
+  "startDate": "/Date(1737331200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2098"
+ },
+ {
+  "userId": "kdklema104",
+  "seqNumber": 1,
+  "startDate": "/Date(1326844800000)/",
+  "endDate": "/Date(1446076800000)/",
+  "jobCode": "KD-2126"
+ },
+ {
+  "userId": "kdklema104",
+  "seqNumber": 2,
+  "startDate": "/Date(1446163200000)/",
+  "endDate": "/Date(253402214400000)/",
+  "jobCode": "KD-2126"
+ }
+]

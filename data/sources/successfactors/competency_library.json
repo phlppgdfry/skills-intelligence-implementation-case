@@ -1,0 +1,222 @@
+[
+ {
+  "externalCode": "KDC-001",
+  "name_de_DE": "Leistungselektronik",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-002",
+  "name_de_DE": "Batteriesysteme",
+  "name_en_US": "Battery systems"
+ },
+ {
+  "externalCode": "KDC-003",
+  "name_de_DE": "Elektrosicherheit",
+  "name_en_US": "Electrical safety"
+ },
+ {
+  "externalCode": "KDC-004",
+  "name_de_DE": "Antriebstechnik",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-005",
+  "name_de_DE": "SolidWorks",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-006",
+  "name_de_DE": "FEM-Analyse",
+  "name_en_US": "Finite element analysis"
+ },
+ {
+  "externalCode": "KDC-007",
+  "name_de_DE": "Hydraulik",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-008",
+  "name_de_DE": "Schweißen",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-009",
+  "name_de_DE": "Form- und Lagetolerierung",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-010",
+  "name_de_DE": "vorbeugende Instandhaltung",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-011",
+  "name_de_DE": "Python",
+  "name_en_US": "Python"
+ },
+ {
+  "externalCode": "KDC-012",
+  "name_de_DE": "Spring Boot",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-013",
+  "name_de_DE": "Embedded-Software",
+  "name_en_US": "Embedded C"
+ },
+ {
+  "externalCode": "KDC-014",
+  "name_de_DE": "Build-Pipelines",
+  "name_en_US": "CI/CD"
+ },
+ {
+  "externalCode": "KDC-015",
+  "name_de_DE": "Container",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-016",
+  "name_de_DE": "Microsoft Azure",
+  "name_en_US": "Microsoft Azure"
+ },
+ {
+  "externalCode": "KDC-017",
+  "name_de_DE": "Datenpipelines",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-018",
+  "name_de_DE": "Power BI",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-019",
+  "name_de_DE": "Microsoft Excel",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-020",
+  "name_de_DE": "Qualitätsmanagementsystem",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-021",
+  "name_de_DE": "Ursachenanalyse",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-022",
+  "name_de_DE": "Lean Production",
+  "name_en_US": "Lean manufacturing"
+ },
+ {
+  "externalCode": "KDC-023",
+  "name_de_DE": "Supply-Chain-Planung",
+  "name_en_US": "Supply chain planning"
+ },
+ {
+  "externalCode": "KDC-024",
+  "name_de_DE": "Einkauf",
+  "name_en_US": "Procurement"
+ },
+ {
+  "externalCode": "KDC-025",
+  "name_de_DE": "Bestandsmanagement",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-026",
+  "name_de_DE": "Produktionsplanung",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-027",
+  "name_de_DE": "Arbeitssicherheit",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-028",
+  "name_de_DE": "Projektmanagement",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-029",
+  "name_de_DE": "Stakeholder-Management",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-030",
+  "name_de_DE": "Vertragsverhandlung",
+  "name_en_US": "Contract negotiation"
+ },
+ {
+  "externalCode": "KDC-031",
+  "name_de_DE": "Budgetierung",
+  "name_en_US": "Budgeting"
+ },
+ {
+  "externalCode": "KDC-032",
+  "name_de_DE": "Finanzberichterstattung",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-033",
+  "name_de_DE": "IFRS",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-034",
+  "name_de_DE": "Personalführung",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-035",
+  "name_de_DE": "Veränderungsmanagement",
+  "name_en_US": "Change management"
+ },
+ {
+  "externalCode": "KDC-036",
+  "name_de_DE": "Kundenservice",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-037",
+  "name_de_DE": "technische Dokumentation",
+  "name_en_US": "Technical writing"
+ },
+ {
+  "externalCode": "KDC-038",
+  "name_de_DE": "Datenanalyse",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-039",
+  "name_de_DE": "Ladeinfrastruktur",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-040",
+  "name_de_DE": "Teamfähigkeit",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-041",
+  "name_de_DE": "Belastbarkeit",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-042",
+  "name_de_DE": "Führerschein Klasse B",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-043",
+  "name_de_DE": "Englisch verhandlungssicher",
+  "name_en_US": null
+ },
+ {
+  "externalCode": "KDC-044",
+  "name_de_DE": "Zuverlässigkeit",
+  "name_en_US": null
+ }
+]

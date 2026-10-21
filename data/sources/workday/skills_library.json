@@ -1,0 +1,224 @@
+{
+ "Report_Entry": [
+  {
+   "Skill_ID": "WDS-001",
+   "Skill_Name": "python"
+  },
+  {
+   "Skill_ID": "WDS-002",
+   "Skill_Name": "Python programming"
+  },
+  {
+   "Skill_ID": "WDS-003",
+   "Skill_Name": "Python (advanced)"
+  },
+  {
+   "Skill_ID": "WDS-004",
+   "Skill_Name": "Project Mgmt"
+  },
+  {
+   "Skill_ID": "WDS-005",
+   "Skill_Name": "projectmanagement"
+  },
+  {
+   "Skill_ID": "WDS-006",
+   "Skill_Name": "PM"
+  },
+  {
+   "Skill_ID": "WDS-007",
+   "Skill_Name": "MS Excel"
+  },
+  {
+   "Skill_ID": "WDS-008",
+   "Skill_Name": "excel"
+  },
+  {
+   "Skill_ID": "WDS-009",
+   "Skill_Name": "Leadership"
+  },
+  {
+   "Skill_ID": "WDS-010",
+   "Skill_Name": "People leadership"
+  },
+  {
+   "Skill_ID": "WDS-011",
+   "Skill_Name": "Lassen (TIG)"
+  },
+  {
+   "Skill_ID": "WDS-012",
+   "Skill_Name": "welding"
+  },
+  {
+   "Skill_ID": "WDS-013",
+   "Skill_Name": "Azure cloud"
+  },
+  {
+   "Skill_ID": "WDS-014",
+   "Skill_Name": "MS Azure"
+  },
+  {
+   "Skill_ID": "WDS-015",
+   "Skill_Name": "VCA"
+  },
+  {
+   "Skill_ID": "WDS-016",
+   "Skill_Name": "Safety"
+  },
+  {
+   "Skill_ID": "WDS-017",
+   "Skill_Name": "Kubernetes (K8S)"
+  },
+  {
+   "Skill_ID": "WDS-018",
+   "Skill_Name": "PLC (Siemens)"
+  },
+  {
+   "Skill_ID": "WDS-019",
+   "Skill_Name": "PLC"
+  },
+  {
+   "Skill_ID": "WDS-020",
+   "Skill_Name": "Klantvriendelijkheid"
+  },
+  {
+   "Skill_ID": "WDS-021",
+   "Skill_Name": "Analytical thinking"
+  },
+  {
+   "Skill_ID": "WDS-022",
+   "Skill_Name": "PowerBI"
+  },
+  {
+   "Skill_ID": "WDS-023",
+   "Skill_Name": "S&OP planning"
+  },
+  {
+   "Skill_ID": "WDS-024",
+   "Skill_Name": "Lean Six Sigma Green Belt"
+  },
+  {
+   "Skill_ID": "WDS-025",
+   "Skill_Name": "C++"
+  },
+  {
+   "Skill_ID": "WDS-026",
+   "Skill_Name": "Coaching"
+  },
+  {
+   "Skill_ID": "WDS-027",
+   "Skill_Name": "High-voltage systems"
+  },
+  {
+   "Skill_ID": "WDS-028",
+   "Skill_Name": "Microsoft Excel"
+  },
+  {
+   "Skill_ID": "WDS-029",
+   "Skill_Name": "IFRS"
+  },
+  {
+   "Skill_ID": "WDS-030",
+   "Skill_Name": "SolidWorks"
+  },
+  {
+   "Skill_ID": "WDS-031",
+   "Skill_Name": "GD&T"
+  },
+  {
+   "Skill_ID": "WDS-032",
+   "Skill_Name": "SAP MM"
+  },
+  {
+   "Skill_ID": "WDS-033",
+   "Skill_Name": "Machine learning"
+  },
+  {
+   "Skill_ID": "WDS-034",
+   "Skill_Name": "Power BI"
+  },
+  {
+   "Skill_ID": "WDS-035",
+   "Skill_Name": "Charging infrastructure"
+  },
+  {
+   "Skill_ID": "WDS-036",
+   "Skill_Name": "Technical writing"
+  },
+  {
+   "Skill_ID": "WDS-037",
+   "Skill_Name": "Battery systems"
+  },
+  {
+   "Skill_ID": "WDS-038",
+   "Skill_Name": "Budgeting"
+  },
+  {
+   "Skill_ID": "WDS-039",
+   "Skill_Name": "Financial reporting"
+  },
+  {
+   "Skill_ID": "WDS-040",
+   "Skill_Name": "REST APIs"
+  },
+  {
+   "Skill_ID": "WDS-041",
+   "Skill_Name": "Root cause analysis"
+  },
+  {
+   "Skill_ID": "WDS-042",
+   "Skill_Name": "Preventive maintenance"
+  },
+  {
+   "Skill_ID": "WDS-043",
+   "Skill_Name": "CI/CD"
+  },
+  {
+   "Skill_ID": "WDS-044",
+   "Skill_Name": "Customer service"
+  },
+  {
+   "Skill_ID": "WDS-045",
+   "Skill_Name": "Health and safety"
+  },
+  {
+   "Skill_ID": "WDS-046",
+   "Skill_Name": "Change management"
+  },
+  {
+   "Skill_ID": "WDS-047",
+   "Skill_Name": "Teamwork"
+  },
+  {
+   "Skill_ID": "WDS-048",
+   "Skill_Name": "Communication"
+  },
+  {
+   "Skill_ID": "WDS-049",
+   "Skill_Name": "Problem solving"
+  },
+  {
+   "Skill_ID": "WDS-050",
+   "Skill_Name": "Flexibility"
+  },
+  {
+   "Skill_ID": "WDS-051",
+   "Skill_Name": "Punctuality"
+  },
+  {
+   "Skill_ID": "WDS-052",
+   "Skill_Name": "Dutch"
+  },
+  {
+   "Skill_ID": "WDS-053",
+   "Skill_Name": "French"
+  },
+  {
+   "Skill_ID": "WDS-054",
+   "Skill_Name": "German"
+  },
+  {
+   "Skill_ID": "WDS-055",
+   "Skill_Name": "Driving licence B"
+  }
+ ]
+}

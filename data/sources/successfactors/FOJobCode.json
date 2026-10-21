@@ -1,0 +1,146 @@
+[
+ {
+  "externalCode": "KD-2000",
+  "name": "Elektroingenieur",
+  "description": "Erfahrung mit Leistungselektronik ist von Vorteil. Erfahrung mit Hochspannung ist von Vorteil. Keine Erfahrung mit Schweißen erforderlich. Sie haben praktische Erfahrung mit EPLAN. Erfahrung mit Frequenzumrichter ist von Vorteil. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig. Sie arbeiten täglich mit DGUV V3. Keldorf ist Teil der Norvane Group. Keine Erfahrung mit Ladeinfrastruktur erforderlich.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1731801600000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2007",
+  "name": "Battery Systems Engineer",
+  "description": "The move to the new hall is planned for spring 2027. You have hands-on experience with embedded software. Strong knowledge of power electronics is required. You join a team of 16 colleagues at the Genk site. You have hands-on experience with finite element analysis. You will work daily with high voltage.",
+  "language": "en",
+  "lastModifiedDateTime": "/Date(1784419200000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2014",
+  "name": "Automatisierungsingenieur",
+  "description": "Sie haben praktische Erfahrung mit Industrieroboter. Sie arbeiten täglich mit Prozessleittechnik. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig. Keine Erfahrung mit Change-Management erforderlich. Sie arbeiten in einem Team von 12 Kolleginnen und Kollegen am Standort Kassel. Keine Erfahrung mit technischer Vertrieb erforderlich. Erfahrung mit S7 logic ist von Vorteil. Erfahrung mit Frequenzumrichter ist von Vorteil. Fundierte Kenntnisse in Cybersicherheit sind erforderlich.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1774396800000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2028",
+  "name": "Instandhaltungstechniker",
+  "description": "Sie arbeiten in einem Team von 22 Kolleginnen und Kollegen am Standort Kassel. Sie haben praktische Erfahrung mit Wartungsplanung. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig. Fundierte Kenntnisse in Gefährdungsbeurteilung sind erforderlich. Sie haben praktische Erfahrung mit WIG-Schweißen. Sie haben praktische Erfahrung mit Hydraulik. Sie haben praktische Erfahrung mit DGUV V3.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1777248000000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2035",
+  "name": "Schweißer",
+  "description": "Keine Erfahrung mit Git erforderlich. Sie haben praktische Erfahrung mit Gefährdungsbeurteilung. Sie arbeiten in einem Team von 19 Kolleginnen und Kollegen am Standort Dortmund. Keine Erfahrung mit ISO 9001 erforderlich. Erfahrung mit Form- und Lagetolerierung ist von Vorteil. Fundierte Kenntnisse in Schweißen sind erforderlich.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1730419200000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2042",
+  "name": "Software Engineer",
+  "description": "Sie haben praktische Erfahrung mit Java. Keine Erfahrung mit IT-Sicherheit erforderlich. Keine Erfahrung mit Firmware erforderlich. Sie haben praktische Erfahrung mit SQL. Sie haben praktische Erfahrung mit Spring Boot. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig. Sie arbeiten täglich mit Git. Sie arbeiten in einem Team von 23 Kolleginnen und Kollegen am Standort Dortmund. Fundierte Kenntnisse in Build-Pipelines sind erforderlich. Erfahrung mit REST APIs ist von Vorteil.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1749513600000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2056",
+  "name": "Platform Engineer",
+  "description": "You report to the department head. You will work daily with continuous integration. Experience in Microsoft Azure is a plus. Experience in Docker is a plus. Power electronics is not part of this role. You will work daily with network security. No experience with statistical process control is needed.",
+  "language": "en",
+  "lastModifiedDateTime": "/Date(1782000000000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2063",
+  "name": "Data Engineer",
+  "description": "Keine Erfahrung mit Kundenservice erforderlich. Sie haben praktische Erfahrung mit ETL-Strecken. Sie haben praktische Erfahrung mit SQL. Sie haben praktische Erfahrung mit Power BI. Keldorf ist Teil der Norvane Group. Erfahrung mit Microsoft Azure ist von Vorteil. Keine Erfahrung mit technischer Vertrieb erforderlich. Erfahrung mit Python ist von Vorteil.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1778112000000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2070",
+  "name": "Data Scientist",
+  "description": "Keine Erfahrung mit DGUV V3 erforderlich. Keine Erfahrung mit Ladesäulen erforderlich. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig. Sie arbeiten täglich mit SQL. Fundierte Kenntnisse in maschinelles Lernen sind erforderlich. Sie haben praktische Erfahrung mit Datenanalyse. Keldorf ist Teil der Norvane Group.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1771286400000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2084",
+  "name": "Process Engineer",
+  "description": "Keine Erfahrung mit Lagerverwaltung erforderlich. Sie arbeiten täglich mit Lean manufacturing. Sie haben praktische Erfahrung mit statistische Prozessregelung. Sie arbeiten täglich mit 8D-Report. Keldorf ist Teil der Norvane Group. Erfahrung mit Produktionsplanung ist von Vorteil.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1766016000000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2091",
+  "name": "Disponent",
+  "description": "Batteriespeicher gehört nicht zu dieser Rolle. Keine Erfahrung mit Hochspannung erforderlich. Fundierte Kenntnisse in Microsoft Excel sind erforderlich. Keldorf ist Teil der Norvane Group. Sie haben praktische Erfahrung mit SAP MM. Sie arbeiten täglich mit Bestandsmanagement. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1780358400000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2098",
+  "name": "Einkäufer",
+  "description": "Keldorf ist Teil der Norvane Group. Sie arbeiten täglich mit Verhandlungsführung. Erfahrung mit Einkauf ist von Vorteil. Statistische Prozessregelung gehört nicht zu dieser Rolle. Erfahrung mit SAP MM ist von Vorteil.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1782345600000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2112",
+  "name": "Project Manager",
+  "description": "You report to the department head. You will work daily with ADKAR. We keep the support team lean. No experience with AKS is needed. Experience in PMP is a plus. You will work daily with stakeholder management.",
+  "language": "en",
+  "lastModifiedDateTime": "/Date(1736121600000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2119",
+  "name": "Schichtleiter Produktion",
+  "description": "Sie arbeiten täglich mit Mitarbeiterführung. Keldorf ist Teil der Norvane Group. Sie arbeiten täglich mit Coaching. Erfahrung mit Lean manufacturing ist von Vorteil. Fundierte Kenntnisse in Fertigungssteuerung sind erforderlich. Schweißen gehört nicht zu dieser Rolle. Das Team ist schlank aufgestellt und bleibt lean. Erfahrung mit Gefährdungsbeurteilung ist von Vorteil.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1745971200000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2126",
+  "name": "Financial Controller",
+  "description": "Keine Erfahrung mit Projektmanagement erforderlich. Erfahrung mit Finanzberichterstattung ist von Vorteil. Sie arbeiten täglich mit IFRS. Sie haben praktische Erfahrung mit Budgetverantwortung. Sie arbeiten in einem Team von 22 Kolleginnen und Kollegen am Standort Dortmund.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1756080000000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2140",
+  "name": "Customer Service Agent",
+  "description": "Sie arbeiten täglich mit Kundenservice. Fundierte Kenntnisse in Microsoft Excel sind erforderlich. Batteriespeicher gehört nicht zu dieser Rolle. C++ gehört nicht zu dieser Rolle. Sie arbeiten in einem Team von 17 Kolleginnen und Kollegen am Standort Kassel.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1745884800000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2147",
+  "name": "HR Business Partner",
+  "description": "Sie arbeiten in einem Team von 14 Kolleginnen und Kollegen am Standort Kassel. Fundierte Kenntnisse in Change-Management sind erforderlich. Der Umzug ist für das Frühjahr geplant; das Spring-Fest am Standort ist freiwillig. Supply-Chain-Planung gehört nicht zu dieser Rolle. Sie arbeiten täglich mit Mitarbeiterführung. Fundierte Kenntnisse in Stakeholder-Management sind erforderlich. Fundierte Kenntnisse in Coaching sind erforderlich.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1784851200000)/",
+  "status": "A"
+ },
+ {
+  "externalCode": "KD-2154",
+  "name": "Technical Writer",
+  "description": "Sie arbeiten in einem Team von 7 Kolleginnen und Kollegen am Standort Kassel. Sie haben praktische Erfahrung mit Git. Sie haben praktische Erfahrung mit technische Redaktion. Keine Erfahrung mit REST-Schnittstellen erforderlich. Statistische Prozessregelung gehört nicht zu dieser Rolle. Arbeitssicherheit gehört nicht zu dieser Rolle.",
+  "language": "de",
+  "lastModifiedDateTime": "/Date(1746057600000)/",
+  "status": "A"
+ }
+]

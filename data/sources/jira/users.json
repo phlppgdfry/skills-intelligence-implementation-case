@@ -1,0 +1,908 @@
+[
+ {
+  "accountId": "712020:4a551e0c19bb00d5",
+  "displayName": "Fatima El Amrani",
+  "emailAddress": "fatima.elamrani@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:9b643a285c0eb7c6",
+  "displayName": "Olivier Peeters",
+  "emailAddress": "olivier.peeters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:b4a2afc3517c391d",
+  "displayName": "Wout Michiels",
+  "emailAddress": "wout.michiels@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:8a488b02d12937da",
+  "displayName": "Arne Leroy",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:298bda5b6cefbce1",
+  "displayName": "O. Claes",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:7fe9c62c3d65fe35",
+  "displayName": "Wout Leroy",
+  "emailAddress": "wout.leroy@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:20105527d9b909a0",
+  "displayName": "Hanne Wouters",
+  "emailAddress": "hanne.wouters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:11e2d7c9fd57fb58",
+  "displayName": "Marie Mertens",
+  "emailAddress": "marie.mertens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:4ee595b89a626e23",
+  "displayName": "Ruben De Vos",
+  "emailAddress": "ruben.devos@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:3db9b0441a66913e",
+  "displayName": "Wout Verbeke",
+  "emailAddress": "wout.verbeke@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:6f76286fea5da9d2",
+  "displayName": "Joris Cools",
+  "emailAddress": "joris.cools@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:31e16d63bd6bf5d8",
+  "displayName": "Olivier Janssens",
+  "emailAddress": "olivier.janssens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:4fc14537e6b86559",
+  "displayName": "Pieter Laurent",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:356a7e53b2d900cd",
+  "displayName": "Koen De Vos",
+  "emailAddress": "koen.devos@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:aec5b4c1a1f144f5",
+  "displayName": "K. Aerts",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:d9ed629dc8636256",
+  "displayName": "Bram Maes",
+  "emailAddress": "bram.maes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:64a161e5d6eaf0e2",
+  "displayName": "Marie Janssens",
+  "emailAddress": "marie.janssens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:1b62cc5868f27ce7",
+  "displayName": "Thibault Renard",
+  "emailAddress": "thibault.renard@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:3e15c1537f619176",
+  "displayName": "Lucas Van Damme",
+  "emailAddress": "lucas.vandamme@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:0ff7df1a13774a6d",
+  "displayName": "Thibault Wouters",
+  "emailAddress": "thibault.wouters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:774e90102a4e0094",
+  "displayName": "Hanne El Amrani",
+  "emailAddress": "hanne.elamrani@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:6427bf8770624dbc",
+  "displayName": "R. Lambert",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:66667b2894d94302",
+  "displayName": "Mehdi Martens",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:a2bdee2bc7139371",
+  "displayName": "Lotte Goossens",
+  "emailAddress": "lotte.goossens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:f85d8f8f8980cc68",
+  "displayName": "Pieter Janssens",
+  "emailAddress": "pieter.janssens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:cfce8b1455405144",
+  "displayName": "Yasmine Van Damme",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:a16d4701a3779fb5",
+  "displayName": "Marie Lambert",
+  "emailAddress": "marie.lambert@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:2c0dac614b3a00a9",
+  "displayName": "Lies Michiels",
+  "emailAddress": "lies.michiels@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:009c6853e3864d07",
+  "displayName": "Emma De Smet",
+  "emailAddress": "emma.desmet@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:44eb262598b49b4c",
+  "displayName": "Marie El Amrani",
+  "emailAddress": "marie.elamrani@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:23d60ef8c3439717",
+  "displayName": "Stijn Claes",
+  "emailAddress": "stijn.claes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:d106a668c992dec0",
+  "displayName": "Koen El Amrani",
+  "emailAddress": "koen.elamrani@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:49e1c09f068f4c80",
+  "displayName": "Lies Van Damme",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:02fb638655c5a5ac",
+  "displayName": "O. Hermans",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:20fca1d00a838633",
+  "displayName": "Joris Pauwels",
+  "emailAddress": "joris.pauwels@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:0d809106e799aada",
+  "displayName": "Emma Lambert",
+  "emailAddress": "emma.lambert@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:8bc4a93cf552e8b2",
+  "displayName": "Bram Michiels",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:34d8de1949cfd3ec",
+  "displayName": "Marie Coppens",
+  "emailAddress": "marie.coppens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:d366afec1ad73f07",
+  "displayName": "Stijn Peeters",
+  "emailAddress": "stijn.peeters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:e2af67a04e330201",
+  "displayName": "Inès Pauwels",
+  "emailAddress": "ines.pauwels@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:06b61a386f1c3fc7",
+  "displayName": "Chloé Van Damme",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:6eaeaa837558d33d",
+  "displayName": "A. Pauwels",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:1aca799f472b1fc9",
+  "displayName": "Femke Mertens",
+  "emailAddress": "femke.mertens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:d9cdd9c1ad115391",
+  "displayName": "Arne Jacobs",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:364680e742a8b831",
+  "displayName": "Marie Pauwels",
+  "emailAddress": "marie.pauwels@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:aff353f8c4fe0a75",
+  "displayName": "Eline Maes",
+  "emailAddress": "eline.maes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:590c77dc4cc1e80c",
+  "displayName": "Eline Renard",
+  "emailAddress": "eline.renard@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:641cbe7e0f7458d6",
+  "displayName": "Arne Bogaert",
+  "emailAddress": "arne.bogaert@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:7282fe1b52668d1c",
+  "displayName": "Fatima Laurent",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:dec5b61cb4e24060",
+  "displayName": "L. Van Damme",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:5b2a25884a8e3a60",
+  "displayName": "Koen Michiels",
+  "emailAddress": "koen.michiels@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:52f06559468f579c",
+  "displayName": "Marie Dubois",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:8b02ed2f24d3b9e7",
+  "displayName": "Thibault Jacobs",
+  "emailAddress": "thibault.jacobs@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:7c05ea8b5bd1241a",
+  "displayName": "Chloé Wouters",
+  "emailAddress": "chloe.wouters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:36a651dbebe1c56d",
+  "displayName": "Jonas Peeters",
+  "emailAddress": "jonas.peeters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:4b9780b00ffe21bd",
+  "displayName": "Inès El Amrani",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:4fed20dd2825c584",
+  "displayName": "Bram Janssens",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:62f444c09ac9e124",
+  "displayName": "Chloé Renard",
+  "emailAddress": "chloe.renard@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:a5c9bdb0e21199a8",
+  "displayName": "Emma El Amrani",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:9dba68b8337c2f57",
+  "displayName": "Nina Peeters",
+  "emailAddress": "nina.peeters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:bef8ccc18dcbe277",
+  "displayName": "Arne Claes",
+  "emailAddress": "arne.claes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:51efa575487b4e3e",
+  "displayName": "Sara Coppens",
+  "emailAddress": "sara.coppens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:29c1305780b8a47b",
+  "displayName": "Eline Cools",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:0d3f8193999e8a4f",
+  "displayName": "Tom Desmet",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:80df4f578f724364",
+  "displayName": "Nina Martens",
+  "emailAddress": "nina.martens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:8bfc1486b8b772b1",
+  "displayName": "H. Claes",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:0362d890b532e652",
+  "displayName": "Pieter Willems",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:b3aa9672dc146038",
+  "displayName": "Bram Hermans",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:5bd6652a1fdd7a9b",
+  "displayName": "Fatima De Vos",
+  "emailAddress": "fatima.devos@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:af378ebd6333196b",
+  "displayName": "Bram Leroy",
+  "emailAddress": "bram.leroy@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:9008d333c2262953",
+  "displayName": "Inès Claes",
+  "emailAddress": "ines.claes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:c4bd5799fdb671bc",
+  "displayName": "Hanne Martens",
+  "emailAddress": "hanne.martens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:23425e6133b6f7ee",
+  "displayName": "Bram Peeters",
+  "emailAddress": "bram.peeters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:56b2b101d8fcac9c",
+  "displayName": "Nina Jacobs",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:b580db439283326c",
+  "displayName": "Lies Coppens",
+  "emailAddress": "lies.coppens@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:a343f1b699ea993b",
+  "displayName": "T. Laurent",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:1cdad49bdda86053",
+  "displayName": "F. Smets",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:aa28bc831dd9af92",
+  "displayName": "Lies El Amrani",
+  "emailAddress": "lies.elamrani@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:714730968bdec509",
+  "displayName": "Mehdi Laurent",
+  "emailAddress": "mehdi.laurent@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:1bc959e5543c5634",
+  "displayName": "Chloé De Vos",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:f997b4b6e5d0fc9e",
+  "displayName": "Emma Claes",
+  "emailAddress": "emma.claes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:b328ced48408dea0",
+  "displayName": "Nina Verbeke",
+  "emailAddress": "nina.verbeke@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:b9157ac4e1652d0d",
+  "displayName": "Karim Wouters",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:64ebff2736876fbe",
+  "displayName": "Eline Claes",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:c3bdb41d2337ffea",
+  "displayName": "M. Aerts",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:4c644562b2b9d2e2",
+  "displayName": "Joris Lambert",
+  "emailAddress": "joris.lambert@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:756e78096174d956",
+  "displayName": "Emma Wouters",
+  "emailAddress": "emma.wouters@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:94b09ce0e83dd2ce",
+  "displayName": "Wout Martens",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:931bbc8ac3f1f278",
+  "displayName": "Chloé Maes",
+  "emailAddress": "chloe.maes@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:1da28cf61180fa2a",
+  "displayName": "Lotte Dubois",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:cff32a193f9a4724",
+  "displayName": "Inès Dubois",
+  "emailAddress": "ines.dubois@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:90b8190789747ac1",
+  "displayName": "Femke Cools",
+  "emailAddress": "femke.cools@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:2da3313d27a0452f",
+  "displayName": "J. Richter",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:4a3d5584ed684f89",
+  "displayName": "F. Becker",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:a30e252725cbaac8",
+  "displayName": "Özlem Fischer",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:a51fea55181507fe",
+  "displayName": "Tobias Weber",
+  "emailAddress": "tobias.weber@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:dbdff549ba34c3c2",
+  "displayName": "Sebastian Wagner",
+  "emailAddress": "sebastian.wagner@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:f1d5e80e29be887d",
+  "displayName": "Özlem Lange",
+  "emailAddress": "oezlem.lange@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:a64da345e1f0a7e6",
+  "displayName": "Jürgen Wagner",
+  "emailAddress": "juergen.wagner@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:244d16b73018e0ae",
+  "displayName": "Hannah Krüger",
+  "emailAddress": "hannah.krueger@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:2664359c175cd681",
+  "displayName": "Laura Hartmann",
+  "emailAddress": "laura.hartmann@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:e7423f4bddfc6867",
+  "displayName": "Michael Lange",
+  "emailAddress": "michael.lange@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:fe9e34f0bd8a3000",
+  "displayName": "Matthias Krüger",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:0fda1b3231176dd9",
+  "displayName": "Anna Weber",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:b6e60d8389207630",
+  "displayName": "F. Neumann",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:613e5c3879719856",
+  "displayName": "Stefan Wolf",
+  "emailAddress": "stefan.wolf@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:ff4512e6d2a8ae09",
+  "displayName": "Matthias Becker",
+  "emailAddress": "matthias.becker@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:e79d493fc3f07084",
+  "displayName": "Laura Schmidt",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:ced7acebddc3692a",
+  "displayName": "Anna Zimmermann",
+  "emailAddress": "anna.zimmermann@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:637672ed8f74bae4",
+  "displayName": "Björn Neumann",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:b633462aba854db6",
+  "displayName": "M. Schneider",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:1126e92877473d6f",
+  "displayName": "Özlem Becker",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:c3c6ed76b5db5f8b",
+  "displayName": "M. Lange",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:82a3afd49608fa06",
+  "displayName": "Michael Schneider",
+  "emailAddress": "michael.schneider@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:da69bb09e411842b",
+  "displayName": "Lukas Neumann",
+  "emailAddress": "lukas.neumann@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:d6040215d43abee6",
+  "displayName": "Laura Schröder",
+  "emailAddress": "laura.schroeder@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:e60aed0e5f4fc93d",
+  "displayName": "M. Schmidt",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:9f1ea811e0260c6a",
+  "displayName": "Lena Schwarz",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:74ae489470fcf496",
+  "displayName": "Marie Weiß",
+  "emailAddress": "marie.weiss@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:8d87155786eb9090",
+  "displayName": "Marie Meyer",
+  "emailAddress": "marie.meyer@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:3568f00cf252a15a",
+  "displayName": "Hannah Neumann",
+  "emailAddress": "hannah.neumann@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:df7224993e543d48",
+  "displayName": "Stefan Weber",
+  "emailAddress": "stefan.weber@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:cf438ebc9f1600b8",
+  "displayName": "Matthias Müller",
+  "emailAddress": "matthias.mueller@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:00c42d50ae6e8e01",
+  "displayName": "Björn Klein",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:0193aef18df70c7d",
+  "displayName": "Stefan Braun",
+  "emailAddress": "stefan.braun@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:b4b52bfb4bdb287a",
+  "displayName": "Björn Müller",
+  "emailAddress": "bjoern.mueller@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:2997880a7993e61c",
+  "displayName": "Katrin Klein",
+  "emailAddress": "katrin.klein@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:e49b4af65e9b90fe",
+  "displayName": "Katrin Schwarz",
+  "emailAddress": "katrin.schwarz@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:d2ec9dffb55b97aa",
+  "displayName": "Özlem Schulz",
+  "emailAddress": "oezlem.schulz@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:50e6bcc55560846c",
+  "displayName": "Tobias Neumann",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:e9ab383edffd6d05",
+  "displayName": "J. Becker",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:d375151a03ee08e2",
+  "displayName": "Ö. Schneider",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:14b3a83e13d01911",
+  "displayName": "Michael Fischer",
+  "emailAddress": "michael.fischer@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:b598be09322613a7",
+  "displayName": "Felix Weiß",
+  "emailAddress": "felix.weiss@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:574c3cac73dd8974",
+  "displayName": "Laura Weiß",
+  "emailAddress": "laura.weiss@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:489135a3e088373b",
+  "displayName": "Lena Koch",
+  "emailAddress": "lena.koch@norvane.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:7e15f30182c711db",
+  "displayName": "Björn Wagner",
+  "emailAddress": "bjoern.wagner@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:28703b511e1d45c9",
+  "displayName": "J. Zimmermann",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:995923189760f554",
+  "displayName": "Lukas Zimmermann",
+  "emailAddress": "lukas.zimmermann@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:0954b8c7c0a9acfa",
+  "displayName": "Hannah Schneider",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:1973025555739da4",
+  "displayName": "Lena Braun",
+  "emailAddress": "lena.braun@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:58b670a6bc983019",
+  "displayName": "Jana Wagner",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:cc4ac12001537ef7",
+  "displayName": "M. Müller",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:18be7fe8f4fb09df",
+  "displayName": "M. Neumann",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:e81ab2e5738305db",
+  "displayName": "Matthias Hartmann",
+  "emailAddress": "matthias.hartmann@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:3449b2de30924aab",
+  "displayName": "Lena Zimmermann",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:783c499b1195d0f2",
+  "displayName": "Sebastian Neumann",
+  "emailAddress": "sebastian.neumann@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:adb6393bbcb8108b",
+  "displayName": "Katrin Wagner",
+  "emailAddress": "katrin.wagner@keldorf.example",
+  "active": true
+ },
+ {
+  "accountId": "712020:23c6f9b90c9191c7",
+  "displayName": "Contractor 1",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:b431d1c74744c20f",
+  "displayName": "Contractor 2",
+  "emailAddress": null,
+  "active": true
+ },
+ {
+  "accountId": "712020:5628a66450c02ff6",
+  "displayName": "Contractor 3",
+  "emailAddress": null,
+  "active": true
+ }
+]

@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Data, tests, eval gate, docs in sync (stdlib only)
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Synthetic data is reproducible
+        run: python scripts/make_data.py --check
+      - name: Unit and integration tests
+        run: python -m unittest discover -s tests -t . -v
+      - name: Eval gate
+        run: python -m evals.run --gate
+      - name: Docs and site numbers match the eval report
+        run: python scripts/build.py --check
+      - name: CLI smoke test
+        run: |
+          python -m skillslayer readiness
+          python -m skillslayer sync --simulate
+          python -m skillslayer card W30579 > /dev/null

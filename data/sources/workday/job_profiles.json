@@ -1,0 +1,274 @@
+{
+ "Report_Entry": [
+  {
+   "Job_Profile_ID": "JP-100",
+   "Job_Profile_Name": "Elektrotechnisch ingenieur",
+   "Job_Family": "Electrical",
+   "Job_Description": "Geen ervaring met SolidWorks nodig. Je komt terecht in een team van 8 collega's op de site in Antwerpen. Ervaring met vermogenselektronica is een plus. Projectbeheer hoort niet bij deze functie. Je hebt praktische ervaring met elektrische veiligheid. Ervaring met EPLAN is een plus. Kennis van laadinfrastructuur is vereist. Je hebt praktische ervaring met hoogspanningsinstallaties.",
+   "Language": "nl",
+   "Last_Updated": "2026-07-16",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-101",
+   "Job_Profile_Name": "Battery Systems Engineer",
+   "Job_Family": "Battery",
+   "Job_Description": "Strong knowledge of HV systems is required. We keep the support team lean. You join a team of 23 colleagues at the Wavre site. Strong knowledge of embedded software is required. Experience in battery systems is a plus. Python is not part of this role. Strong knowledge of power electronics is required. Supply chain planning is not part of this role.",
+   "Language": "en",
+   "Last_Updated": "2025-07-29",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-102",
+   "Job_Profile_Name": "Automation Engineer",
+   "Job_Family": "Automation",
+   "Job_Description": "You report to the department head. No experience with continuous integration is needed. You will work daily with SCADA. Strong knowledge of cybersecurity is required. You will work daily with PLC. You have hands-on experience with cobots. No experience with data analysis is needed. No experience with customer service is needed. You will work daily with variable frequency drives.",
+   "Language": "en",
+   "Last_Updated": "2025-09-28",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-103",
+   "Job_Profile_Name": "Mechanical Design Engineer",
+   "Job_Family": "Mechanical",
+   "Job_Description": "Strong knowledge of GD&T is required. You will work daily with ANSYS. You have hands-on experience with Solidworks. Budget control is not part of this role. Norvane builds electrification equipment for industry.",
+   "Language": "en",
+   "Last_Updated": "2026-04-29",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-104",
+   "Job_Profile_Name": "Onderhoudstechnicus",
+   "Job_Family": "Maintenance",
+   "Job_Description": "Je komt terecht in een team van 5 collega's op de site in Genk. Kennis van veiligheid en welzijn is vereist. Ervaring met TIG-lassen is een plus. Geen ervaring met coaching nodig. We houden het team bewust lean. Ervaring met onderhoudsplanning is een plus. Je werkt dagelijks met elektrische veiligheid. Kennis van hydrauliek is vereist.",
+   "Language": "nl",
+   "Last_Updated": "2022-10-12",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-105",
+   "Job_Profile_Name": "Lasser",
+   "Job_Family": "Welder",
+   "Job_Description": "Je hebt praktische ervaring met vorm- en plaatstoleranties. Je komt terecht in een team van 24 collega's op de site in Antwerpen. Geen ervaring met Java nodig. Je hebt praktische ervaring met VCA. Je werkt dagelijks met TIG-lassen. Geen ervaring met laadinfrastructuur nodig.",
+   "Language": "nl",
+   "Last_Updated": "2024-05-23",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-106",
+   "Job_Profile_Name": "Software Engineer",
+   "Job_Family": "Software",
+   "Job_Description": "You have hands-on experience with build pipelines. You will work daily with GitLab. Strong knowledge of Spring Boot is required. HSE is not part of this role. Norvane builds electrification equipment for industry. Experience in Java 21 is a plus. Demand planning is not part of this role. No experience with Docker is needed. You have hands-on experience with SQL.",
+   "Language": "en",
+   "Last_Updated": "2025-01-04",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-107",
+   "Job_Profile_Name": "Embedded Software Engineer",
+   "Job_Family": "Embedded",
+   "Job_Description": "",
+   "Language": "en",
+   "Last_Updated": "2026-05-05",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-108",
+   "Job_Profile_Name": "Platform Engineer",
+   "Job_Family": "Platform",
+   "Job_Description": "You excel at keeping deadlines under pressure. No experience with people management is needed. Experience in Docker is a plus. You will work daily with k8s. Experience in cybersecurity is a plus. Strong knowledge of Azure is required. Norvane builds electrification equipment for industry. Experience in build pipelines is a plus. SCADA is not part of this role.",
+   "Language": "en",
+   "Last_Updated": "2025-05-07",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-109",
+   "Job_Profile_Name": "Data Engineer",
+   "Job_Family": "Data",
+   "Job_Description": "You join a team of 24 colleagues at the Genk site. You have hands-on experience with PostgreSQL. Experience in Python 3 is a plus. You excel at keeping deadlines under pressure. You will work daily with Microsoft Azure. Java is not part of this role. Experience in data pipelines is a plus. Strong knowledge of PowerBI is required.",
+   "Language": "en",
+   "Last_Updated": "2025-12-19",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-110",
+   "Job_Profile_Name": "Data Scientist",
+   "Job_Family": "Data",
+   "Job_Description": "You join a team of 6 colleagues at the Genk site. You have hands-on experience with SQL. Strong knowledge of Python is required. No experience with stakeholder management is needed. Strong knowledge of machine learning is required.",
+   "Language": "en",
+   "Last_Updated": "2025-03-18",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-111",
+   "Job_Profile_Name": "Quality Engineer",
+   "Job_Family": "Quality",
+   "Job_Description": "No experience with preventive maintenance is needed. Norvane builds electrification equipment for industry. Experience in ISO 9001 is a plus. BMS is not part of this role. Strong knowledge of failure mode and effects analysis is required. You will work daily with statistical process control.",
+   "Language": "en",
+   "Last_Updated": "2026-05-29",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-112",
+   "Job_Profile_Name": "Process Engineer",
+   "Job_Family": "Process",
+   "Job_Description": "You will work daily with production planning. Norvane builds electrification equipment for industry. Experience in 5 whys is a plus. Experience in statistical process control is a plus. Data pipelines is not part of this role. You have hands-on experience with Lean manufacturing.",
+   "Language": "en",
+   "Last_Updated": "2025-03-15",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-113",
+   "Job_Profile_Name": "Supply Chain Planner",
+   "Job_Family": "Supply",
+   "Job_Description": "You will work daily with inventory management. You join a team of 21 colleagues at the Wavre site. You excel at keeping deadlines under pressure. No experience with customer service is needed. ANSYS is not part of this role. You will work daily with Microsoft Excel. Experience in SAP MM is a plus.",
+   "Language": "en",
+   "Last_Updated": "2022-10-10",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-114",
+   "Job_Profile_Name": "Aankoper",
+   "Job_Family": "Buyer",
+   "Job_Description": "Kennis van inkoop is vereist. Je komt terecht in een team van 20 collega's op de site in Genk. Kennis van contractonderhandeling is vereist. Kennis van Microsoft Excel is vereist. De verhuis naar de nieuwe hal staat gepland voor de lente; het Spring-congres in Gent is een extra.",
+   "Language": "nl",
+   "Last_Updated": "2024-09-02",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-115",
+   "Job_Profile_Name": "Magazijnier",
+   "Job_Family": "Warehouse",
+   "Job_Description": "Ervaring met reachtruck is een plus. Je komt terecht in een team van 23 collega's op de site in Genk. Geen ervaring met stakeholdermanagement nodig. Je hebt praktische ervaring met voorraadbeheer. Geen ervaring met kwaliteitszorgsysteem nodig. Geen ervaring met budgettering nodig.",
+   "Language": "nl",
+   "Last_Updated": "2026-06-03",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-116",
+   "Job_Profile_Name": "Project Manager",
+   "Job_Family": "Project",
+   "Job_Description": "Lockout tagout is not part of this role. You join a team of 21 colleagues at the Antwerp site. You will work daily with ADKAR. Experience in PMP is a plus. Strong knowledge of budgeting is required.",
+   "Language": "en",
+   "Last_Updated": "2024-08-14",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-117",
+   "Job_Profile_Name": "Ploegleider productie",
+   "Job_Family": "Team",
+   "Job_Description": "Geen ervaring met Power BI nodig. Je hebt praktische ervaring met teamleiding. Je komt terecht in een team van 15 collega's op de site in Genk. Je werkt dagelijks met Lean manufacturing. Ervaring met VCA is een plus. Geen ervaring met C++ nodig. Ervaring met productieplanning is een plus. Je werkt dagelijks met coaching.",
+   "Language": "nl",
+   "Last_Updated": "2026-06-24",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-118",
+   "Job_Profile_Name": "Financial Controller",
+   "Job_Family": "Controller",
+   "Job_Description": "",
+   "Language": "en",
+   "Last_Updated": "2025-08-23",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-119",
+   "Job_Profile_Name": "Sales Engineer",
+   "Job_Family": "Sales",
+   "Job_Description": "You have hands-on experience with customer service. You will work daily with stakeholder management. No experience with Docker is needed. Norvane builds electrification equipment for industry. Technical writing is not part of this role. No experience with production scheduling is needed. Experience in contract negotiation is a plus.",
+   "Language": "en",
+   "Last_Updated": "2026-08-01",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-120",
+   "Job_Profile_Name": "Customer Service Agent",
+   "Job_Family": "Service",
+   "Job_Description": "You report to the department head. You will work daily with Microsoft Excel. No experience with high voltage is needed. You will work daily with customer service.",
+   "Language": "en",
+   "Last_Updated": "2024-10-18",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-121",
+   "Job_Profile_Name": "HR Business Partner",
+   "Job_Family": "Hr",
+   "Job_Description": "No experience with inventory management is needed. VFD is not part of this role. Experience in team leadership is a plus. Strong knowledge of stakeholder management is required. Power BI is not part of this role. Experience in coaching is a plus. You report to the department head. Strong knowledge of change management is required.",
+   "Language": "en",
+   "Last_Updated": "2025-12-07",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-122",
+   "Job_Profile_Name": "Technical Writer",
+   "Job_Family": "Technical",
+   "Job_Description": "Strong knowledge of technical writing is required. You have hands-on experience with GitHub. Norvane builds electrification equipment for industry. No experience with analytics is needed. No experience with Kubernetes is needed.",
+   "Language": "en",
+   "Last_Updated": "2022-05-10",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-123",
+   "Job_Profile_Name": "OT Security Engineer",
+   "Job_Family": "Security",
+   "Job_Description": "No experience with maintenance planning is needed. Experience in network security is a plus. No experience with hydraulics is needed. You have hands-on experience with REST APIs. You join a team of 22 colleagues at the Genk site.",
+   "Language": "en",
+   "Last_Updated": "2026-08-09",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-224",
+   "Job_Profile_Name": "Maintenance Technician (Wavre)",
+   "Job_Family": "Maintenance",
+   "Job_Description": "Vous travaillez au quotidien avec habilitation électrique. Vous travaillez au quotidien avec maintenance préventive. Une bonne connaissance de prévention est requise. Une bonne connaissance de hydraulique est requise. Pas d'expérience en négociation requise. Norvane conçoit des équipements d'électrification. Gestion des parties prenantes ne fait pas partie de ce poste.",
+   "Language": "fr",
+   "Last_Updated": "2025-12-11",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-225",
+   "Job_Profile_Name": "Warehouse Operator (Wavre)",
+   "Job_Family": "Warehouse",
+   "Job_Description": "Norvane conçoit des équipements d'électrification. Cotation fonctionnelle ne fait pas partie de ce poste. Apprentissage automatique ne fait pas partie de ce poste. Une expérience en prévention est un atout. Vous travaillez au quotidien avec gestion des stocks.",
+   "Language": "fr",
+   "Last_Updated": "2024-05-23",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-226",
+   "Job_Profile_Name": "Customer Service Agent (Wavre)",
+   "Job_Family": "Service",
+   "Job_Description": "Une expérience en service client est un atout. Le déménagement est prévu au printemps; le Spring Day est facultatif. Norvane conçoit des équipements d'électrification. Une expérience en Microsoft Excel est un atout.",
+   "Language": "fr",
+   "Last_Updated": "2026-08-05",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-227",
+   "Job_Profile_Name": "Quality Engineer (Wavre)",
+   "Job_Family": "Quality",
+   "Job_Description": "Notre équipe reste lean et réactive. Microsoft Azure ne fait pas partie de ce poste. Une bonne connaissance de maîtrise statistique des procédés est requise. Une expérience en FMEA est un atout. Norvane conçoit des équipements d'électrification. Vous travaillez au quotidien avec analyse des causes. Notre équipe reste lean et réactive.",
+   "Language": "fr",
+   "Last_Updated": "2025-03-22",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-906",
+   "Job_Profile_Name": "Software Engineer",
+   "Job_Family": "Software",
+   "Job_Description": "You have hands-on experience with build pipelines. You will work daily with GitLab. Strong knowledge of Spring Boot is required. HSE is not part of this role. Norvane builds electrification equipment for industry. Experience in Java 21 is a plus. Demand planning is not part of this role. No experience with Docker is needed. You have hands-on experience with SQL.",
+   "Language": "en",
+   "Last_Updated": "2022-08-23",
+   "Inactive": "0"
+  },
+  {
+   "Job_Profile_ID": "JP-916",
+   "Job_Profile_Name": "Project Manager",
+   "Job_Family": "Project",
+   "Job_Description": "Lockout tagout is not part of this role. You join a team of 21 colleagues at the Antwerp site. You will work daily with ADKAR. Experience in PMP is a plus. Strong knowledge of budgeting is required.",
+   "Language": "en",
+   "Last_Updated": "2022-08-23",
+   "Inactive": "0"
+  }
+ ]
+}

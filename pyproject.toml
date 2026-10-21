@@ -1,0 +1,11 @@
+[project]
+name = "skillslayer"
+version = "1.0.0"
+description = "Implementation toolkit for a skills intelligence layer: connectors, identity, readiness, governance, validation and write-back (case study, synthetic data)"
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["skillslayer*"]

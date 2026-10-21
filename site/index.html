@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skills Intelligence Implementation</title>
+<meta name="description" content="An end-to-end implementation case: connecting a skills intelligence layer to a merged enterprise's Workday, SuccessFactors, Jira and Teams, with every claim measured.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <span class="brand">Skills intelligence · Norvane case</span>
+  <nav><a href="#verdict">Readiness</a><a href="#evals">Evals</a><a href="#landscape">Landscape</a><a href="demo/">Demo</a><a href="https://github.com/phlppgdfry/skills-intelligence-implementation-case">Repository</a></nav>
+</div></header>
+
+<main class="wrap">
+  <div class="hero">
+    <h1>From promise to production: a skills layer in a merged enterprise</h1>
+    <p class="lede">Norvane Group, a fictional Belgian manufacturer, bought Keldorf, a German company. Workday on one side, SuccessFactors on the other, Jira, Teams, works councils in two countries. This case covers the implementation end to end and measures every claim it makes.</p>
+    <a class="btn" href="demo/?tour">Take the 2-minute tour</a><a class="btn ghost" href="https://github.com/phlppgdfry/skills-intelligence-implementation-case#readme">Read the case</a>
+  </div>
+
+  <section id="verdict">
+    <h2>Week 2: is the customer ready?</h2>
+    <p class="sub">The readiness scan runs before anyone promises a go-live date. It found every planted data problem, with no false alarms. The verdict: not yet. The job architecture needs three weeks of fixes first.</p>
+    <div class="grid" id="scores"></div>
+    <p class="legend" id="scan-note"></p>
+  </section>
+
+  <section id="evals">
+    <h2>Does a multilingual taxonomy matter?</h2>
+    <p class="sub">Recall per language for the three extraction configurations. With canonical English names only, Keldorf's German texts lose most of their skills. That is a fairness problem, not just an accuracy problem.</p>
+    <div class="card"><div class="bars" id="lang-bars"></div><p class="legend">A = canonical names · B = + aliases in EN/NL/DE/FR · C = + negation, aspiration and ambiguity guards</p></div>
+  </section>
+
+  <section>
+    <h2>What should employees be asked to confirm?</h2>
+    <p class="sub">Four suggestion policies, measured with simulated employees. The first card decides whether people trust the tool, so the pilot starts with corroborated suggestions (ADR-0009).</p>
+    <div class="card scroll"><table id="policies"><thead><tr><th>Policy</th><th class="num">Right when suggested</th><th class="num">Asked / person</th><th class="num">Wrong asks / person</th><th class="num">Validated / person</th></tr></thead><tbody></tbody></table></div>
+  </section>
+
+  <section>
+    <h2>Do the governance controls hold?</h2>
+    <p class="sub">Each control switched off on its own. "Leaks" are opted-out people with evidence or exports, quarantined text used as evidence, and unvalidated skills sent downstream.</p>
+    <div class="grid" id="gov"></div>
+  </section>
+
+  <section id="landscape">
+    <h2>The landscape</h2>
+    <p class="sub">Pull from every source on our schedule. Push only validated skills, to exactly two places. Governance is applied before inference, not after.</p>
+    <div class="flow">
+      <div class="col">
+        <div class="node">Workday<small>REST workers (delta) + RaaS reports</small></div>
+        <div class="node">SAP SuccessFactors<small>OData v2, effective-dated EmpJob</small></div>
+        <div class="node">Jira Cloud<small>4 fields of resolved issues</small></div>
+        <div class="node">LMS · consent tool<small>CSV / JSON over SFTP</small></div>
+      </div>
+      <div class="arrow" aria-hidden="true">→</div>
+      <div class="col">
+        <div class="node core">Connectors<small>retry, paging, watermark</small></div>
+        <div class="node core">Identity + readiness<small>steward queue, scorecard</small></div>
+        <div class="node core">Governance filter<small>opt-outs, quarantine</small></div>
+        <div class="node core">Inference + validation<small>evidence, Teams card</small></div>
+      </div>
+      <div class="arrow" aria-hidden="true">→</div>
+      <div class="col">
+        <div class="node">Microsoft Teams<small>employee confirms each skill</small></div>
+        <div class="node">Workday<small>validated skills, idempotent write-back</small></div>
+        <div class="node">Visier<small>validated flat file</small></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Read it by role</h2>
+    <div class="grid">
+      <a class="card" href="https://github.com/phlppgdfry/skills-intelligence-implementation-case/blob/main/docs/00-engagement/brief.md"><strong>Sponsor</strong><br><span class="muted">brief, plan, readiness verdict</span></a>
+      <a class="card" href="https://github.com/phlppgdfry/skills-intelligence-implementation-case/blob/main/docs/01-architecture/integration-architecture.md"><strong>HRIS / integration</strong><br><span class="muted">interfaces, specs, 10 ADRs</span></a>
+      <a class="card" href="https://github.com/phlppgdfry/skills-intelligence-implementation-case/blob/main/docs/04-governance/works-councils.md"><strong>DPO / works council</strong><br><span class="muted">GDPR, AI Act, CAO 39/81, BetrVG</span></a>
+      <a class="card" href="https://github.com/phlppgdfry/skills-intelligence-implementation-case/blob/main/docs/07-product-feedback/field-insights.md"><strong>Product team</strong><br><span class="muted">field insights, tickets</span></a>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap">Fictional customer, synthetic data, a stand-in engine. Not affiliated with any vendor. Numbers come from <code>evals/reports/offline.json</code>; see EVIDENCE.md for what is executed, simulated and not done.</div></footer>
+
+<script>
+const pct = x => (Math.round(x * 1000) / 10).toString().replace(/\.0$/, "") + "%";
+fetch("data/report.json").then(r => r.json()).then(R => {
+  const rd = R.readiness, names = {job_architecture: "Job architecture", workforce_data: "Workforce data", identity: "Identity", work_evidence: "Work evidence", privacy: "Privacy (clean text)"};
+  document.getElementById("scores").innerHTML = Object.entries(rd.scores).map(([k, v]) => {
+    const ok = rd.gate[k], gate = k in rd.thresholds ? "gate " + pct(rd.thresholds[k]) : "all flagged quarantined";
+    return `<div class="card kpi"><div class="l">${names[k]}</div><div class="v">${pct(v)}</div><span class="pill ${ok ? "pass" : "fail"}">${ok ? "pass" : "fail"}</span> <span class="muted" style="font-size:13px">${gate}</span></div>`;
+  }).join("");
+  document.getElementById("scan-note").textContent = `${rd.found} of ${rd.planted} planted problems found, ${rd.false_alarm_count} false alarms, ${rd.findings} findings in total (${rd.counts.critical} critical).`;
+
+  const E = R.extraction, langs = [["en", "English"], ["nl", "Dutch"], ["de", "German"], ["fr", "French"]];
+  document.getElementById("lang-bars").innerHTML = langs.map(([l, name]) => ["A", "C"].map(c => {
+    const v = E[c]["lang:" + l].recall;
+    return `<div class="bar-row"><span>${name} · ${c}</span><div class="bar-track"><div class="bar-fill ${c === "C" ? "strong" : ""}" style="width:${v * 100}%"></div></div><span class="mono">${pct(v)}</span></div>`;
+  }).join("")).join("");
+
+  const P = R.profiles.policies, label = {role_only: "Role only", work_only: "Work and learning only", corroborated: "Corroborated (default)", broad: "Broad"};
+  document.querySelector("#policies tbody").innerHTML = Object.entries(P).map(([k, v]) =>
+    `<tr${k === "corroborated" ? ' style="font-weight:600"' : ""}><td>${label[k]}</td><td class="num">${pct(v.suggested.precision)}</td><td class="num">${v.asked_per_person}</td><td class="num">${v.wrong_asks_per_person}</td><td class="num">${v.validated_per_person}</td></tr>`).join("");
+
+  document.getElementById("gov").innerHTML = Object.entries(R.governance.ablation).map(([k, v]) =>
+    `<div class="card kpi"><div class="l">${k}</div><div class="v">${v.total}</div><span class="pill ${v.total ? "fail" : "pass"}">${v.total ? "leaks" : "no leaks"}</span></div>`).join("");
+});
+</script>
+</body>
+</html>

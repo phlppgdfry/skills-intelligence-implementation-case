@@ -1,0 +1,1168 @@
+{
+ "version": "2026.3",
+ "skills": [
+  {
+   "id": "SK-001",
+   "name": "High-voltage systems",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "high voltage",
+     "HV systems"
+    ],
+    "nl": [
+     "hoogspanning",
+     "hoogspanningsinstallaties"
+    ],
+    "de": [
+     "Hochspannung",
+     "Hochspannungstechnik"
+    ],
+    "fr": [
+     "haute tension"
+    ]
+   }
+  },
+  {
+   "id": "SK-002",
+   "name": "Power electronics",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "power electronics"
+    ],
+    "nl": [
+     "vermogenselektronica"
+    ],
+    "de": [
+     "Leistungselektronik"
+    ],
+    "fr": [
+     "électronique de puissance"
+    ]
+   }
+  },
+  {
+   "id": "SK-003",
+   "name": "Battery systems",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "battery systems",
+     "battery packs",
+     "BMS"
+    ],
+    "nl": [
+     "batterijsystemen"
+    ],
+    "de": [
+     "Batteriesysteme",
+     "Batteriespeicher"
+    ],
+    "fr": [
+     "systèmes de batteries"
+    ]
+   }
+  },
+  {
+   "id": "SK-004",
+   "name": "PLC programming",
+   "cluster": "Automation",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "PLC",
+     "PLC programming",
+     "Siemens TIA Portal"
+    ],
+    "nl": [
+     "PLC-programmatie",
+     "PLC programmeren"
+    ],
+    "de": [
+     "SPS-Programmierung",
+     "SPS"
+    ],
+    "fr": [
+     "programmation d'automates",
+     "automates programmables"
+    ]
+   }
+  },
+  {
+   "id": "SK-005",
+   "name": "SCADA",
+   "cluster": "Automation",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "SCADA",
+     "WinCC"
+    ],
+    "de": [
+     "Prozessleittechnik"
+    ],
+    "fr": [
+     "supervision SCADA"
+    ]
+   }
+  },
+  {
+   "id": "SK-006",
+   "name": "Electrical safety",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "electrical safety",
+     "NEN 3140",
+     "lockout tagout"
+    ],
+    "nl": [
+     "elektrische veiligheid",
+     "BA4",
+     "BA5"
+    ],
+    "de": [
+     "Elektrosicherheit",
+     "DGUV V3"
+    ],
+    "fr": [
+     "sécurité électrique",
+     "habilitation électrique"
+    ]
+   }
+  },
+  {
+   "id": "SK-007",
+   "name": "Motor control",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "motor control",
+     "variable frequency drives",
+     "VFD"
+    ],
+    "nl": [
+     "motorsturing",
+     "frequentieregelaars"
+    ],
+    "de": [
+     "Antriebstechnik",
+     "Frequenzumrichter"
+    ],
+    "fr": [
+     "variateurs de fréquence"
+    ]
+   }
+  },
+  {
+   "id": "SK-008",
+   "name": "EPLAN",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "EPLAN Electric P8"
+    ]
+   }
+  },
+  {
+   "id": "SK-009",
+   "name": "SolidWorks",
+   "cluster": "Mechanical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "Solidworks"
+    ]
+   }
+  },
+  {
+   "id": "SK-010",
+   "name": "Finite element analysis",
+   "cluster": "Mechanical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "FEA",
+     "finite element analysis",
+     "ANSYS"
+    ],
+    "nl": [
+     "eindige-elementenanalyse"
+    ],
+    "de": [
+     "FEM-Analyse",
+     "Finite-Elemente-Methode"
+    ],
+    "fr": [
+     "éléments finis"
+    ]
+   }
+  },
+  {
+   "id": "SK-011",
+   "name": "Hydraulics",
+   "cluster": "Mechanical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "hydraulics",
+     "hydraulic systems"
+    ],
+    "nl": [
+     "hydrauliek"
+    ],
+    "de": [
+     "Hydraulik"
+    ],
+    "fr": [
+     "hydraulique"
+    ]
+   }
+  },
+  {
+   "id": "SK-012",
+   "name": "Welding",
+   "cluster": "Mechanical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "welding",
+     "TIG welding",
+     "MIG welding"
+    ],
+    "nl": [
+     "lassen",
+     "TIG-lassen"
+    ],
+    "de": [
+     "Schweißen",
+     "WIG-Schweißen"
+    ],
+    "fr": [
+     "soudage"
+    ]
+   }
+  },
+  {
+   "id": "SK-013",
+   "name": "GD&T",
+   "cluster": "Mechanical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "geometric dimensioning and tolerancing"
+    ],
+    "nl": [
+     "vorm- en plaatstoleranties"
+    ],
+    "de": [
+     "Form- und Lagetolerierung"
+    ],
+    "fr": [
+     "cotation fonctionnelle"
+    ]
+   }
+  },
+  {
+   "id": "SK-014",
+   "name": "Preventive maintenance",
+   "cluster": "Maintenance",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "preventive maintenance",
+     "maintenance planning"
+    ],
+    "nl": [
+     "preventief onderhoud",
+     "onderhoudsplanning"
+    ],
+    "de": [
+     "vorbeugende Instandhaltung",
+     "Wartungsplanung"
+    ],
+    "fr": [
+     "maintenance préventive"
+    ]
+   }
+  },
+  {
+   "id": "SK-015",
+   "name": "Python",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "Python 3",
+     "pandas"
+    ]
+   }
+  },
+  {
+   "id": "SK-016",
+   "name": "Java",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "Java 21"
+    ]
+   }
+  },
+  {
+   "id": "SK-017",
+   "name": "Spring Boot",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "Spring"
+    ]
+   },
+   "context": [
+    "java",
+    "boot",
+    "framework",
+    "microservice",
+    "rest"
+   ]
+  },
+  {
+   "id": "SK-018",
+   "name": "SQL",
+   "cluster": "Data",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "PostgreSQL",
+     "T-SQL"
+    ]
+   }
+  },
+  {
+   "id": "SK-019",
+   "name": "C++",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "modern C++"
+    ]
+   }
+  },
+  {
+   "id": "SK-020",
+   "name": "Embedded C",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "embedded software",
+     "firmware"
+    ],
+    "nl": [
+     "embedded software"
+    ],
+    "de": [
+     "Embedded-Software",
+     "Firmware"
+    ],
+    "fr": [
+     "logiciel embarqué"
+    ]
+   }
+  },
+  {
+   "id": "SK-021",
+   "name": "Git",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "GitLab",
+     "GitHub"
+    ]
+   }
+  },
+  {
+   "id": "SK-022",
+   "name": "CI/CD",
+   "cluster": "DevOps",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "continuous integration",
+     "build pipelines"
+    ],
+    "nl": [
+     "build-pipelines"
+    ],
+    "de": [
+     "Build-Pipelines"
+    ],
+    "fr": [
+     "intégration continue"
+    ]
+   }
+  },
+  {
+   "id": "SK-023",
+   "name": "Docker",
+   "cluster": "DevOps",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "containers"
+    ],
+    "nl": [
+     "containers"
+    ],
+    "de": [
+     "Container"
+    ],
+    "fr": [
+     "conteneurs"
+    ]
+   }
+  },
+  {
+   "id": "SK-024",
+   "name": "Kubernetes",
+   "cluster": "DevOps",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "k8s",
+     "AKS"
+    ]
+   }
+  },
+  {
+   "id": "SK-025",
+   "name": "REST APIs",
+   "cluster": "Software development",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "REST API",
+     "OpenAPI"
+    ],
+    "de": [
+     "REST-Schnittstellen"
+    ]
+   }
+  },
+  {
+   "id": "SK-026",
+   "name": "Microsoft Azure",
+   "cluster": "Cloud",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "Azure"
+    ]
+   }
+  },
+  {
+   "id": "SK-027",
+   "name": "Data pipelines",
+   "cluster": "Data",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "data pipelines",
+     "ETL"
+    ],
+    "nl": [
+     "datapipelines"
+    ],
+    "de": [
+     "Datenpipelines",
+     "ETL-Strecken"
+    ],
+    "fr": [
+     "pipelines de données"
+    ]
+   }
+  },
+  {
+   "id": "SK-028",
+   "name": "Machine learning",
+   "cluster": "Data",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "machine learning",
+     "ML models"
+    ],
+    "de": [
+     "maschinelles Lernen"
+    ],
+    "fr": [
+     "apprentissage automatique"
+    ]
+   }
+  },
+  {
+   "id": "SK-029",
+   "name": "Power BI",
+   "cluster": "Data",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "DAX"
+    ]
+   }
+  },
+  {
+   "id": "SK-030",
+   "name": "Microsoft Excel",
+   "cluster": "Office",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "Excel"
+    ]
+   },
+   "context": [
+    "spreadsheet",
+    "pivot",
+    "macro",
+    "vba",
+    "formulas",
+    "rekenblad",
+    "tabellen",
+    "tableur",
+    "sheet"
+   ]
+  },
+  {
+   "id": "SK-031",
+   "name": "ISO 9001",
+   "cluster": "Quality",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "quality management system"
+    ],
+    "nl": [
+     "kwaliteitszorgsysteem"
+    ],
+    "de": [
+     "Qualitätsmanagementsystem"
+    ],
+    "fr": [
+     "système de management de la qualité"
+    ]
+   }
+  },
+  {
+   "id": "SK-032",
+   "name": "Root cause analysis",
+   "cluster": "Quality",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "root cause analysis",
+     "8D",
+     "5 whys"
+    ],
+    "nl": [
+     "oorzakenanalyse"
+    ],
+    "de": [
+     "Ursachenanalyse",
+     "8D-Report"
+    ],
+    "fr": [
+     "analyse des causes"
+    ]
+   }
+  },
+  {
+   "id": "SK-033",
+   "name": "FMEA",
+   "cluster": "Quality",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "failure mode and effects analysis"
+    ],
+    "fr": [
+     "AMDEC"
+    ]
+   }
+  },
+  {
+   "id": "SK-034",
+   "name": "Lean manufacturing",
+   "cluster": "Continuous improvement",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "lean manufacturing",
+     "lean",
+     "kaizen"
+    ],
+    "nl": [
+     "lean",
+     "lean productie"
+    ],
+    "de": [
+     "Lean Production",
+     "Lean"
+    ],
+    "fr": [
+     "lean manufacturing",
+     "lean"
+    ]
+   },
+   "context": [
+    "manufacturing",
+    "production",
+    "kaizen",
+    "5s",
+    "productie",
+    "produktion",
+    "verspilling",
+    "waste",
+    "gaspillage"
+   ]
+  },
+  {
+   "id": "SK-035",
+   "name": "Statistical process control",
+   "cluster": "Quality",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "SPC",
+     "statistical process control"
+    ],
+    "nl": [
+     "statistische procescontrole"
+    ],
+    "de": [
+     "statistische Prozessregelung"
+    ],
+    "fr": [
+     "maîtrise statistique des procédés"
+    ]
+   }
+  },
+  {
+   "id": "SK-036",
+   "name": "Supply chain planning",
+   "cluster": "Supply chain",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "supply chain planning",
+     "S&OP",
+     "demand planning"
+    ],
+    "nl": [
+     "supply chain planning",
+     "vraagplanning"
+    ],
+    "de": [
+     "Supply-Chain-Planung",
+     "Bedarfsplanung"
+    ],
+    "fr": [
+     "planification de la chaîne logistique"
+    ]
+   }
+  },
+  {
+   "id": "SK-037",
+   "name": "Procurement",
+   "cluster": "Supply chain",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "procurement",
+     "purchasing",
+     "sourcing"
+    ],
+    "nl": [
+     "aankoop",
+     "inkoop"
+    ],
+    "de": [
+     "Einkauf",
+     "Beschaffung"
+    ],
+    "fr": [
+     "achats"
+    ]
+   }
+  },
+  {
+   "id": "SK-038",
+   "name": "SAP MM",
+   "cluster": "ERP",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "SAP Materials Management"
+    ]
+   }
+  },
+  {
+   "id": "SK-039",
+   "name": "Inventory management",
+   "cluster": "Supply chain",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "inventory management",
+     "stock control"
+    ],
+    "nl": [
+     "voorraadbeheer"
+    ],
+    "de": [
+     "Bestandsmanagement",
+     "Lagerverwaltung"
+    ],
+    "fr": [
+     "gestion des stocks"
+    ]
+   }
+  },
+  {
+   "id": "SK-040",
+   "name": "Production scheduling",
+   "cluster": "Supply chain",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "production scheduling",
+     "production planning"
+    ],
+    "nl": [
+     "productieplanning"
+    ],
+    "de": [
+     "Produktionsplanung",
+     "Fertigungssteuerung"
+    ],
+    "fr": [
+     "ordonnancement"
+    ]
+   }
+  },
+  {
+   "id": "SK-041",
+   "name": "Health and safety",
+   "cluster": "Safety",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "health and safety",
+     "HSE",
+     "risk assessment"
+    ],
+    "nl": [
+     "veiligheid en welzijn",
+     "VCA"
+    ],
+    "de": [
+     "Arbeitssicherheit",
+     "Gefährdungsbeurteilung"
+    ],
+    "fr": [
+     "santé et sécurité",
+     "prévention"
+    ]
+   }
+  },
+  {
+   "id": "SK-042",
+   "name": "Forklift operation",
+   "cluster": "Logistics",
+   "domain": "Operations",
+   "aliases": {
+    "en": [
+     "forklift",
+     "reach truck"
+    ],
+    "nl": [
+     "heftruck",
+     "reachtruck"
+    ],
+    "de": [
+     "Gabelstapler",
+     "Staplerschein"
+    ],
+    "fr": [
+     "chariot élévateur",
+     "cariste"
+    ]
+   }
+  },
+  {
+   "id": "SK-043",
+   "name": "Project management",
+   "cluster": "Management",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "project management",
+     "PMP",
+     "PRINCE2"
+    ],
+    "nl": [
+     "projectmanagement",
+     "projectbeheer"
+    ],
+    "de": [
+     "Projektmanagement",
+     "Projektleitung"
+    ],
+    "fr": [
+     "gestion de projet"
+    ]
+   }
+  },
+  {
+   "id": "SK-044",
+   "name": "Stakeholder management",
+   "cluster": "Management",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "stakeholder management"
+    ],
+    "nl": [
+     "stakeholdermanagement"
+    ],
+    "de": [
+     "Stakeholder-Management"
+    ],
+    "fr": [
+     "gestion des parties prenantes"
+    ]
+   }
+  },
+  {
+   "id": "SK-045",
+   "name": "Contract negotiation",
+   "cluster": "Commercial",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "contract negotiation",
+     "negotiation"
+    ],
+    "nl": [
+     "contractonderhandeling",
+     "onderhandelen"
+    ],
+    "de": [
+     "Vertragsverhandlung",
+     "Verhandlungsführung"
+    ],
+    "fr": [
+     "négociation"
+    ]
+   }
+  },
+  {
+   "id": "SK-046",
+   "name": "Budgeting",
+   "cluster": "Finance",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "budgeting",
+     "budget control"
+    ],
+    "nl": [
+     "budgetbeheer",
+     "budgettering"
+    ],
+    "de": [
+     "Budgetierung",
+     "Budgetverantwortung"
+    ],
+    "fr": [
+     "gestion budgétaire"
+    ]
+   }
+  },
+  {
+   "id": "SK-047",
+   "name": "Financial reporting",
+   "cluster": "Finance",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "financial reporting",
+     "month-end closing"
+    ],
+    "nl": [
+     "financiële rapportering",
+     "maandafsluiting"
+    ],
+    "de": [
+     "Finanzberichterstattung",
+     "Monatsabschluss"
+    ],
+    "fr": [
+     "reporting financier",
+     "clôture mensuelle"
+    ]
+   }
+  },
+  {
+   "id": "SK-048",
+   "name": "IFRS",
+   "cluster": "Finance",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "International Financial Reporting Standards"
+    ]
+   }
+  },
+  {
+   "id": "SK-049",
+   "name": "People management",
+   "cluster": "Leadership",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "people management",
+     "team leadership",
+     "line management"
+    ],
+    "nl": [
+     "people management",
+     "leidinggeven",
+     "teamleiding"
+    ],
+    "de": [
+     "Personalführung",
+     "Mitarbeiterführung"
+    ],
+    "fr": [
+     "management d'équipe",
+     "encadrement"
+    ]
+   }
+  },
+  {
+   "id": "SK-050",
+   "name": "Coaching",
+   "cluster": "Leadership",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "coaching",
+     "mentoring"
+    ],
+    "nl": [
+     "coaching",
+     "coachen"
+    ],
+    "de": [
+     "Coaching"
+    ],
+    "fr": [
+     "coaching",
+     "accompagnement"
+    ]
+   }
+  },
+  {
+   "id": "SK-051",
+   "name": "Change management",
+   "cluster": "Management",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "change management",
+     "ADKAR"
+    ],
+    "nl": [
+     "verandermanagement"
+    ],
+    "de": [
+     "Veränderungsmanagement",
+     "Change-Management"
+    ],
+    "fr": [
+     "conduite du changement"
+    ]
+   }
+  },
+  {
+   "id": "SK-052",
+   "name": "Customer service",
+   "cluster": "Commercial",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "customer service",
+     "customer support"
+    ],
+    "nl": [
+     "klantenservice",
+     "klantendienst"
+    ],
+    "de": [
+     "Kundenservice",
+     "Kundenbetreuung"
+    ],
+    "fr": [
+     "service client"
+    ]
+   }
+  },
+  {
+   "id": "SK-053",
+   "name": "Technical sales",
+   "cluster": "Commercial",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "technical sales",
+     "pre-sales"
+    ],
+    "nl": [
+     "technische verkoop"
+    ],
+    "de": [
+     "technischer Vertrieb"
+    ],
+    "fr": [
+     "vente technique",
+     "avant-vente"
+    ]
+   }
+  },
+  {
+   "id": "SK-054",
+   "name": "Technical writing",
+   "cluster": "Communication",
+   "domain": "Business",
+   "aliases": {
+    "en": [
+     "technical writing",
+     "technical documentation"
+    ],
+    "nl": [
+     "technische documentatie"
+    ],
+    "de": [
+     "technische Dokumentation",
+     "technische Redaktion"
+    ],
+    "fr": [
+     "rédaction technique"
+    ]
+   }
+  },
+  {
+   "id": "SK-055",
+   "name": "Data analysis",
+   "cluster": "Data",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "data analysis",
+     "analytics"
+    ],
+    "nl": [
+     "data-analyse"
+    ],
+    "de": [
+     "Datenanalyse"
+    ],
+    "fr": [
+     "analyse de données"
+    ]
+   }
+  },
+  {
+   "id": "SK-056",
+   "name": "Cybersecurity",
+   "cluster": "Cloud",
+   "domain": "Digital",
+   "aliases": {
+    "en": [
+     "cybersecurity",
+     "IEC 62443",
+     "network security"
+    ],
+    "nl": [
+     "cyberbeveiliging"
+    ],
+    "de": [
+     "IT-Sicherheit",
+     "Cybersicherheit"
+    ],
+    "fr": [
+     "cybersécurité"
+    ]
+   }
+  },
+  {
+   "id": "SK-057",
+   "name": "Robotics",
+   "cluster": "Automation",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "robotics",
+     "industrial robots",
+     "cobots"
+    ],
+    "nl": [
+     "robotica"
+    ],
+    "de": [
+     "Robotik",
+     "Industrieroboter"
+    ],
+    "fr": [
+     "robotique"
+    ]
+   }
+  },
+  {
+   "id": "SK-058",
+   "name": "Charging infrastructure",
+   "cluster": "Electrical engineering",
+   "domain": "Engineering",
+   "aliases": {
+    "en": [
+     "charging infrastructure",
+     "EV charging",
+     "OCPP"
+    ],
+    "nl": [
+     "laadinfrastructuur",
+     "laadpalen"
+    ],
+    "de": [
+     "Ladeinfrastruktur",
+     "Ladesäulen"
+    ],
+    "fr": [
+     "infrastructure de recharge",
+     "bornes de recharge"
+    ]
+   }
+  }
+ ]
+}

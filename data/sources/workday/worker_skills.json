@@ -1,0 +1,662 @@
+[
+ {
+  "worker": "W30009",
+  "skill": "Leadership",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30012",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30012",
+  "skill": "CI/CD",
+  "skillId": "SK-022",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30015",
+  "skill": "Stakeholder management",
+  "skillId": "SK-044",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30018",
+  "skill": "SAP MM",
+  "skillId": "SK-038",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30021",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30024",
+  "skill": "Technical writing",
+  "skillId": "SK-054",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30039",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30039",
+  "skill": "Change management",
+  "skillId": "SK-051",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30054",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30057",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30060",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30060",
+  "skill": "Data analysis",
+  "skillId": "SK-055",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30063",
+  "skill": "Financial reporting",
+  "skillId": "SK-047",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30069",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30075",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30087",
+  "skill": "SAP MM",
+  "skillId": "SK-038",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30090",
+  "skill": "Leadership",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30090",
+  "skill": "Production scheduling",
+  "skillId": "SK-040",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30093",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30093",
+  "skill": "Robotics",
+  "skillId": "SK-057",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30105",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30108",
+  "skill": "Supply chain planning",
+  "skillId": "SK-036",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30111",
+  "skill": "Stakeholder management",
+  "skillId": "SK-044",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30114",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30120",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30126",
+  "skill": "Health and safety",
+  "skillId": "SK-041",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30132",
+  "skill": "SolidWorks",
+  "skillId": "SK-009",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30135",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30138",
+  "skill": "Budgeting",
+  "skillId": "SK-046",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30147",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30150",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30150",
+  "skill": "Charging infrastructure",
+  "skillId": "SK-058",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30153",
+  "skill": "Motor control",
+  "skillId": "SK-007",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30156",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30156",
+  "skill": "Power electronics",
+  "skillId": "SK-002",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30162",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30165",
+  "skill": "Technical writing",
+  "skillId": "SK-054",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30168",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30171",
+  "skill": "Financial reporting",
+  "skillId": "SK-047",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30180",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30180",
+  "skill": "Docker",
+  "skillId": "SK-023",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30192",
+  "skill": "FMEA",
+  "skillId": "SK-033",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30207",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30210",
+  "skill": "Communication",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30210",
+  "skill": "High-voltage systems",
+  "skillId": "SK-001",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30213",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30219",
+  "skill": "Docker",
+  "skillId": "SK-023",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30228",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30240",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30243",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30252",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30255",
+  "skill": "Microsoft Azure",
+  "skillId": "SK-026",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30258",
+  "skill": "High-voltage systems",
+  "skillId": "SK-001",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30270",
+  "skill": "Technical sales",
+  "skillId": "SK-053",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30273",
+  "skill": "SQL",
+  "skillId": "SK-018",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30276",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30279",
+  "skill": "Communication",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30279",
+  "skill": "Coaching",
+  "skillId": "SK-050",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30282",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30282",
+  "skill": "Statistical process control",
+  "skillId": "SK-035",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30297",
+  "skill": "Electrical safety",
+  "skillId": "SK-006",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30300",
+  "skill": "Welding",
+  "skillId": "SK-012",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30303",
+  "skill": "SAP MM",
+  "skillId": "SK-038",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30321",
+  "skill": "Cybersecurity",
+  "skillId": "SK-056",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30324",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30327",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30330",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30336",
+  "skill": "Finite element analysis",
+  "skillId": "SK-010",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30360",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30375",
+  "skill": "Microsoft Excel",
+  "skillId": "SK-030",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30381",
+  "skill": "Power electronics",
+  "skillId": "SK-002",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30384",
+  "skill": "Hydraulics",
+  "skillId": "SK-011",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30387",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30399",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30408",
+  "skill": "Python",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30414",
+  "skill": "Problem solving",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30417",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30420",
+  "skill": "Communication",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30423",
+  "skill": "Customer service",
+  "skillId": "SK-052",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30426",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30426",
+  "skill": "Java",
+  "skillId": "SK-016",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30435",
+  "skill": "Microsoft Azure",
+  "skillId": "SK-026",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30438",
+  "skill": "People management",
+  "skillId": "SK-049",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30441",
+  "skill": "Power BI",
+  "skillId": "SK-029",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30447",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30450",
+  "skill": "Production scheduling",
+  "skillId": "SK-040",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30456",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30459",
+  "skill": "PLC programming",
+  "skillId": "SK-004",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30465",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30465",
+  "skill": "Power BI",
+  "skillId": "SK-029",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30483",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30483",
+  "skill": "Electrical safety",
+  "skillId": "SK-006",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30489",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30504",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30507",
+  "skill": "Leadership",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30510",
+  "skill": "Projektmanagement",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30516",
+  "skill": "Teamwork",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30519",
+  "skill": "Procurement",
+  "skillId": "SK-037",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30531",
+  "skill": "Production scheduling",
+  "skillId": "SK-040",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30540",
+  "skill": "Leadership",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30543",
+  "skill": "Leadership",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30552",
+  "skill": "Leadership",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30558",
+  "skill": "SAP MM",
+  "skillId": "SK-038",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30561",
+  "skill": "Communication",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30567",
+  "skill": "Contract negotiation",
+  "skillId": "SK-045",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30579",
+  "skill": "SQL",
+  "skillId": "SK-018",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30588",
+  "skill": "Excel",
+  "skillId": null,
+  "source": "employee"
+ },
+ {
+  "worker": "W30588",
+  "skill": "Spring Boot",
+  "skillId": "SK-017",
+  "source": "skills-layer"
+ },
+ {
+  "worker": "W30591",
+  "skill": "Production scheduling",
+  "skillId": "SK-040",
+  "source": "skills-layer"
+ }
+]

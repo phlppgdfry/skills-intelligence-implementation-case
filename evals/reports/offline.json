@@ -1,0 +1,611 @@
+{
+ "as_of": "2026-10-01",
+ "connectors": {
+  "sources": {
+   "workday": {
+    "records": 197,
+    "expected": 197,
+    "pages": 2,
+    "retries": 1
+   },
+   "successfactors:User": {
+    "records": 95,
+    "expected": 95,
+    "pages": 3,
+    "retries": 1
+   },
+   "successfactors:EmpJob": {
+    "records": 190,
+    "expected": 190,
+    "pages": 5,
+    "retries": 1
+   },
+   "successfactors:FOJobCode": {
+    "records": 18,
+    "expected": 18,
+    "pages": 1,
+    "retries": 0
+   },
+   "successfactors:cust_AboutMe": {
+    "records": 48,
+    "expected": 48,
+    "pages": 2,
+    "retries": 1
+   },
+   "jira": {
+    "records": 1211,
+    "expected": 1211,
+    "pages": 13,
+    "retries": 1
+   }
+  },
+  "complete": true,
+  "faults_injected": 5,
+  "faults": [
+   "workday:429@offset=100",
+   "sf:503@User",
+   "sf:503@EmpJob",
+   "sf:503@cust_AboutMe",
+   "jira:429@300"
+  ],
+  "retries": 5,
+  "duplicates": 0,
+  "delta_changed": 7,
+  "delta_fetched": 7,
+  "delta_exact": true,
+  "jira_fields": [
+   "assignee",
+   "components",
+   "resolutiondate",
+   "summary"
+  ],
+  "jira_fields_minimal": true,
+  "auth_error_not_retried": true
+ },
+ "identity": {
+  "records": 443,
+  "people": 266,
+  "rules": {
+   "precision": 1.0,
+   "recall": 0.8723,
+   "f1": 0.9318,
+   "tp": 164,
+   "fp": 0,
+   "fn": 24,
+   "false_merges": 0
+  },
+  "baseline_email_only": {
+   "precision": 0.9905,
+   "recall": 0.5532,
+   "f1": 0.7099,
+   "tp": 104,
+   "fp": 1,
+   "fn": 84,
+   "false_merges": 1
+  },
+  "baseline_name_only": {
+   "precision": 0.9939,
+   "recall": 0.8723,
+   "f1": 0.9292,
+   "tp": 164,
+   "fp": 1,
+   "fn": 24,
+   "false_merges": 1
+  },
+  "baseline_local_part": {
+   "precision": 0.9844,
+   "recall": 0.6702,
+   "f1": 0.7975,
+   "tp": 126,
+   "fp": 2,
+   "fn": 62,
+   "false_merges": 2
+  },
+  "review_queue": 22,
+  "unresolved_jira": 24,
+  "external_accounts": 3,
+  "after_steward": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0,
+   "tp": 188,
+   "fp": 0,
+   "fn": 0,
+   "false_merges": 0
+  }
+ },
+ "readiness": {
+  "planted": 22,
+  "found": 22,
+  "recall": 1.0,
+  "false_alarm_count": 0,
+  "missed": [],
+  "false_alarms": [],
+  "by_check": {
+   "duplicate_job_title": {
+    "planted": 2,
+    "found": 2
+   },
+   "jira_account_unresolved": {
+    "planted": 3,
+    "found": 3
+   },
+   "job_description_missing": {
+    "planted": 2,
+    "found": 2
+   },
+   "job_description_stale": {
+    "planted": 5,
+    "found": 5
+   },
+   "job_without_incumbents": {
+    "planted": 2,
+    "found": 2
+   },
+   "manager_loop": {
+    "planted": 1,
+    "found": 1
+   },
+   "manager_missing": {
+    "planted": 1,
+    "found": 1
+   },
+   "sensitive_free_text": {
+    "planted": 4,
+    "found": 4
+   },
+   "worker_without_job": {
+    "planted": 2,
+    "found": 2
+   }
+  },
+  "scores": {
+   "job_architecture": 0.7,
+   "workforce_data": 0.975,
+   "identity": 0.944,
+   "work_evidence": 0.902,
+   "privacy": 0.917
+  },
+  "thresholds": {
+   "job_architecture": 0.85,
+   "workforce_data": 0.95,
+   "identity": 0.9,
+   "work_evidence": 0.5
+  },
+  "gate": {
+   "job_architecture": false,
+   "workforce_data": true,
+   "identity": true,
+   "work_evidence": true,
+   "privacy": true
+  },
+  "ready_for_pilot": false,
+  "counts": {
+   "critical": 4,
+   "high": 6,
+   "medium": 29,
+   "low": 5
+  },
+  "findings": 44,
+  "quarantined": 4,
+  "identity_review": 22
+ },
+ "extraction": {
+  "A": {
+   "all": {
+    "precision": 0.9389,
+    "recall": 0.4164,
+    "f1": 0.5769,
+    "tp": 692,
+    "fp": 45,
+    "fn": 970
+   },
+   "kind:about": {
+    "precision": 0.7556,
+    "recall": 0.3864,
+    "f1": 0.5113,
+    "tp": 34,
+    "fp": 11,
+    "fn": 54
+   },
+   "kind:course": {
+    "precision": 1.0,
+    "recall": 0.4286,
+    "f1": 0.6,
+    "tp": 84,
+    "fp": 0,
+    "fn": 112
+   },
+   "kind:job": {
+    "precision": 0.6961,
+    "recall": 0.4251,
+    "f1": 0.5279,
+    "tp": 71,
+    "fp": 31,
+    "fn": 96
+   },
+   "kind:ticket": {
+    "precision": 0.9941,
+    "recall": 0.4154,
+    "f1": 0.5859,
+    "tp": 503,
+    "fp": 3,
+    "fn": 708
+   },
+   "lang:de": {
+    "precision": 0.9286,
+    "recall": 0.2907,
+    "f1": 0.4428,
+    "tp": 91,
+    "fp": 7,
+    "fn": 222
+   },
+   "lang:en": {
+    "precision": 0.9388,
+    "recall": 0.4753,
+    "f1": 0.6311,
+    "tp": 491,
+    "fp": 32,
+    "fn": 542
+   },
+   "lang:fr": {
+    "precision": 0.9474,
+    "recall": 0.3214,
+    "f1": 0.48,
+    "tp": 18,
+    "fp": 1,
+    "fn": 38
+   },
+   "lang:nl": {
+    "precision": 0.9485,
+    "recall": 0.3538,
+    "f1": 0.5154,
+    "tp": 92,
+    "fp": 5,
+    "fn": 168
+   },
+   "language_recall_gap": 0.1846
+  },
+  "B": {
+   "all": {
+    "precision": 0.9329,
+    "recall": 0.9615,
+    "f1": 0.947,
+    "tp": 1598,
+    "fp": 115,
+    "fn": 64
+   },
+   "kind:about": {
+    "precision": 0.7798,
+    "recall": 0.9659,
+    "f1": 0.8629,
+    "tp": 85,
+    "fp": 24,
+    "fn": 3
+   },
+   "kind:course": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 196,
+    "fp": 0,
+    "fn": 0
+   },
+   "kind:job": {
+    "precision": 0.6445,
+    "recall": 0.988,
+    "f1": 0.7801,
+    "tp": 165,
+    "fp": 91,
+    "fn": 2
+   },
+   "kind:ticket": {
+    "precision": 1.0,
+    "recall": 0.9513,
+    "f1": 0.975,
+    "tp": 1152,
+    "fp": 0,
+    "fn": 59
+   },
+   "lang:de": {
+    "precision": 0.8797,
+    "recall": 0.9808,
+    "f1": 0.9275,
+    "tp": 307,
+    "fp": 42,
+    "fn": 6
+   },
+   "lang:en": {
+    "precision": 0.948,
+    "recall": 0.9535,
+    "f1": 0.9508,
+    "tp": 985,
+    "fp": 54,
+    "fn": 48
+   },
+   "lang:fr": {
+    "precision": 0.8889,
+    "recall": 1.0,
+    "f1": 0.9412,
+    "tp": 56,
+    "fp": 7,
+    "fn": 0
+   },
+   "lang:nl": {
+    "precision": 0.9542,
+    "recall": 0.9615,
+    "f1": 0.9579,
+    "tp": 250,
+    "fp": 12,
+    "fn": 10
+   },
+   "language_recall_gap": 0.0465
+  },
+  "C": {
+   "all": {
+    "precision": 0.981,
+    "recall": 0.9615,
+    "f1": 0.9711,
+    "tp": 1598,
+    "fp": 31,
+    "fn": 64
+   },
+   "kind:about": {
+    "precision": 1.0,
+    "recall": 0.9659,
+    "f1": 0.9827,
+    "tp": 85,
+    "fp": 0,
+    "fn": 3
+   },
+   "kind:course": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 196,
+    "fp": 0,
+    "fn": 0
+   },
+   "kind:job": {
+    "precision": 0.8418,
+    "recall": 0.988,
+    "f1": 0.9091,
+    "tp": 165,
+    "fp": 31,
+    "fn": 2
+   },
+   "kind:ticket": {
+    "precision": 1.0,
+    "recall": 0.9513,
+    "f1": 0.975,
+    "tp": 1152,
+    "fp": 0,
+    "fn": 59
+   },
+   "lang:de": {
+    "precision": 0.9746,
+    "recall": 0.9808,
+    "f1": 0.9777,
+    "tp": 307,
+    "fp": 8,
+    "fn": 6
+   },
+   "lang:en": {
+    "precision": 0.9821,
+    "recall": 0.9535,
+    "f1": 0.9676,
+    "tp": 985,
+    "fp": 18,
+    "fn": 48
+   },
+   "lang:fr": {
+    "precision": 0.9333,
+    "recall": 1.0,
+    "f1": 0.9655,
+    "tp": 56,
+    "fp": 4,
+    "fn": 0
+   },
+   "lang:nl": {
+    "precision": 0.996,
+    "recall": 0.9615,
+    "f1": 0.9785,
+    "tp": 250,
+    "fp": 1,
+    "fn": 10
+   },
+   "language_recall_gap": 0.0465
+  },
+  "texts": 1503,
+  "by_kind": {
+   "job": 48,
+   "ticket": 1211,
+   "course": 196,
+   "about": 48
+  },
+  "by_lang": {
+   "en": 972,
+   "nl": 243,
+   "de": 239,
+   "fr": 49
+  }
+ },
+ "profiles": {
+  "people": 259,
+  "true_skills_per_person": 4.98,
+  "evidence_coverage": 0.731,
+  "policies": {
+   "role_only": {
+    "description": "every skill in the person's job profile (what most HCMs do today)",
+    "suggested": {
+     "precision": 0.5644,
+     "recall": 0.455,
+     "f1": 0.5039,
+     "tp": 587,
+     "fp": 453,
+     "fn": 703
+    },
+    "asked_per_person": 4.02,
+    "wrong_asks_per_person": 1.75,
+    "validated": {
+     "precision": 0.9592,
+     "recall": 0.3279,
+     "f1": 0.4887,
+     "tp": 423,
+     "fp": 18,
+     "fn": 867
+    },
+    "validated_per_person": 1.7
+   },
+   "work_only": {
+    "description": "evidence from work and learning only, no job profile",
+    "suggested": {
+     "precision": 0.8918,
+     "recall": 0.2364,
+     "f1": 0.3738,
+     "tp": 305,
+     "fp": 37,
+     "fn": 985
+    },
+    "asked_per_person": 1.32,
+    "wrong_asks_per_person": 0.14,
+    "validated": {
+     "precision": 1.0,
+     "recall": 0.1806,
+     "f1": 0.306,
+     "tp": 233,
+     "fp": 0,
+     "fn": 1057
+    },
+    "validated_per_person": 0.9
+   },
+   "corroborated": {
+    "description": "job profile plus work or learning evidence (default, ADR-0009)",
+    "suggested": {
+     "precision": 0.9061,
+     "recall": 0.3364,
+     "f1": 0.4907,
+     "tp": 434,
+     "fp": 45,
+     "fn": 856
+    },
+    "asked_per_person": 1.85,
+    "wrong_asks_per_person": 0.17,
+    "validated": {
+     "precision": 1.0,
+     "recall": 0.2496,
+     "f1": 0.3995,
+     "tp": 322,
+     "fp": 0,
+     "fn": 968
+    },
+    "validated_per_person": 1.24
+   },
+   "broad": {
+    "description": "a job profile alone is enough to suggest",
+    "suggested": {
+     "precision": 0.6055,
+     "recall": 0.5806,
+     "f1": 0.5928,
+     "tp": 749,
+     "fp": 488,
+     "fn": 541
+    },
+    "asked_per_person": 4.78,
+    "wrong_asks_per_person": 1.88,
+    "validated": {
+     "precision": 0.9681,
+     "recall": 0.424,
+     "f1": 0.5898,
+     "tp": 547,
+     "fp": 18,
+     "fn": 743
+    },
+    "validated_per_person": 2.18
+   }
+  }
+ },
+ "crosswalk": {
+  "entries": 99,
+  "in_scope": 85,
+  "out_of_scope": 14,
+  "auto": 76,
+  "auto_correct": 76,
+  "auto_precision": 1.0,
+  "fuzzy": 1,
+  "fuzzy_correct": 1,
+  "unmapped": 22,
+  "unmapped_out_of_scope": 14,
+  "unmapped_in_scope": [
+   "Project Mgmt",
+   "PM",
+   "Leadership",
+   "People leadership",
+   "Safety",
+   "Klantvriendelijkheid",
+   "Analytical thinking",
+   "Lean Six Sigma Green Belt"
+  ],
+  "auto_coverage_of_in_scope": 0.8941,
+  "steward_queue": 23
+ },
+ "writeback": {
+  "adds": 207,
+  "removes": 1,
+  "applied_first_run": 208,
+  "replayed_batch_applied": 0,
+  "replayed_batch_skipped": 208,
+  "second_run_ops": 0,
+  "employee_skills_before": 56,
+  "employee_skills_untouched": true,
+  "workers_touched": 91,
+  "already_present_skipped": 7
+ },
+ "governance": {
+  "with_controls": {
+   "optout_people": 7,
+   "optout_records": 8,
+   "optout_with_evidence": 0,
+   "optout_in_export": 0,
+   "optout_in_writeback": 0,
+   "quarantined_text_used": 0,
+   "unvalidated_in_export": 0,
+   "excluded_members": 16,
+   "export_rows": 322
+  },
+  "ablation": {
+   "all controls": {
+    "optout_with_evidence": 0,
+    "optout_in_export": 0,
+    "optout_in_writeback": 0,
+    "quarantined_text_used": 0,
+    "unvalidated_in_export": 0,
+    "total": 0
+   },
+   "no opt-out filter": {
+    "optout_with_evidence": 7,
+    "optout_in_export": 2,
+    "optout_in_writeback": 4,
+    "quarantined_text_used": 0,
+    "unvalidated_in_export": 0,
+    "total": 13
+   },
+   "no quarantine": {
+    "optout_with_evidence": 0,
+    "optout_in_export": 0,
+    "optout_in_writeback": 0,
+    "quarantined_text_used": 6,
+    "unvalidated_in_export": 0,
+    "total": 6
+   },
+   "inferred skills downstream": {
+    "optout_with_evidence": 0,
+    "optout_in_export": 0,
+    "optout_in_writeback": 0,
+    "quarantined_text_used": 0,
+    "unvalidated_in_export": 157,
+    "total": 157
+   }
+  }
+ }
+}
