@@ -6,6 +6,8 @@
 
 [![CI](https://github.com/phlppgdfry/skills-intelligence-implementation-case/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 
+**Live:** [case site](https://phlppgdfry.github.io/skills-intelligence-implementation-case/) · [2-minute guided tour](https://phlppgdfry.github.io/skills-intelligence-implementation-case/demo/?tour)
+
 The customer, **Norvane Group**, is fictional: a Belgian electrification manufacturer with about 9,000 people that bought the German company **Keldorf Systems**. Norvane runs on Workday and Keldorf still runs on SAP SuccessFactors. Engineering works in Jira, everyone works in Microsoft Teams, and people analytics runs on Visier. All data is synthetic: the dataset models the 266-person electrification division that goes first. The skills engine in `skillslayer/` is a transparent stand-in that I wrote. It is **not** any vendor's model. It exists so that everything around the model can be built and measured: connectors, identity, readiness, governance, validation, write-back and evals. That surrounding work is the implementation consultant's job.
 
 ---
